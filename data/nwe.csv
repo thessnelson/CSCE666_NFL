@@ -1,0 +1,17 @@
+year,week_num,game_day_of_week,game_time,opp,first_down_off,pass_yds_off,rush_yds_off,to_off,first_down_def,pass_yds_def,rush_yds_def,to_def,result
+2017,1,Thu,8:30PM ET,Kansas City Chiefs,25,247,124,0,26,352,185,1,L
+2017,2,Sun,1:00PM ET,New Orleans Saints,29,436,119,0,20,348,81,0,W
+2017,3,Sun,1:00PM ET,Houston Texans,21,337,59,1,23,292,125,2,W
+2017,4,Sun,1:00PM ET,Carolina Panthers,24,293,80,0,28,304,140,2,L
+2017,5,Thu,8:25PM ET,Tampa Bay Buccaneers,23,289,113,2,26,319,90,0,W
+2017,6,Sun,1:00PM ET,New York Jets,23,257,118,2,23,334,74,3,W
+2017,7,Sun,8:30PM ET,Atlanta Falcons,25,241,162,0,21,223,120,0,W
+2017,8,Sun,1:00PM ET,Los Angeles Chargers,27,317,97,0,16,192,157,1,W
+2017,10,Sun,8:30PM ET,Denver Broncos,28,297,99,0,17,221,118,2,W
+2017,11,Sun,4:25PM ET,Oakland Raiders,25,332,89,0,21,235,109,2,W
+2017,12,Sun,1:00PM ET,Miami Dolphins,25,221,196,2,15,154,67,3,W
+2017,13,Sun,1:00PM ET,Buffalo Bills,23,244,191,1,16,85,183,1,W
+2017,14,Mon,8:30PM ET,Miami Dolphins,14,223,25,2,21,242,120,0,L
+2017,15,Sun,4:25PM ET,Pittsburgh Steelers,21,283,77,1,21,270,143,1,W
+2017,16,Sun,1:00PM ET,Buffalo Bills,28,218,193,1,17,242,84,0,W
+2017,17,Sun,1:00PM ET,New York Jets,28,183,147,0,14,207,40,0,W

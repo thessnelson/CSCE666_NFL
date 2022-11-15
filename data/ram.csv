@@ -1,0 +1,34 @@
+year,week_num,game_day_of_week,game_time,opp,first_down_off,pass_yds_off,rush_yds_off,to_off,first_down_def,pass_yds_def,rush_yds_def,to_def,result
+1940,3,Sun,0,Philadelphia Eagles,9,107,122,1,11,196,43,4,W
+1940,4,Sun,0,Detroit Lions,5,106,40,8,13,54,172,5,L
+1940,5,Sun,0,Chicago Bears,10,158,75,3,13,53,187,4,L
+1940,6,Sun,0,Green Bay Packers,16,265,77,5,18,327,86,5,L
+1940,7,Sun,0,Chicago Cardinals,7,177,153,3,12,63,196,6,W
+1940,8,Sun,0,Chicago Cardinals,8,54,93,4,14,77,146,4,L
+1940,9,Sun,0,Detroit Lions,16,131,177,1,12,149,112,6,W
+1940,10,Sun,0,New York Giants,4,36,84,2,15,44,202,4,W
+1940,11,Sun,0,Brooklyn Dodgers,15,145,140,5,9,114,126,3,L
+1940,12,Sun,0,Chicago Bears,11,209,73,4,15,295,134,2,L
+1940,13,Sun,0,Green Bay Packers,10,148,80,4,18,156,208,3,T
+1941,1,Sun,0,Pittsburgh Steelers,10,125,69,3,8,58,141,7,W
+1941,2,Tue,0,Chicago Cardinals,4,90,80,2,11,114,118,3,W
+1941,3,Sun,0,Green Bay Packers,6,85,75,6,15,46,238,2,L
+1941,5,Sun,0,Chicago Bears,14,145,80,4,11,242,147,2,L
+1941,6,Sun,0,Detroit Lions,9,54,74,2,10,119,132,1,L
+1941,7,Sun,0,Green Bay Packers,15,188,102,3,16,285,109,3,L
+1941,8,Sun,0,Washington Redskins,12,133,44,2,9,79,62,2,L
+1941,9,Sun,0,Detroit Lions,9,151,50,5,6,25,96,0,L
+1941,10,Sun,0,Chicago Bears,12,140,137,4,24,201,247,2,L
+1941,11,Sun,0,New York Giants,14,141,176,6,13,198,187,2,L
+1941,12,Sun,0,Chicago Cardinals,6,91,103,5,7,83,48,2,L
+1942,1,Sun,0,Chicago Cardinals,11,161,160,3,10,99,150,1,L
+1942,2,Sun,0,Philadelphia Eagles,12,200,96,2,14,90,145,2,W
+1942,3,Sun,0,Detroit Lions,10,106,116,3,9,57,107,5,W
+1942,4,Sun,0,Chicago Bears,7,128,20,4,12,179,118,4,L
+1942,5,Sun,0,Washington Redskins,5,132,-29,3,15,143,187,4,L
+1942,6,Sun,0,Green Bay Packers,15,254,134,2,26,330,209,0,L
+1942,7,Sun,0,Chicago Cardinals,9,93,60,3,13,114,100,4,W
+1942,8,Sun,0,Brooklyn Dodgers,8,159,45,2,14,94,174,5,W
+1942,9,Sun,0,Green Bay Packers,12,96,138,7,21,197,140,3,L
+1942,10,Sun,0,Detroit Lions,8,160,125,2,17,114,232,3,W
+1942,12,Sun,0,Chicago Bears,6,48,10,4,14,323,183,3,L

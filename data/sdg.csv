@@ -1,0 +1,950 @@
+year,week_num,game_day_of_week,game_time,opp,first_down_off,pass_yds_off,rush_yds_off,to_off,first_down_def,pass_yds_def,rush_yds_def,to_def,result
+1960,1,Sat,0,Dallas Texans,22,295,59,1,21,210,84,1,W
+1960,2,Sun,0,Houston Oilers,22,329,28,4,22,93,284,2,L
+1960,3,Sun,0,Dallas Texans,16,60,151,6,20,167,91,3,L
+1960,4,Sun,0,Buffalo Bills,12,61,98,2,18,96,142,4,W
+1960,5,Sat,0,Boston Patriots,14,167,33,5,17,176,177,1,L
+1960,6,Sun,0,Denver Broncos,16,178,140,3,14,129,104,4,W
+1960,8,Fri,0,Boston Patriots,15,237,219,2,16,185,46,3,W
+1960,9,Fri,0,New York Titans,16,177,160,2,12,127,89,6,W
+1960,10,Sun,0,Houston Oilers,26,261,151,4,24,337,49,5,W
+1960,11,Sun,0,Buffalo Bills,11,107,78,8,14,165,83,2,L
+1960,12,Sun,0,Oakland Raiders,31,298,241,2,22,180,100,2,W
+1960,13,Sun,0,Oakland Raiders,16,268,131,0,21,227,165,4,W
+1960,14,Sat,0,Denver Broncos,22,166,181,2,20,281,110,4,W
+1960,15,Sun,0,New York Titans,24,209,230,4,18,184,148,4,W
+1961,1,Sun,0,Dallas Texans,17,167,198,2,16,83,209,6,W
+1961,2,Sun,0,Oakland Raiders,23,183,203,0,13,21,85,6,W
+1961,3,Sun,0,Houston Oilers,7,108,50,1,19,300,72,7,W
+1961,4,Sat,0,Buffalo Bills,15,140,162,1,15,137,102,2,W
+1961,5,Sat,0,Boston Patriots,19,315,84,3,17,148,105,3,W
+1961,6,Sun,0,New York Titans,19,299,123,5,14,140,62,5,W
+1961,7,Sun,0,Oakland Raiders,20,116,218,3,6,56,2,6,W
+1961,8,Sun,0,Denver Broncos,13,211,101,5,14,228,76,7,W
+1961,9,Sun,0,New York Titans,17,169,184,4,16,111,90,6,W
+1961,10,Sun,0,Denver Broncos,13,153,56,3,19,272,86,5,W
+1961,11,Sun,0,Dallas Texans,13,335,3,3,17,180,108,3,W
+1961,13,Sun,0,Houston Oilers,14,271,35,4,22,351,122,3,L
+1961,14,Sun,0,Buffalo Bills,7,190,47,2,18,180,99,4,W
+1961,15,Sun,0,Boston Patriots,11,190,2,6,18,156,139,3,L
+1962,1,Fri,0,Denver Broncos,14,112,96,1,28,384,121,3,L
+1962,2,Sun,0,New York Titans,13,187,110,2,20,165,83,6,W
+1962,3,Sun,0,Houston Oilers,15,292,45,3,27,155,277,1,L
+1962,4,Sun,0,Oakland Raiders,15,179,205,3,14,125,141,3,W
+1962,5,Sun,0,Dallas Texans,22,233,138,1,10,139,74,3,W
+1962,6,Sat,0,Buffalo Bills,12,72,43,4,17,136,303,3,L
+1962,7,Fri,0,Boston Patriots,11,170,90,4,20,137,175,2,L
+1962,8,Sun,0,New York Titans,10,145,38,6,13,275,70,2,L
+1962,9,Sun,0,Denver Broncos,16,162,151,4,21,200,51,3,L
+1962,10,Sun,0,Buffalo Bills,21,206,164,5,20,124,211,2,L
+1962,12,Sun,0,Houston Oilers,18,241,153,3,10,228,47,7,L
+1962,13,Sun,0,Oakland Raiders,23,150,185,2,12,296,76,3,W
+1962,14,Sun,0,Boston Patriots,10,101,86,3,15,147,140,2,L
+1962,15,Sun,0,Dallas Texans,17,184,143,7,19,104,134,2,L
+1963,1,Sun,0,Buffalo Bills,17,239,131,1,19,190,116,4,W
+1963,2,Sat,0,Boston Patriots,11,164,76,2,19,139,164,2,W
+1963,4,Sun,0,Kansas City Chiefs,17,140,154,1,12,137,27,4,W
+1963,5,Sun,0,Denver Broncos,15,317,95,7,24,229,205,2,L
+1963,6,Sun,0,New York Jets,22,223,287,3,16,203,63,0,W
+1963,7,Sun,0,Kansas City Chiefs,18,255,147,0,17,247,78,3,W
+1963,8,Sun,0,Oakland Raiders,18,146,234,6,13,117,179,3,L
+1963,9,Sat,0,New York Jets,25,371,157,1,15,196,39,4,W
+1963,10,Sun,0,Boston Patriots,12,239,32,2,15,188,103,5,W
+1963,11,Sun,0,Buffalo Bills,16,156,199,2,22,239,119,3,W
+1963,13,Sun,0,Houston Oilers,24,137,212,4,14,141,102,5,W
+1963,14,Sun,0,Oakland Raiders,17,291,45,3,24,252,154,0,L
+1963,15,Sun,0,Houston Oilers,14,85,162,2,13,247,42,4,W
+1963,16,Sun,0,Denver Broncos,23,181,270,2,16,154,77,6,W
+1964,1,Sat,0,Houston Oilers,22,235,93,1,28,240,121,1,W
+1964,2,Sun,0,Boston Patriots,13,194,84,5,18,97,116,2,L
+1964,3,Sat,0,Buffalo Bills,15,120,128,3,14,163,109,2,L
+1964,4,Sat,0,New York Jets,17,205,88,4,14,273,47,2,T
+1964,5,Fri,0,Boston Patriots,21,252,123,3,18,156,105,5,W
+1964,6,Sun,0,Denver Broncos,26,214,272,1,14,79,107,2,W
+1964,7,Sun,0,Houston Oilers,20,243,102,2,22,304,94,2,W
+1964,8,Sun,0,Oakland Raiders,20,331,99,4,18,270,61,7,W
+1964,9,Sun,0,Denver Broncos,19,127,112,3,13,158,121,5,W
+1964,10,Sun,0,Kansas City Chiefs,12,238,95,1,19,149,72,5,W
+1964,12,Thu,0,Buffalo Bills,11,282,52,7,18,133,140,2,L
+1964,13,Sun,0,New York Jets,23,322,144,2,9,77,36,4,W
+1964,14,Sun,0,Kansas City Chiefs,13,110,74,6,22,213,178,1,L
+1964,15,Sun,0,Oakland Raiders,18,255,109,3,22,206,215,4,L
+1965,1,Sat,0,Denver Broncos,19,293,166,3,21,179,151,2,W
+1965,2,Sun,0,Oakland Raiders,18,136,180,0,12,97,36,4,W
+1965,3,Sun,0,Kansas City Chiefs,12,94,92,4,8,87,122,3,T
+1965,4,Sun,0,Houston Oilers,26,222,271,0,12,146,47,1,W
+1965,5,Sun,0,Buffalo Bills,18,369,89,2,8,93,57,6,W
+1965,6,Sun,0,Boston Patriots,15,168,116,2,7,141,37,2,T
+1965,7,Sat,0,New York Jets,17,190,152,2,15,222,79,4,W
+1965,8,Sun,0,Boston Patriots,17,150,80,4,10,120,133,3,L
+1965,9,Sun,0,Denver Broncos,21,264,176,2,22,202,74,3,W
+1965,10,Sun,0,Kansas City Chiefs,14,252,78,7,14,129,149,2,L
+1965,12,Thu,0,Buffalo Bills,23,309,52,5,13,194,47,3,T
+1965,13,Sat,0,New York Jets,23,229,174,3,12,156,41,4,W
+1965,14,Sun,0,Houston Oilers,18,136,225,2,13,202,19,2,W
+1965,15,Sun,0,Oakland Raiders,18,291,147,3,20,198,102,3,W
+1966,1,Sun,0,Buffalo Bills,15,153,137,0,15,150,117,3,W
+1966,2,Sat,0,Boston Patriots,12,141,138,0,15,122,130,4,W
+1966,4,Sun,0,Oakland Raiders,12,143,133,2,18,153,109,4,W
+1966,5,Sun,0,Miami Dolphins,14,321,40,2,16,89,187,2,W
+1966,6,Sat,0,New York Jets,23,350,95,1,12,129,119,3,L
+1966,7,Sun,0,Buffalo Bills,12,169,50,0,22,107,213,2,T
+1966,8,Sun,0,Boston Patriots,16,289,40,3,22,242,172,4,L
+1966,9,Sun,0,Denver Broncos,21,180,154,2,15,155,125,0,W
+1966,10,Sun,0,Kansas City Chiefs,14,203,84,2,24,143,159,2,L
+1966,11,Sun,0,Oakland Raiders,16,167,151,2,20,258,219,0,L
+1966,13,Sun,0,Denver Broncos,16,200,86,2,16,173,170,3,L
+1966,14,Sun,0,Houston Oilers,15,302,76,3,23,152,243,2,W
+1966,15,Sun,0,New York Jets,25,203,222,1,20,189,146,4,W
+1966,16,Sun,0,Kansas City Chiefs,19,195,131,2,22,93,294,2,L
+1967,2,Sat,0,Boston Patriots,14,268,62,2,17,194,128,4,W
+1967,4,Sun,0,Houston Oilers,17,206,119,1,13,90,76,2,W
+1967,5,Sun,0,Buffalo Bills,26,282,202,0,12,193,54,3,W
+1967,6,Sun,0,Boston Patriots,17,224,61,1,21,264,123,1,T
+1967,7,Sun,0,Kansas City Chiefs,24,307,145,2,20,324,121,4,W
+1967,8,Sun,0,Denver Broncos,22,335,155,2,11,206,49,1,W
+1967,9,Sun,0,Oakland Raiders,16,287,54,5,18,310,127,2,L
+1967,11,Sun,0,Miami Dolphins,17,229,103,4,13,122,121,1,W
+1967,12,Sun,0,Kansas City Chiefs,20,139,188,3,16,222,75,0,W
+1967,13,Thu,0,Denver Broncos,14,204,96,2,21,246,112,3,W
+1967,14,Sun,0,Oakland Raiders,19,303,115,3,21,325,135,0,L
+1967,15,Sun,0,Miami Dolphins,15,182,87,6,24,164,161,1,L
+1967,16,Sat,0,Houston Oilers,19,198,98,0,21,176,158,1,L
+1967,17,Sun,0,New York Jets,19,246,230,3,23,316,113,0,L
+1968,1,Fri,0,Cincinnati Bengals,27,325,229,2,13,104,122,2,W
+1968,3,Sat,0,Houston Oilers,20,250,97,3,19,161,124,3,W
+1968,4,Sun,0,Cincinnati Bengals,18,201,101,1,14,129,66,2,W
+1968,5,Sat,0,New York Jets,15,319,28,4,19,220,82,0,L
+1968,6,Sun,0,Oakland Raiders,20,214,170,1,11,215,45,5,W
+1968,7,Sun,0,Denver Broncos,20,370,211,1,26,295,181,5,W
+1968,8,Sun,0,Kansas City Chiefs,22,297,98,4,15,180,194,1,L
+1968,9,Sun,0,Miami Dolphins,28,240,239,2,19,238,114,1,W
+1968,10,Sun,0,Boston Patriots,11,175,144,4,11,107,121,4,W
+1968,11,Sun,0,Buffalo Bills,15,206,76,5,7,61,90,1,W
+1968,12,Sun,0,New York Jets,12,190,45,4,22,368,142,1,L
+1968,13,Sun,0,Denver Broncos,27,335,161,1,15,177,110,2,W
+1968,14,Sun,0,Kansas City Chiefs,17,136,75,7,20,188,183,4,L
+1968,15,Sun,0,Oakland Raiders,18,365,91,6,14,249,67,4,L
+1969,1,Sun,0,Kansas City Chiefs,16,250,45,5,14,206,67,3,L
+1969,2,Sun,0,Cincinnati Bengals,17,215,180,1,19,292,180,2,L
+1969,3,Sun,0,New York Jets,22,268,150,1,24,333,81,2,W
+1969,4,Sat,0,Cincinnati Bengals,23,214,199,3,8,70,151,1,W
+1969,5,Sat,0,Miami Dolphins,15,155,126,1,16,138,67,3,W
+1969,6,Sun,0,Boston Patriots,24,163,171,2,11,90,127,2,W
+1969,7,Sun,0,Oakland Raiders,20,182,71,4,19,228,171,3,L
+1969,8,Sun,0,Denver Broncos,10,20,50,0,19,199,114,2,L
+1969,9,Sun,0,Kansas City Chiefs,10,104,70,5,17,209,99,3,L
+1969,10,Sun,0,Oakland Raiders,17,107,117,3,13,235,74,4,L
+1969,11,Sun,0,Denver Broncos,27,227,235,2,23,329,34,3,W
+1969,12,Thu,0,Houston Oilers,20,186,139,3,18,103,109,3,W
+1969,13,Sun,0,Boston Patriots,24,240,190,3,16,183,110,4,W
+1969,14,Sun,0,Buffalo Bills,30,295,242,1,15,180,58,2,W
+1970,1,Sun,4:00PM ET,Baltimore Colts,15,205,83,1,19,202,101,3,L
+1970,2,Sun,4:00PM ET,Oakland Raiders,17,211,133,3,23,267,138,0,T
+1970,3,Sun,4:00PM ET,Los Angeles Rams,12,93,54,4,12,122,155,1,L
+1970,4,Mon,9:00PM ET,Green Bay Packers,14,40,217,5,19,141,200,2,L
+1970,5,Sun,2:00PM ET,Chicago Bears,20,274,83,0,15,117,100,2,W
+1970,6,Sun,4:00PM ET,Houston Oilers,16,157,76,2,25,263,185,3,T
+1970,7,Sun,1:00PM ET,Cleveland Browns,16,190,131,0,19,151,158,4,W
+1970,8,Sun,4:00PM ET,Denver Broncos,18,144,91,0,21,151,190,1,W
+1970,9,Sun,1:00PM ET,Boston Patriots,15,238,29,0,15,84,95,2,W
+1970,10,Sun,4:00PM ET,Oakland Raiders,20,155,176,2,22,213,183,1,L
+1970,11,Sun,4:00PM ET,Kansas City Chiefs,10,161,35,2,16,191,138,1,L
+1970,12,Sun,4:00PM ET,Cincinnati Bengals,21,167,113,4,11,0,136,1,L
+1970,13,Sun,4:00PM ET,Denver Broncos,15,145,86,1,14,152,112,3,T
+1970,14,Sun,4:00PM ET,Kansas City Chiefs,22,323,143,1,14,161,76,0,W
+1971,1,Sun,4:00PM ET,Kansas City Chiefs,21,254,102,1,17,115,116,2,W
+1971,2,Sun,4:00PM ET,Oakland Raiders,13,153,73,5,20,163,212,1,L
+1971,3,Sun,1:00PM ET,Pittsburgh Steelers,28,258,169,4,16,157,125,1,L
+1971,4,Sun,2:00PM ET,Kansas City Chiefs,11,125,54,2,21,167,221,0,L
+1971,5,Sun,4:00PM ET,Denver Broncos,15,212,76,4,17,71,225,2,L
+1971,6,Sat,9:00PM ET,Buffalo Bills,22,248,198,5,11,37,152,2,W
+1971,7,Sun,4:00PM ET,New York Jets,20,358,165,2,19,94,169,4,W
+1971,8,Sun,1:00PM ET,New York Giants,18,227,92,3,21,260,157,1,L
+1971,9,Mon,9:00PM ET,St. Louis Cardinals,21,249,140,3,21,214,132,3,W
+1971,10,Sun,4:00PM ET,Oakland Raiders,22,312,96,2,21,190,170,1,L
+1971,11,Sun,1:00PM ET,Cincinnati Bengals,8,83,47,6,28,238,173,2,L
+1971,12,Sun,4:00PM ET,Minnesota Vikings,21,165,149,1,19,173,142,5,W
+1971,13,Sun,4:00PM ET,Denver Broncos,24,343,155,1,19,163,167,3,W
+1971,14,Sun,2:00PM ET,Houston Oilers,20,147,88,4,22,220,135,5,L
+1972,1,Sun,4:00PM ET,San Francisco 49ers,13,171,87,5,18,178,117,2,L
+1972,2,Sun,4:00PM ET,Denver Broncos,18,175,142,2,17,218,95,6,W
+1972,3,Sun,4:00PM ET,Oakland Raiders,20,149,196,3,15,142,90,1,T
+1972,4,Sun,2:00PM ET,Baltimore Colts,24,137,213,5,19,120,145,3,W
+1972,5,Sun,1:00PM ET,Miami Dolphins,15,110,133,3,14,86,153,1,L
+1972,6,Sun,1:00PM ET,Detroit Lions,17,143,82,3,24,142,182,2,L
+1972,7,Sun,4:00PM ET,Kansas City Chiefs,16,199,81,5,15,134,134,2,L
+1972,8,Sun,4:00PM ET,Dallas Cowboys,17,202,144,4,17,169,100,2,L
+1972,9,Mon,9:00PM ET,Cleveland Browns,24,136,191,3,18,175,124,1,L
+1972,10,Sun,2:00PM ET,Kansas City Chiefs,17,186,108,0,22,264,99,6,W
+1972,11,Sun,4:00PM ET,Houston Oilers,23,137,230,1,18,162,51,1,W
+1972,12,Sun,4:00PM ET,Oakland Raiders,26,207,233,2,17,202,96,3,L
+1972,13,Sun,2:00PM ET,Denver Broncos,20,236,99,5,15,85,172,3,L
+1972,14,Sun,4:00PM ET,Pittsburgh Steelers,12,116,56,7,15,131,115,1,L
+1973,1,Sun,1:00PM ET,Washington Redskins,10,7,128,7,13,128,83,2,L
+1973,2,Sun,4:00PM ET,Buffalo Bills,17,249,105,1,16,139,148,4,W
+1973,3,Sun,4:00PM ET,Cincinnati Bengals,17,177,114,4,19,215,202,2,L
+1973,4,Sun,1:00PM ET,Pittsburgh Steelers,20,181,167,6,15,132,154,5,L
+1973,5,Sun,4:00PM ET,Oakland Raiders,18,179,90,4,20,187,180,2,L
+1973,6,Sun,4:00PM ET,Atlanta Falcons,11,88,89,5,25,142,196,2,L
+1973,7,Sun,1:00PM ET,Cleveland Browns,16,135,204,2,13,66,118,3,T
+1973,8,Sun,4:00PM ET,Kansas City Chiefs,11,99,91,4,17,144,188,1,L
+1973,9,Sun,4:00PM ET,Denver Broncos,14,101,120,2,21,234,179,3,L
+1973,10,Sun,4:00PM ET,New Orleans Saints,14,102,186,2,22,199,142,3,W
+1973,11,Sun,4:00PM ET,Oakland Raiders,13,118,117,2,22,165,155,2,L
+1973,12,Sun,1:00PM ET,New England Patriots,11,44,187,3,22,175,184,5,L
+1973,13,Sun,4:00PM ET,Denver Broncos,14,215,126,3,23,231,192,0,L
+1973,14,Sun,2:00PM ET,Kansas City Chiefs,12,113,90,6,19,97,143,0,L
+1974,1,Sun,2:00PM ET,Houston Oilers,23,195,216,5,19,193,156,1,L
+1974,2,Sun,1:00PM ET,Cincinnati Bengals,20,173,130,0,23,163,210,2,W
+1974,3,Sun,4:00PM ET,Miami Dolphins,19,189,203,1,25,218,173,2,L
+1974,4,Sun,4:00PM ET,Philadelphia Eagles,19,126,160,5,19,112,143,1,L
+1974,5,Sun,4:00PM ET,Oakland Raiders,18,112,184,1,21,162,202,1,L
+1974,6,Sun,4:00PM ET,Denver Broncos,16,149,84,3,20,165,189,1,L
+1974,7,Sun,4:00PM ET,Kansas City Chiefs,20,211,193,4,20,149,262,2,L
+1974,8,Sun,4:00PM ET,Cleveland Browns,16,321,103,3,20,186,108,2,W
+1974,9,Sun,1:00PM ET,Kansas City Chiefs,13,111,143,2,17,347,81,3,W
+1974,10,Sun,4:00PM ET,Oakland Raiders,17,144,164,0,21,240,132,2,L
+1974,11,Sun,2:00PM ET,Green Bay Packers,13,84,109,3,15,224,73,1,L
+1974,12,Sun,1:00PM ET,New York Jets,14,150,153,3,21,261,114,2,L
+1974,13,Sun,4:00PM ET,Chicago Bears,16,149,106,1,18,136,144,3,W
+1974,14,Sun,4:00PM ET,Denver Broncos,21,190,163,2,13,114,173,5,W
+1975,1,Sun,4:00PM ET,Pittsburgh Steelers,9,58,88,4,24,238,205,2,L
+1975,2,Sun,2:00PM ET,Houston Oilers,12,144,60,3,24,151,251,1,L
+1975,3,Sun,4:00PM ET,Oakland Raiders,5,-22,115,2,17,72,192,2,L
+1975,4,Sun,4:00PM ET,Los Angeles Rams,16,144,128,1,24,199,224,2,L
+1975,5,Sun,4:00PM ET,Kansas City Chiefs,16,61,155,2,15,219,137,1,L
+1975,6,Sun,4:00PM ET,Oakland Raiders,12,17,140,1,23,177,177,1,L
+1975,7,Sat,1:00PM ET,New York Giants,18,167,182,1,22,183,165,2,L
+1975,8,Sun,4:00PM ET,New England Patriots,18,279,79,2,24,224,120,3,L
+1975,9,Sun,4:00PM ET,Denver Broncos,17,202,105,2,22,225,112,2,L
+1975,10,Sun,2:00PM ET,Minnesota Vikings,13,147,81,2,25,191,162,2,L
+1975,11,Sun,4:00PM ET,Denver Broncos,3,64,59,2,24,8,328,6,L
+1975,12,Sun,2:00PM ET,Kansas City Chiefs,21,165,247,4,17,169,63,3,W
+1975,13,Mon,9:00PM ET,New York Jets,23,109,249,0,24,182,139,3,W
+1975,14,Sun,1:00PM ET,Cincinnati Bengals,15,75,113,3,27,272,167,4,L
+1976,1,Sun,2:00PM ET,Kansas City Chiefs,27,200,267,0,19,217,113,4,W
+1976,2,Sun,1:00PM ET,Tampa Bay Buccaneers,16,131,195,2,5,-4,129,4,W
+1976,3,Sun,4:00PM ET,St. Louis Cardinals,24,245,206,0,22,240,124,5,W
+1976,4,Sun,4:00PM ET,Denver Broncos,12,152,88,3,17,170,141,2,L
+1976,5,Sun,4:00PM ET,Oakland Raiders,22,229,154,1,22,323,153,1,L
+1976,6,Sun,4:00PM ET,Houston Oilers,24,245,223,2,16,329,51,1,W
+1976,7,Sun,1:00PM ET,Cleveland Browns,19,232,78,1,22,237,137,2,L
+1976,8,Sun,1:00PM ET,Pittsburgh Steelers,7,90,44,5,20,106,255,3,L
+1976,9,Sun,4:00PM ET,Baltimore Colts,23,230,63,1,26,300,181,1,L
+1976,10,Sun,4:00PM ET,Denver Broncos,8,95,33,6,13,194,61,2,L
+1976,11,Sun,1:00PM ET,Buffalo Bills,20,198,184,4,14,71,148,3,W
+1976,12,Sun,4:00PM ET,Kansas City Chiefs,24,190,210,4,20,191,177,2,L
+1976,13,Sun,4:00PM ET,San Francisco 49ers,19,97,170,0,18,96,185,1,W
+1976,14,Sun,4:00PM ET,Oakland Raiders,11,82,125,2,25,158,193,0,L
+1977,1,Sun,4:00PM ET,Oakland Raiders,7,62,59,3,21,139,178,1,L
+1977,2,Sun,2:00PM ET,Kansas City Chiefs,20,73,214,3,9,74,75,3,W
+1977,3,Sun,4:00PM ET,Cincinnati Bengals,25,220,165,2,15,127,92,4,W
+1977,4,Sun,2:00PM ET,New Orleans Saints,14,137,132,2,18,43,157,2,W
+1977,5,Sun,4:00PM ET,New England Patriots,16,230,53,2,22,69,256,1,L
+1977,6,Sun,4:00PM ET,Kansas City Chiefs,19,226,116,4,19,170,115,2,L
+1977,7,Sun,1:00PM ET,Miami Dolphins,14,122,90,3,15,63,178,5,W
+1977,8,Sun,4:00PM ET,Detroit Lions,14,118,111,0,15,67,197,0,L
+1977,9,Sun,4:00PM ET,Denver Broncos,13,192,128,2,14,120,102,3,L
+1977,10,Sun,4:00PM ET,Oakland Raiders,18,47,263,2,10,30,112,1,W
+1977,11,Sun,4:00PM ET,Seattle Seahawks,21,192,131,1,20,281,109,3,W
+1977,12,Sun,4:00PM ET,Cleveland Browns,23,258,167,0,17,208,111,1,W
+1977,13,Sun,4:00PM ET,Denver Broncos,17,260,64,3,20,142,156,3,L
+1977,14,Sun,4:00PM ET,Pittsburgh Steelers,14,107,68,4,13,192,89,2,L
+1978,1,Sun,4:00PM ET,Seattle Seahawks,16,186,89,2,22,308,138,2,W
+1978,2,Sun,4:00PM ET,Oakland Raiders,24,175,197,0,18,280,84,4,L
+1978,3,Sun,4:00PM ET,Denver Broncos,18,214,101,2,21,177,137,0,L
+1978,4,Sun,4:00PM ET,Green Bay Packers,20,154,91,11,9,9,118,2,L
+1978,5,Sun,1:00PM ET,New England Patriots,18,162,160,3,19,198,101,1,L
+1978,6,Sun,4:00PM ET,Denver Broncos,19,170,128,2,11,80,76,5,W
+1978,7,Sun,4:00PM ET,Miami Dolphins,20,287,117,5,17,122,139,1,L
+1978,8,Sun,2:00PM ET,Detroit Lions,16,215,89,6,29,188,273,2,L
+1978,9,Sun,4:00PM ET,Oakland Raiders,22,163,161,2,15,87,147,1,W
+1978,10,Sun,4:00PM ET,Cincinnati Bengals,20,149,173,0,12,92,156,3,W
+1978,11,Sun,4:00PM ET,Kansas City Chiefs,24,188,197,2,26,198,205,1,W
+1978,12,Sun,1:00PM ET,Minnesota Vikings,19,163,124,3,17,209,63,4,W
+1978,13,Sun,2:00PM ET,Kansas City Chiefs,11,164,75,6,19,115,238,3,L
+1978,14,Mon,9:00PM ET,Chicago Bears,24,331,150,3,7,32,80,3,W
+1978,15,Sun,4:00PM ET,Seattle Seahawks,20,286,95,1,17,103,136,3,W
+1978,16,Sun,4:00PM ET,Houston Oilers,24,368,149,3,14,153,117,3,W
+1979,1,Sun,4:00PM ET,Seattle Seahawks,22,217,139,1,19,153,181,6,W
+1979,2,Sun,4:00PM ET,Oakland Raiders,20,209,140,3,16,186,97,3,W
+1979,3,Sun,4:00PM ET,Buffalo Bills,18,94,245,1,14,238,60,0,W
+1979,4,Sun,1:00PM ET,New England Patriots,15,193,39,2,20,140,151,2,L
+1979,5,Sun,4:00PM ET,San Francisco 49ers,22,246,71,2,14,122,120,3,W
+1979,6,Sun,4:00PM ET,Denver Broncos,19,305,69,4,11,33,160,1,L
+1979,7,Sun,4:00PM ET,Seattle Seahawks,19,295,96,0,18,147,133,1,W
+1979,8,Sun,4:00PM ET,Los Angeles Rams,17,326,65,2,24,233,104,8,W
+1979,9,Thu,9:00PM ET,Oakland Raiders,22,298,82,3,19,202,137,0,L
+1979,10,Sun,2:00PM ET,Kansas City Chiefs,23,229,86,2,17,164,119,4,W
+1979,11,Sun,1:00PM ET,Cincinnati Bengals,19,270,54,4,19,60,194,0,W
+1979,12,Sun,4:00PM ET,Pittsburgh Steelers,14,120,98,4,14,125,66,8,W
+1979,13,Sun,4:00PM ET,Kansas City Chiefs,30,325,135,1,9,125,65,1,W
+1979,14,Sun,4:00PM ET,Atlanta Falcons,22,324,86,2,22,222,153,2,L
+1979,15,Sun,4:00PM ET,New Orleans Saints,31,234,166,0,12,175,56,2,W
+1979,16,Mon,9:00PM ET,Denver Broncos,17,230,97,4,20,224,111,5,W
+1980,1,Sun,4:00PM ET,Seattle Seahawks,22,224,197,0,13,202,47,2,W
+1980,2,Sun,4:00PM ET,Oakland Raiders,30,372,76,7,25,249,186,4,W
+1980,3,Sun,4:00PM ET,Denver Broncos,16,211,92,3,22,221,153,7,W
+1980,4,Sun,4:00PM ET,Kansas City Chiefs,18,188,108,0,16,101,92,4,W
+1980,5,Sun,4:00PM ET,Buffalo Bills,19,214,86,4,14,83,119,1,L
+1980,6,Sun,4:00PM ET,Oakland Raiders,30,345,90,6,14,157,217,1,L
+1980,7,Sun,4:00PM ET,New York Giants,31,456,111,3,13,124,82,3,W
+1980,8,Sun,9:00PM ET,Dallas Cowboys,21,352,97,7,29,227,198,2,L
+1980,9,Sun,1:00PM ET,Cincinnati Bengals,21,263,126,0,21,207,113,3,W
+1980,10,Sun,4:00PM ET,Denver Broncos,26,324,135,3,11,131,88,0,L
+1980,11,Sun,4:00PM ET,Kansas City Chiefs,30,212,171,1,10,108,75,3,W
+1980,12,Thu,8:30PM ET,Miami Dolphins,22,221,142,1,21,222,103,3,W
+1980,13,Sun,4:00PM ET,Philadelphia Eagles,17,330,73,2,20,171,92,1,W
+1980,14,Sun,1:00PM ET,Washington Redskins,17,181,105,7,23,241,149,3,L
+1980,15,Sat,4:00PM ET,Seattle Seahawks,25,330,90,4,16,152,79,1,W
+1980,16,Mon,9:00PM ET,Pittsburgh Steelers,27,308,180,0,16,253,49,0,W
+1981,1,Mon,9:00PM ET,Cleveland Browns,28,330,205,0,27,366,53,2,W
+1981,2,Sun,4:00PM ET,Detroit Lions,17,310,57,2,26,207,178,2,W
+1981,3,Sun,2:00PM ET,Kansas City Chiefs,23,284,114,3,29,278,148,8,W
+1981,4,Sun,4:00PM ET,Denver Broncos,23,267,82,5,20,350,103,3,L
+1981,5,Sun,4:00PM ET,Seattle Seahawks,25,272,99,2,15,200,92,1,W
+1981,6,Sun,4:00PM ET,Minnesota Vikings,18,305,120,1,29,433,93,3,L
+1981,7,Sun,2:00PM ET,Baltimore Colts,30,298,172,1,18,196,68,3,W
+1981,8,Sun,4:00PM ET,Chicago Bears,15,295,61,2,28,219,195,1,L
+1981,9,Sun,4:00PM ET,Kansas City Chiefs,21,297,82,4,26,155,184,3,W
+1981,10,Sun,4:00PM ET,Cincinnati Bengals,25,311,136,5,29,337,124,2,L
+1981,11,Mon,9:00PM ET,Seattle Seahawks,26,291,195,4,24,212,156,0,L
+1981,12,Sun,4:00PM ET,Oakland Raiders,32,317,148,2,18,283,59,3,W
+1981,13,Sun,4:00PM ET,Denver Broncos,20,260,148,2,19,322,67,5,W
+1981,14,Sun,4:00PM ET,Buffalo Bills,28,337,145,2,19,234,84,0,L
+1981,15,Sun,1:00PM ET,Tampa Bay Buccaneers,27,351,94,4,18,290,114,3,W
+1981,16,Mon,9:00PM ET,Oakland Raiders,21,214,147,1,20,229,107,2,W
+1982,1,Sun,4:00PM ET,Denver Broncos,23,253,140,0,17,222,101,6,W
+1982,2,Sun,1:00PM ET,Kansas City Chiefs,16,204,78,3,20,182,100,1,L
+1982,11,Mon,9:00PM ET,Los Angeles Raiders,26,339,72,4,23,145,181,2,L
+1982,12,Sun,4:00PM ET,Denver Broncos,28,330,106,3,20,175,119,5,W
+1982,13,Sun,1:00PM ET,Cleveland Browns,24,252,130,2,24,308,90,2,W
+1982,14,Sat,4:00PM ET,San Francisco 49ers,28,444,94,0,29,366,99,2,W
+1982,15,Mon,9:00PM ET,Cincinnati Bengals,34,486,175,3,22,397,44,1,W
+1982,16,Sun,4:00PM ET,Baltimore Colts,25,338,169,3,20,300,70,5,W
+1982,17,Sun,4:00PM ET,Los Angeles Raiders,29,281,157,2,21,197,157,1,L
+1983,1,Sun,4:00PM ET,New York Jets,23,354,134,4,25,140,251,1,L
+1983,2,Mon,9:00PM ET,Kansas City Chiefs,27,251,192,3,13,222,45,2,W
+1983,3,Sun,4:00PM ET,Seattle Seahawks,23,332,99,3,24,162,206,3,L
+1983,4,Sun,4:00PM ET,Cleveland Browns,23,351,70,0,29,307,103,1,L
+1983,5,Sun,4:00PM ET,New York Giants,28,302,120,4,23,387,54,6,W
+1983,6,Sun,4:00PM ET,Seattle Seahawks,27,318,94,5,20,288,110,2,W
+1983,7,Sun,1:00PM ET,New England Patriots,27,341,86,4,24,178,169,0,L
+1983,8,Sun,4:00PM ET,Denver Broncos,17,193,106,3,21,133,128,4,L
+1983,9,Mon,9:00PM ET,Washington Redskins,21,307,121,8,24,313,169,1,L
+1983,10,Sun,1:00PM ET,Pittsburgh Steelers,11,159,59,4,19,132,156,2,L
+1983,11,Sun,4:00PM ET,Dallas Cowboys,21,332,23,1,25,291,98,0,W
+1983,12,Sun,1:00PM ET,St. Louis Cardinals,16,281,34,6,18,205,173,2,L
+1983,13,Sun,4:00PM ET,Denver Broncos,31,287,141,2,15,112,83,3,W
+1983,14,Thu,9:00PM ET,Los Angeles Raiders,18,248,74,4,19,181,142,2,L
+1983,15,Sun,4:00PM ET,Kansas City Chiefs,30,376,100,2,25,406,131,3,W
+1983,16,Sun,4:00PM ET,Los Angeles Raiders,18,229,83,2,23,325,155,1,L
+1984,1,Sun,1:00PM ET,Minnesota Vikings,27,396,130,2,12,91,115,4,W
+1984,2,Sun,4:00PM ET,Seattle Seahawks,21,318,97,8,21,257,173,2,L
+1984,3,Sun,4:00PM ET,Houston Oilers,29,330,147,1,14,257,27,1,W
+1984,4,Mon,9:00PM ET,Los Angeles Raiders,23,196,147,1,26,348,49,2,L
+1984,5,Sun,4:00PM ET,Detroit Lions,30,261,114,1,21,236,147,0,W
+1984,6,Sun,4:00PM ET,Green Bay Packers,29,352,107,0,18,368,47,2,W
+1984,7,Sun,1:00PM ET,Kansas City Chiefs,17,243,77,5,24,360,146,4,L
+1984,8,Sun,4:00PM ET,Los Angeles Raiders,30,379,85,5,23,328,170,3,L
+1984,9,Mon,9:00PM ET,Seattle Seahawks,16,153,48,4,18,274,81,3,L
+1984,10,Sun,1:00PM ET,Indianapolis Colts,24,283,119,2,13,205,90,5,W
+1984,11,Sun,4:00PM ET,Denver Broncos,20,254,112,1,17,177,62,0,L
+1984,12,Sun,4:00PM ET,Miami Dolphins,34,371,166,1,24,338,96,3,W
+1984,13,Sun,1:00PM ET,Pittsburgh Steelers,23,391,31,5,28,243,202,0,L
+1984,14,Mon,9:00PM ET,Chicago Bears,9,236,77,2,18,143,164,3,W
+1984,15,Sun,4:00PM ET,Denver Broncos,16,147,87,0,22,181,162,4,L
+1984,16,Sun,4:00PM ET,Kansas City Chiefs,26,333,110,0,23,279,120,0,L
+1985,1,Sun,4:00PM ET,Buffalo Bills,17,208,100,2,19,371,84,3,W
+1985,2,Sun,4:00PM ET,Seattle Seahawks,32,494,63,4,30,293,196,0,L
+1985,3,Sun,1:00PM ET,Cincinnati Bengals,26,344,173,3,32,296,152,5,W
+1985,4,Sun,4:00PM ET,Cleveland Browns,16,219,56,2,23,165,275,1,L
+1985,5,Sun,4:00PM ET,Seattle Seahawks,20,305,40,5,17,145,108,1,L
+1985,6,Sun,4:00PM ET,Kansas City Chiefs,22,287,63,3,14,277,48,3,W
+1985,7,Sun,1:00PM ET,Minnesota Vikings,23,163,132,4,27,298,62,3,L
+1985,8,Mon,9:00PM ET,Los Angeles Raiders,22,274,50,1,22,252,156,3,L
+1985,9,Sun,4:00PM ET,Denver Broncos,24,285,145,3,17,231,64,3,W
+1985,10,Sun,4:00PM ET,Los Angeles Raiders,29,426,167,1,26,289,165,3,W
+1985,11,Sun,4:00PM ET,Denver Broncos,22,245,95,4,21,240,91,2,L
+1985,12,Sun,1:00PM ET,Houston Oilers,29,323,116,5,26,278,137,2,L
+1985,13,Sun,4:00PM ET,Buffalo Bills,21,269,96,3,21,238,109,5,W
+1985,14,Sun,9:00PM ET,Pittsburgh Steelers,23,364,84,3,28,275,152,4,W
+1985,15,Sun,4:00PM ET,Philadelphia Eagles,22,323,94,3,22,307,75,3,W
+1985,16,Sun,1:00PM ET,Kansas City Chiefs,32,341,191,3,19,338,98,1,L
+1986,1,Sun,4:00PM ET,Miami Dolphins,31,276,224,0,20,294,45,4,W
+1986,2,Sun,1:00PM ET,New York Giants,18,221,41,7,25,257,134,1,L
+1986,3,Sun,4:00PM ET,Washington Redskins,26,204,147,3,19,333,92,1,L
+1986,4,Sun,4:00PM ET,Los Angeles Raiders,16,200,56,4,21,276,101,5,L
+1986,5,Mon,9:00PM ET,Seattle Seahawks,15,222,49,5,29,294,218,3,L
+1986,6,Sun,4:00PM ET,Denver Broncos,19,316,42,2,25,247,156,1,L
+1986,7,Sun,4:00PM ET,Kansas City Chiefs,35,381,131,5,13,158,64,1,L
+1986,8,Sun,1:00PM ET,Philadelphia Eagles,14,187,72,3,15,124,127,2,L
+1986,9,Sun,4:00PM ET,Kansas City Chiefs,14,34,191,5,16,233,49,3,L
+1986,10,Sun,4:00PM ET,Denver Broncos,14,147,78,2,12,184,61,5,W
+1986,11,Sun,4:00PM ET,Dallas Cowboys,19,242,65,2,20,153,101,1,L
+1986,12,Thu,8:00PM ET,Los Angeles Raiders,30,263,129,4,25,327,139,2,L
+1986,13,Sun,1:00PM ET,Indianapolis Colts,21,290,101,2,11,122,55,3,W
+1986,14,Sun,4:00PM ET,Houston Oilers,23,285,124,0,9,55,79,3,W
+1986,15,Sun,4:00PM ET,Seattle Seahawks,22,220,85,1,24,286,140,0,L
+1986,16,Sun,1:00PM ET,Cleveland Browns,17,292,41,4,24,345,117,2,L
+1987,1,Sun,1:00PM ET,Kansas City Chiefs,19,258,84,4,15,58,174,1,L
+1987,2,Sun,4:00PM ET,St. Louis Cardinals,17,152,130,2,24,412,59,2,W
+1987,4,Sun,1:00PM ET,Cincinnati Bengals,15,169,92,2,11,-13,219,0,W
+1987,5,Sun,1:00PM ET,Tampa Bay Buccaneers,22,260,125,3,7,70,131,1,W
+1987,6,Sun,4:00PM ET,Los Angeles Raiders,14,147,97,0,19,176,138,3,W
+1987,7,Sun,4:00PM ET,Kansas City Chiefs,30,277,114,2,21,305,66,5,W
+1987,8,Sun,4:00PM ET,Cleveland Browns,22,286,128,2,19,267,72,3,W
+1987,9,Sun,1:00PM ET,Indianapolis Colts,15,214,82,4,18,112,191,3,W
+1987,10,Sun,8:00PM ET,Los Angeles Raiders,16,134,114,1,12,215,150,2,W
+1987,11,Sun,4:00PM ET,Seattle Seahawks,6,139,17,4,34,219,277,1,L
+1987,12,Sun,4:00PM ET,Denver Broncos,18,312,66,2,31,347,175,1,L
+1987,13,Sun,1:00PM ET,Houston Oilers,19,289,43,4,21,184,140,1,L
+1987,14,Sun,4:00PM ET,Pittsburgh Steelers,27,321,114,5,14,150,104,1,L
+1987,15,Sun,4:00PM ET,Indianapolis Colts,17,214,59,3,19,194,146,0,L
+1987,16,Sun,4:00PM ET,Denver Broncos,7,108,43,5,15,86,129,4,L
+1988,1,Sun,4:00PM ET,Los Angeles Raiders,15,152,111,1,18,183,94,1,L
+1988,2,Sun,4:00PM ET,Denver Broncos,13,111,133,2,24,259,184,0,L
+1988,3,Sun,4:00PM ET,Seattle Seahawks,14,78,159,1,20,194,105,4,W
+1988,4,Sun,4:00PM ET,Kansas City Chiefs,19,138,165,1,20,237,94,2,W
+1988,5,Sun,4:00PM ET,Denver Broncos,11,170,20,2,22,162,129,1,L
+1988,6,Sun,4:00PM ET,New Orleans Saints,12,113,93,2,24,231,134,1,L
+1988,7,Sun,4:00PM ET,Miami Dolphins,23,283,113,4,25,329,46,1,L
+1988,8,Sun,4:00PM ET,Indianapolis Colts,14,121,118,1,28,255,198,3,L
+1988,9,Sun,4:00PM ET,Seattle Seahawks,18,169,130,3,16,109,126,0,L
+1988,10,Sun,8:00PM ET,Los Angeles Raiders,12,153,63,3,18,170,136,2,L
+1988,11,Sun,1:00PM ET,Atlanta Falcons,15,170,185,2,13,188,57,2,W
+1988,12,Sun,4:00PM ET,Los Angeles Rams,17,196,101,1,20,212,151,2,W
+1988,13,Sun,4:00PM ET,San Francisco 49ers,21,176,136,3,24,272,203,0,L
+1988,14,Sun,1:00PM ET,Cincinnati Bengals,14,123,88,4,21,145,207,2,L
+1988,15,Sun,4:00PM ET,Pittsburgh Steelers,17,144,180,0,20,172,130,3,W
+1988,16,Sun,4:00PM ET,Kansas City Chiefs,20,91,246,2,22,167,139,2,W
+1989,1,Sun,4:00PM ET,Los Angeles Raiders,16,134,171,1,23,258,160,1,L
+1989,2,Sun,4:00PM ET,Houston Oilers,24,372,41,5,26,235,132,0,L
+1989,3,Sun,4:00PM ET,Kansas City Chiefs,18,96,200,0,13,154,118,5,W
+1989,4,Sun,4:00PM ET,Phoenix Cardinals,13,165,103,0,17,232,69,4,W
+1989,5,Sun,4:00PM ET,Denver Broncos,12,93,118,2,24,179,156,1,L
+1989,6,Sun,4:00PM ET,Seattle Seahawks,26,263,99,4,15,139,85,3,L
+1989,7,Sun,4:00PM ET,New York Giants,9,128,51,1,24,218,109,2,L
+1989,8,Sun,4:00PM ET,Seattle Seahawks,11,103,92,1,23,269,70,2,L
+1989,9,Sun,4:00PM ET,Philadelphia Eagles,17,254,104,3,24,195,178,3,W
+1989,10,Sun,8:00PM ET,Los Angeles Raiders,12,66,136,2,15,161,134,3,W
+1989,11,Sun,1:00PM ET,Pittsburgh Steelers,20,225,134,3,14,103,88,1,L
+1989,12,Sun,1:00PM ET,Indianapolis Colts,14,137,177,1,11,205,59,2,L
+1989,13,Sun,4:00PM ET,New York Jets,14,187,71,2,19,68,181,4,L
+1989,14,Sun,1:00PM ET,Washington Redskins,21,350,77,1,20,302,87,1,L
+1989,15,Sun,1:00PM ET,Kansas City Chiefs,22,159,217,4,11,124,90,3,W
+1989,16,Sun,4:00PM ET,Denver Broncos,18,305,82,6,16,109,97,3,W
+1990,1,Sun,4:00PM ET,Dallas Cowboys,12,127,85,2,14,161,88,1,L
+1990,2,Sun,4:00PM ET,Cincinnati Bengals,17,278,139,3,18,223,79,3,L
+1990,3,Sun,1:00PM ET,Cleveland Browns,16,129,137,2,14,218,44,4,W
+1990,4,Sun,4:00PM ET,Houston Oilers,14,167,131,2,29,329,92,1,L
+1990,5,Sun,1:00PM ET,Pittsburgh Steelers,14,96,92,3,25,191,183,1,L
+1990,6,Sun,1:00PM ET,New York Jets,22,188,224,3,9,53,95,2,W
+1990,7,Sun,4:00PM ET,Los Angeles Raiders,16,150,139,0,17,173,116,1,L
+1990,8,Sun,4:00PM ET,Tampa Bay Buccaneers,17,157,157,1,8,119,38,7,W
+1990,9,Sun,4:00PM ET,Seattle Seahawks,15,145,144,0,17,129,65,3,W
+1990,10,Sun,4:00PM ET,Denver Broncos,17,159,181,0,15,149,62,2,W
+1990,11,Sun,1:00PM ET,Kansas City Chiefs,21,187,99,5,16,165,132,0,L
+1990,12,Sun,8:00PM ET,Seattle Seahawks,16,140,164,5,13,175,58,2,L
+1990,13,Sun,4:00PM ET,New York Jets,20,220,189,1,21,207,145,3,W
+1990,15,Sun,4:00PM ET,Denver Broncos,24,298,92,2,16,233,87,0,L
+1990,16,Sun,4:00PM ET,Kansas City Chiefs,17,151,104,2,21,251,117,0,L
+1990,17,Sun,4:00PM ET,Los Angeles Raiders,14,91,180,1,15,134,114,0,L
+1991,1,Sun,4:00PM ET,Pittsburgh Steelers,20,186,95,2,16,266,124,2,L
+1991,2,Sun,4:00PM ET,San Francisco 49ers,19,170,156,4,24,344,114,1,L
+1991,3,Sun,4:00PM ET,Atlanta Falcons,13,129,184,1,18,195,122,1,L
+1991,4,Sun,4:00PM ET,Denver Broncos,17,126,171,2,18,216,144,2,L
+1991,5,Sun,4:00PM ET,Kansas City Chiefs,17,155,156,0,12,96,86,1,L
+1991,6,Sun,4:00PM ET,Los Angeles Raiders,17,100,158,0,16,178,99,3,W
+1991,7,Sun,4:00PM ET,Los Angeles Rams,17,298,89,1,21,204,80,0,L
+1991,8,Sun,4:00PM ET,Cleveland Browns,29,305,132,3,17,294,70,0,L
+1991,9,Sun,4:00PM ET,Seattle Seahawks,19,192,128,0,15,127,75,2,L
+1991,11,Sun,4:00PM ET,Seattle Seahawks,16,213,102,0,18,350,37,3,W
+1991,12,Sun,4:00PM ET,New Orleans Saints,15,159,146,2,17,193,92,4,W
+1991,13,Sun,4:00PM ET,New York Jets,18,105,186,4,21,176,138,1,L
+1991,14,Sun,8:00PM ET,Los Angeles Raiders,12,124,75,3,14,122,161,3,L
+1991,15,Sun,1:00PM ET,Kansas City Chiefs,23,208,158,2,21,245,104,2,L
+1991,16,Sun,4:00PM ET,Miami Dolphins,20,170,198,0,23,273,75,2,W
+1991,17,Sun,4:00PM ET,Denver Broncos,13,107,114,4,21,166,145,1,L
+1992,1,Sun,4:00PM ET,Kansas City Chiefs,13,67,88,3,14,127,61,1,L
+1992,2,Sun,4:00PM ET,Denver Broncos,27,187,168,2,12,162,64,1,L
+1992,3,Sun,4:00PM ET,Pittsburgh Steelers,15,221,109,3,15,205,67,3,L
+1992,4,Sun,1:00PM ET,Houston Oilers,15,210,52,3,21,197,106,1,L
+1992,5,Sun,4:00PM ET,Seattle Seahawks,17,195,107,0,11,70,110,3,W
+1992,7,Sun,1:00PM ET,Indianapolis Colts,26,180,212,3,22,293,37,5,W
+1992,8,Sun,4:00PM ET,Denver Broncos,20,340,101,3,18,260,91,3,W
+1992,9,Sun,4:00PM ET,Indianapolis Colts,26,247,151,3,8,69,30,2,W
+1992,10,Sun,4:00PM ET,Kansas City Chiefs,17,238,57,4,11,104,107,0,L
+1992,11,Sun,1:00PM ET,Cleveland Browns,16,224,88,3,19,298,87,3,W
+1992,12,Sun,4:00PM ET,Tampa Bay Buccaneers,17,126,181,1,18,174,113,0,W
+1992,13,Sun,8:00PM ET,Los Angeles Raiders,20,164,169,1,15,170,154,2,W
+1992,14,Sun,4:00PM ET,Phoenix Cardinals,14,267,29,2,20,227,96,5,W
+1992,15,Sun,4:00PM ET,Cincinnati Bengals,22,209,161,2,15,156,67,2,W
+1992,16,Sun,4:00PM ET,Los Angeles Raiders,19,228,104,0,14,118,49,3,W
+1992,17,Sun,4:00PM ET,Seattle Seahawks,18,243,98,0,17,202,156,2,W
+1993,1,Sun,4:00PM ET,Seattle Seahawks,19,109,160,2,15,141,89,2,W
+1993,2,Sun,4:00PM ET,Denver Broncos,26,322,68,2,17,284,58,2,L
+1993,3,Sun,4:00PM ET,Houston Oilers,19,173,111,1,17,224,71,5,W
+1993,5,Sun,4:00PM ET,Seattle Seahawks,19,221,94,2,24,287,57,0,L
+1993,6,Sun,4:00PM ET,Pittsburgh Steelers,12,119,19,3,15,156,148,0,L
+1993,7,Sun,4:00PM ET,Kansas City Chiefs,18,190,79,1,20,264,83,1,L
+1993,9,Sun,4:00PM ET,Los Angeles Raiders,17,159,177,0,20,402,65,2,W
+1993,10,Sun,1:00PM ET,Minnesota Vikings,24,263,148,1,21,326,20,3,W
+1993,11,Sun,8:00PM ET,Chicago Bears,19,152,104,0,14,140,84,2,L
+1993,12,Sun,4:00PM ET,Los Angeles Raiders,13,95,59,1,24,270,158,2,L
+1993,13,Mon,9:00PM ET,Indianapolis Colts,31,227,247,0,16,207,55,3,W
+1993,14,Sun,4:00PM ET,Denver Broncos,20,203,95,0,14,138,86,2,W
+1993,15,Sun,8:00PM ET,Green Bay Packers,17,225,57,3,17,124,103,1,L
+1993,16,Sun,4:00PM ET,Kansas City Chiefs,20,174,94,3,20,217,104,3,L
+1993,17,Mon,9:00PM ET,Miami Dolphins,25,239,220,0,23,260,61,3,W
+1993,18,Sun,4:00PM ET,Tampa Bay Buccaneers,16,272,92,0,22,312,72,3,W
+1994,1,Sun,8:00PM ET,Denver Broncos,19,232,138,1,30,341,129,3,W
+1994,2,Sun,4:00PM ET,Cincinnati Bengals,21,299,166,0,17,167,113,3,W
+1994,3,Sun,4:00PM ET,Seattle Seahawks,18,251,95,2,23,128,59,2,W
+1994,4,Sun,4:00PM ET,Los Angeles Raiders,17,179,84,2,15,220,59,1,W
+1994,6,Sun,4:00PM ET,Kansas City Chiefs,18,171,151,1,20,297,64,2,W
+1994,7,Sun,4:00PM ET,New Orleans Saints,25,180,198,0,24,180,104,2,W
+1994,8,Sun,4:00PM ET,Denver Broncos,18,155,166,3,16,225,69,3,L
+1994,9,Sun,4:00PM ET,Seattle Seahawks,25,187,161,1,14,171,112,2,W
+1994,10,Sun,1:00PM ET,Atlanta Falcons,20,179,117,0,11,176,43,2,L
+1994,11,Sun,1:00PM ET,Kansas City Chiefs,13,187,48,4,15,165,84,2,W
+1994,12,Sun,1:00PM ET,New England Patriots,18,169,72,3,21,217,101,2,L
+1994,13,Sun,4:00PM ET,Los Angeles Rams,16,129,114,1,17,278,48,5,W
+1994,14,Mon,9:00PM ET,Los Angeles Raiders,18,214,47,1,22,322,88,1,L
+1994,15,Sun,4:00PM ET,San Francisco 49ers,20,322,56,2,27,298,119,1,L
+1994,16,Sun,1:00PM ET,New York Jets,24,251,152,2,14,167,76,1,W
+1994,17,Sat,4:00PM ET,Pittsburgh Steelers,21,263,87,0,22,306,136,0,W
+1995,1,Sun,4:00PM ET,Oakland Raiders,20,294,77,3,19,108,139,0,L
+1995,2,Sun,4:00PM ET,Seattle Seahawks,25,251,146,2,15,127,82,2,W
+1995,3,Sun,1:00PM ET,Philadelphia Eagles,11,139,131,1,18,181,138,2,W
+1995,4,Sun,4:00PM ET,Denver Broncos,23,176,158,1,12,181,65,0,W
+1995,5,Sun,4:00PM ET,Pittsburgh Steelers,20,232,95,4,21,141,120,1,L
+1995,6,Mon,9:00PM ET,Kansas City Chiefs,25,318,51,3,21,317,62,1,L
+1995,7,Sun,4:00PM ET,Dallas Cowboys,20,174,159,4,22,215,105,1,L
+1995,8,Sun,4:00PM ET,Seattle Seahawks,15,146,153,1,24,233,150,4,W
+1995,10,Sun,8:00PM ET,Miami Dolphins,17,229,70,2,24,291,126,1,L
+1995,11,Sun,4:00PM ET,Kansas City Chiefs,17,213,70,0,19,120,166,1,L
+1995,12,Sun,4:00PM ET,Denver Broncos,20,199,70,1,25,290,173,2,L
+1995,13,Mon,9:00PM ET,Oakland Raiders,17,204,78,0,16,164,120,4,W
+1995,14,Sun,4:00PM ET,Cleveland Browns,25,230,186,0,19,287,26,2,W
+1995,15,Sat,4:00PM ET,Arizona Cardinals,20,288,92,6,13,250,32,1,W
+1995,16,Sun,4:00PM ET,Indianapolis Colts,26,265,114,1,24,276,89,1,W
+1995,17,Sat,12:30PM ET,New York Giants,13,108,97,1,21,202,98,4,W
+1996,1,Sun,4:00PM ET,Seattle Seahawks,27,191,186,0,16,251,106,4,W
+1996,2,Sun,4:00PM ET,Cincinnati Bengals,25,269,114,2,14,187,62,2,W
+1996,3,Sun,1:00PM ET,Green Bay Packers,11,108,33,3,23,204,132,3,L
+1996,4,Sun,4:00PM ET,Oakland Raiders,20,218,103,0,28,371,182,3,W
+1996,5,Sun,4:00PM ET,Kansas City Chiefs,18,238,75,2,19,257,58,2,W
+1996,6,Sun,4:00PM ET,Denver Broncos,14,210,35,0,23,312,94,1,L
+1996,8,Mon,9:00PM ET,Oakland Raiders,16,253,29,3,22,179,131,1,L
+1996,9,Sun,4:00PM ET,Seattle Seahawks,15,253,69,5,18,196,208,1,L
+1996,10,Sun,1:00PM ET,Indianapolis Colts,14,237,75,0,22,173,91,5,W
+1996,11,Mon,9:00PM ET,Detroit Lions,27,279,127,0,19,140,82,1,W
+1996,12,Sun,4:00PM ET,Tampa Bay Buccaneers,11,183,94,3,23,324,99,3,L
+1996,13,Sun,1:00PM ET,Kansas City Chiefs,20,252,128,0,26,332,102,2,W
+1996,14,Sun,8:00PM ET,New England Patriots,15,204,32,6,15,229,84,0,L
+1996,15,Sun,1:00PM ET,Pittsburgh Steelers,8,83,65,4,21,160,167,4,L
+1996,16,Sat,4:00PM ET,Chicago Bears,17,217,66,1,19,203,91,0,L
+1996,17,Sun,8:00PM ET,Denver Broncos,14,163,81,3,13,148,66,4,W
+1997,1,Sun,1:00PM ET,New England Patriots,14,142,85,3,22,340,84,0,L
+1997,2,Sun,1:00PM ET,New Orleans Saints,11,171,59,2,14,178,65,6,W
+1997,3,Sun,4:00PM ET,Carolina Panthers,17,155,96,4,21,138,141,1,L
+1997,4,Sun,4:00PM ET,Seattle Seahawks,20,230,79,3,21,251,92,3,L
+1997,5,Sun,4:00PM ET,Baltimore Ravens,15,352,88,3,18,217,111,3,W
+1997,6,Sun,4:00PM ET,Oakland Raiders,23,218,180,0,11,228,13,1,W
+1997,8,Thu,8:00PM ET,Kansas City Chiefs,12,189,69,2,25,224,89,1,L
+1997,9,Sun,4:00PM ET,Indianapolis Colts,24,222,202,0,14,219,31,2,W
+1997,10,Sun,1:00PM ET,Cincinnati Bengals,14,168,67,3,18,162,174,1,L
+1997,11,Sun,4:00PM ET,Seattle Seahawks,13,179,81,2,24,281,92,2,L
+1997,12,Sun,8:00PM ET,Oakland Raiders,11,157,91,2,22,225,140,2,L
+1997,13,Sun,4:00PM ET,San Francisco 49ers,8,111,92,3,19,228,111,2,L
+1997,14,Sun,8:00PM ET,Denver Broncos,22,222,47,2,28,240,198,0,L
+1997,15,Sun,4:00PM ET,Atlanta Falcons,16,221,47,3,13,108,96,1,L
+1997,16,Sun,4:00PM ET,Kansas City Chiefs,22,219,63,2,14,108,131,0,L
+1997,17,Sun,4:00PM ET,Denver Broncos,9,133,70,1,24,321,130,1,L
+1998,1,Sun,4:15PM ET,Buffalo Bills,14,187,67,2,20,207,90,2,W
+1998,2,Sun,1:00PM ET,Tennessee Oilers,18,179,141,0,18,187,63,0,W
+1998,3,Sun,1:00PM ET,Kansas City Chiefs,6,-19,171,6,16,129,122,1,L
+1998,4,Sun,4:15PM ET,New York Giants,17,266,89,4,19,208,105,1,L
+1998,5,Sun,1:00PM ET,Indianapolis Colts,17,143,152,3,11,137,55,1,L
+1998,6,Sun,4:15PM ET,Oakland Raiders,9,78,117,4,6,141,18,1,L
+1998,7,Sun,4:15PM ET,Philadelphia Eagles,11,28,140,1,21,210,51,4,W
+1998,8,Sun,4:15PM ET,Seattle Seahawks,27,280,111,0,14,234,40,0,L
+1998,10,Sun,4:15PM ET,Denver Broncos,13,136,77,3,19,217,72,1,L
+1998,11,Sun,4:05PM ET,Baltimore Ravens,19,146,57,1,8,121,40,2,W
+1998,12,Sun,4:15PM ET,Kansas City Chiefs,25,271,95,3,21,297,69,2,W
+1998,13,Sun,8:20PM ET,Denver Broncos,21,302,65,6,18,226,96,4,L
+1998,14,Sun,1:00PM ET,Washington Redskins,21,217,127,2,17,212,66,2,L
+1998,15,Sun,4:05PM ET,Seattle Seahawks,16,211,66,8,18,130,108,3,L
+1998,16,Sun,4:05PM ET,Oakland Raiders,16,236,79,3,14,167,120,3,L
+1998,17,Sun,4:15PM ET,Arizona Cardinals,22,203,174,5,16,245,25,0,L
+1999,2,Sun,1:00PM ET,Cincinnati Bengals,14,175,91,0,10,133,47,5,W
+1999,3,Sun,4:05PM ET,Indianapolis Colts,16,179,95,1,26,404,64,1,L
+1999,4,Sun,4:15PM ET,Kansas City Chiefs,8,92,40,2,19,193,121,4,W
+1999,5,Sun,1:01PM ET,Detroit Lions,15,192,64,2,14,192,37,3,W
+1999,6,Sun,4:05PM ET,Seattle Seahawks,19,281,49,4,15,140,61,1,W
+1999,7,Sun,4:05PM ET,Green Bay Packers,21,227,76,6,19,166,129,2,L
+1999,8,Sun,1:01PM ET,Kansas City Chiefs,10,141,72,4,11,186,97,0,L
+1999,9,Sun,4:15PM ET,Denver Broncos,19,214,59,4,17,127,114,0,L
+1999,10,Sun,1:06PM ET,Oakland Raiders,12,192,33,0,25,244,173,0,L
+1999,11,Sun,4:15PM ET,Chicago Bears,20,264,84,1,19,355,75,1,L
+1999,12,Sun,1:10PM ET,Minnesota Vikings,19,396,62,3,27,356,129,2,L
+1999,13,Sun,1:15PM ET,Cleveland Browns,20,132,145,1,13,147,55,2,W
+1999,14,Sun,4:05PM ET,Seattle Seahawks,22,222,107,1,20,271,76,2,W
+1999,15,Sun,1:01PM ET,Miami Dolphins,13,160,26,1,11,231,53,2,L
+1999,16,Sun,1:05PM ET,Oakland Raiders,17,293,49,1,18,248,46,1,W
+1999,17,Sun,4:15PM ET,Denver Broncos,17,183,194,4,15,191,44,1,W
+2000,1,Sun,4:15PM ET,Oakland Raiders,17,179,76,4,13,166,67,0,L
+2000,2,Sun,4:15PM ET,New Orleans Saints,15,116,72,2,28,259,64,3,L
+2000,3,Sun,4:05PM ET,Kansas City Chiefs,10,138,49,2,25,232,117,1,L
+2000,4,Sun,4:15PM ET,Seattle Seahawks,15,212,91,2,15,161,108,2,L
+2000,5,Sun,1:02PM ET,St. Louis Rams,23,333,48,2,29,451,163,0,L
+2000,6,Sun,4:15PM ET,Denver Broncos,17,212,65,3,18,208,96,0,L
+2000,7,Sun,1:01PM ET,Buffalo Bills,15,251,52,4,25,329,95,2,L
+2000,9,Sun,8:35PM ET,Oakland Raiders,18,195,29,2,19,145,83,1,L
+2000,10,Sun,4:15PM ET,Seattle Seahawks,22,282,116,3,9,78,50,1,L
+2000,11,Sun,4:05PM ET,Miami Dolphins,19,156,82,4,15,160,84,0,L
+2000,12,Sun,4:05PM ET,Denver Broncos,14,299,86,3,34,443,93,5,L
+2000,13,Sun,4:15PM ET,Kansas City Chiefs,14,149,52,5,10,84,77,1,W
+2000,14,Sun,4:05PM ET,San Francisco 49ers,18,254,49,5,19,312,73,0,L
+2000,15,Sun,1:02PM ET,Baltimore Ravens,9,64,64,5,19,166,110,3,L
+2000,16,Sun,1:04PM ET,Carolina Panthers,19,258,100,2,13,158,11,1,L
+2000,17,Sun,4:05PM ET,Pittsburgh Steelers,6,140,31,2,21,185,131,2,L
+2001,1,Sun,4:15PM ET,Washington Redskins,19,122,133,4,8,117,44,4,W
+2001,2,Sun,1:12PM ET,Dallas Cowboys,26,345,130,1,14,188,101,5,W
+2001,3,Sun,4:15PM ET,Cincinnati Bengals,16,112,133,0,17,126,111,4,W
+2001,4,Sun,1:02PM ET,Cleveland Browns,15,143,126,0,16,181,97,1,L
+2001,5,Sun,1:03PM ET,New England Patriots,20,258,85,1,30,345,29,1,L
+2001,6,Sun,1:05PM ET,Denver Broncos,22,272,107,2,19,182,81,3,W
+2001,7,Sun,1:15PM ET,Buffalo Bills,17,243,95,0,22,291,105,2,W
+2001,8,Sun,4:15PM ET,Kansas City Chiefs,22,259,66,1,21,170,208,1,L
+2001,9,Sun,4:05PM ET,Denver Broncos,9,147,96,5,19,221,117,1,L
+2001,10,Sun,4:05PM ET,Oakland Raiders,12,98,152,2,21,293,88,1,L
+2001,11,Sun,4:05PM ET,Arizona Cardinals,20,308,84,1,18,227,71,2,L
+2001,12,Sun,4:05PM ET,Seattle Seahawks,19,185,107,3,18,192,117,0,L
+2001,13,Sun,1:03PM ET,Philadelphia Eagles,18,297,96,4,14,210,63,1,L
+2001,14,Sat,5:15PM ET,Oakland Raiders,14,206,68,3,15,208,91,3,L
+2001,15,Sun,1:00PM ET,Kansas City Chiefs,20,164,165,0,24,203,120,2,L
+2001,16,Sun,4:15PM ET,Seattle Seahawks,21,346,52,2,14,246,61,0,L
+2002,1,Sun,1:04PM ET,Cincinnati Bengals,27,160,241,0,13,167,36,1,W
+2002,2,Sun,4:15PM ET,Houston Texans,16,143,124,1,7,29,89,3,W
+2002,3,Sun,4:05PM ET,Arizona Cardinals,19,164,125,1,15,200,97,3,W
+2002,4,Sun,4:15PM ET,New England Patriots,14,104,238,1,25,353,87,3,W
+2002,5,Sun,4:05PM ET,Denver Broncos,16,235,79,3,20,300,117,1,L
+2002,6,Sun,4:15PM ET,Kansas City Chiefs,27,312,153,5,17,231,88,2,W
+2002,7,Sun,4:05PM ET,Oakland Raiders,24,161,172,0,26,353,37,1,W
+2002,9,Sun,4:05PM ET,New York Jets,15,170,73,3,21,248,165,0,L
+2002,10,Sun,1:02PM ET,St. Louis Rams,15,130,126,2,25,453,71,4,L
+2002,11,Sun,4:05PM ET,San Francisco 49ers,26,336,105,1,21,331,136,1,W
+2002,12,Sun,1:02PM ET,Miami Dolphins,12,80,64,2,24,191,222,0,L
+2002,13,Sun,4:05PM ET,Denver Broncos,25,214,220,0,20,261,156,3,W
+2002,14,Sun,4:15PM ET,Oakland Raiders,19,226,65,3,22,326,67,0,L
+2002,15,Sun,1:02PM ET,Buffalo Bills,14,192,116,0,17,101,155,1,L
+2002,16,Sun,1:00PM ET,Kansas City Chiefs,20,235,148,1,19,323,53,1,L
+2002,17,Sun,4:15PM ET,Seattle Seahawks,24,326,88,1,34,428,163,3,L
+2003,1,Sun,1:00PM ET,Kansas City Chiefs,13,168,64,2,19,259,131,2,L
+2003,2,Sun,4:15PM ET,Denver Broncos,19,182,121,1,24,185,197,0,L
+2003,3,Sun,4:15PM ET,Baltimore Ravens,25,257,132,3,16,97,152,1,L
+2003,4,Sun,4:05PM ET,Oakland Raiders,22,208,222,1,23,328,120,2,L
+2003,5,Sun,4:05PM ET,Jacksonville Jaguars,21,277,69,2,21,313,123,1,L
+2003,7,Sun,1:02PM ET,Cleveland Browns,15,61,228,2,20,176,101,2,W
+2003,8,Mon,9:09PM ET,Miami Dolphins,18,146,104,3,14,183,81,1,L
+2003,9,Sun,1:05PM ET,Chicago Bears,11,119,80,1,19,216,125,1,L
+2003,10,Sun,4:05PM ET,Minnesota Vikings,26,247,211,0,27,350,110,2,W
+2003,11,Sun,4:05PM ET,Denver Broncos,5,56,40,4,26,247,201,3,L
+2003,12,Sun,4:15PM ET,Cincinnati Bengals,17,207,118,0,33,234,210,1,L
+2003,13,Sun,4:15PM ET,Kansas City Chiefs,17,211,159,3,23,141,194,2,L
+2003,14,Sun,1:03PM ET,Detroit Lions,17,244,131,2,14,208,68,0,W
+2003,15,Sun,4:15PM ET,Green Bay Packers,23,336,88,4,17,278,83,1,L
+2003,16,Sun,4:05PM ET,Pittsburgh Steelers,21,228,116,3,21,160,181,0,L
+2003,17,Sun,4:15PM ET,Oakland Raiders,20,74,263,0,9,0,141,1,W
+2004,1,Sun,1:05PM ET,Houston Texans,17,202,122,0,20,226,110,4,W
+2004,2,Sun,4:15PM ET,New York Jets,21,216,111,4,22,258,122,0,L
+2004,3,Sun,4:05PM ET,Denver Broncos,16,129,85,1,18,291,37,1,L
+2004,4,Sun,4:15PM ET,Tennessee Titans,16,198,195,0,21,258,72,0,W
+2004,5,Sun,4:05PM ET,Jacksonville Jaguars,18,210,176,0,28,349,80,3,W
+2004,6,Sun,1:02PM ET,Atlanta Falcons,18,223,95,1,15,206,93,2,L
+2004,7,Sun,1:02PM ET,Carolina Panthers,19,188,114,1,20,147,116,1,W
+2004,8,Sun,4:15PM ET,Oakland Raiders,33,273,175,1,15,259,22,3,W
+2004,9,Sun,4:05PM ET,New Orleans Saints,28,250,152,0,18,165,55,2,W
+2004,11,Sun,4:05PM ET,Oakland Raiders,26,226,176,1,14,220,53,1,W
+2004,12,Sun,1:00PM ET,Kansas City Chiefs,25,371,127,0,20,200,110,2,W
+2004,13,Sun,4:05PM ET,Denver Broncos,14,86,122,2,21,263,74,4,W
+2004,14,Sun,4:15PM ET,Tampa Bay Buccaneers,18,206,130,3,21,373,63,4,W
+2004,15,Sun,1:03PM ET,Cleveland Browns,16,83,174,1,11,105,126,1,W
+2004,16,Sun,1:00PM ET,Indianapolis Colts,22,281,93,1,30,360,104,1,L
+2004,17,Sun,4:15PM ET,Kansas City Chiefs,21,215,138,2,26,373,70,4,W
+2005,1,Sun,4:15PM ET,Dallas Cowboys,19,188,103,2,23,192,109,1,L
+2005,2,Sun,4:15PM ET,Denver Broncos,15,134,79,2,21,233,98,2,L
+2005,3,Sun,8:30PM ET,New York Giants,25,217,268,1,23,338,86,1,W
+2005,4,Sun,1:02PM ET,New England Patriots,26,248,183,0,18,231,72,2,W
+2005,5,Mon,9:00PM ET,Pittsburgh Steelers,20,213,66,2,25,207,104,1,L
+2005,6,Sun,4:15PM ET,Oakland Raiders,22,156,190,0,19,271,39,1,W
+2005,7,Sun,1:02PM ET,Philadelphia Eagles,15,270,21,3,22,262,24,2,L
+2005,8,Sun,4:05PM ET,Kansas City Chiefs,22,341,83,2,21,323,95,1,W
+2005,9,Sun,1:02PM ET,New York Jets,27,262,133,2,19,180,89,0,W
+2005,11,Sun,4:15PM ET,Buffalo Bills,28,337,141,0,12,137,65,2,W
+2005,12,Sun,1:02PM ET,Washington Redskins,24,195,202,3,15,191,91,0,W
+2005,13,Sun,8:35PM ET,Oakland Raiders,19,144,130,0,16,210,81,2,W
+2005,14,Sun,4:15PM ET,Miami Dolphins,27,245,96,3,14,229,71,2,L
+2005,15,Sun,1:02PM ET,Indianapolis Colts,18,247,206,4,21,314,24,3,W
+2005,16,Sat,1:00PM ET,Kansas City Chiefs,15,153,80,2,20,197,144,0,L
+2005,17,Sat,4:35PM ET,Denver Broncos,15,145,91,2,17,84,157,0,L
+2006,1,Mon,10:25PM ET,Oakland Raiders,14,108,194,0,9,42,87,1,W
+2006,2,Sun,4:15PM ET,Tennessee Titans,26,235,241,0,14,163,55,2,W
+2006,4,Sun,1:02PM ET,Baltimore Ravens,13,134,150,1,14,150,56,3,L
+2006,5,Sun,8:15PM ET,Pittsburgh Steelers,22,222,119,1,16,197,68,2,W
+2006,6,Sun,4:15PM ET,San Francisco 49ers,30,334,87,0,15,182,92,2,W
+2006,7,Sun,1:00PM ET,Kansas City Chiefs,22,252,97,3,19,221,134,1,L
+2006,8,Sun,4:05PM ET,St. Louis Rams,21,203,216,0,23,311,101,1,W
+2006,9,Sun,4:15PM ET,Cleveland Browns,19,191,190,1,23,209,84,2,W
+2006,10,Sun,1:03PM ET,Cincinnati Bengals,25,324,107,0,29,417,128,1,W
+2006,11,Sun,8:21PM ET,Denver Broncos,21,217,125,2,20,168,158,1,W
+2006,12,Sun,4:05PM ET,Oakland Raiders,15,150,110,1,15,161,84,2,W
+2006,13,Sun,1:02PM ET,Buffalo Bills,18,138,197,2,16,167,63,4,W
+2006,14,Sun,4:15PM ET,Denver Broncos,22,276,143,1,19,166,162,1,W
+2006,15,Sun,8:15PM ET,Kansas City Chiefs,16,88,265,2,16,151,90,2,W
+2006,16,Sun,4:16PM ET,Seattle Seahawks,14,172,168,0,18,161,153,2,W
+2006,17,Sun,4:15PM ET,Arizona Cardinals,23,218,169,1,19,346,98,1,W
+2007,1,Sun,4:15PM ET,Chicago Bears,19,186,77,2,11,122,80,4,W
+2007,2,Sun,8:24PM ET,New England Patriots,14,149,52,3,25,263,144,2,L
+2007,3,Sun,1:02PM ET,Green Bay Packers,25,291,73,1,20,363,42,0,L
+2007,4,Sun,4:15PM ET,Kansas City Chiefs,19,200,133,4,17,264,126,2,L
+2007,5,Sun,4:15PM ET,Denver Broncos,20,270,214,0,17,224,72,3,W
+2007,6,Sun,4:15PM ET,Oakland Raiders,18,156,206,1,18,202,43,3,W
+2007,8,Sun,4:05PM ET,Houston Texans,11,128,109,0,22,252,115,5,W
+2007,9,Sun,1:05PM ET,Minnesota Vikings,14,187,42,2,26,150,378,2,L
+2007,10,Sun,8:15PM ET,Indianapolis Colts,11,86,91,3,25,311,75,6,W
+2007,11,Sun,1:03PM ET,Jacksonville Jaguars,18,309,79,2,18,189,122,0,L
+2007,12,Sun,4:15PM ET,Baltimore Ravens,18,249,83,0,19,154,56,2,W
+2007,13,Sun,1:00PM ET,Kansas City Chiefs,12,139,191,1,18,180,88,4,W
+2007,14,Sun,1:02PM ET,Tennessee Titans,20,193,148,3,13,109,131,2,W
+2007,15,Sun,4:15PM ET,Detroit Lions,26,142,274,0,19,302,26,6,W
+2007,16,Mon,8:10PM ET,Denver Broncos,18,187,147,1,12,133,92,3,W
+2007,17,Sun,4:15PM ET,Oakland Raiders,15,133,120,1,17,194,122,4,W
+2008,1,Sun,4:15PM ET,Carolina Panthers,17,211,105,1,20,246,142,1,L
+2008,2,Sun,4:15PM ET,Denver Broncos,19,376,80,1,34,341,145,1,L
+2008,3,Mon,8:40PM ET,New York Jets,20,250,107,1,21,267,41,4,W
+2008,4,Sun,4:05PM ET,Oakland Raiders,18,154,141,2,15,251,72,2,W
+2008,5,Sun,1:03PM ET,Miami Dolphins,10,142,60,0,23,223,167,1,L
+2008,6,Sun,8:20PM ET,New England Patriots,19,306,98,1,18,193,106,1,W
+2008,7,Sun,1:02PM ET,Buffalo Bills,15,191,72,3,22,261,109,0,L
+2008,8,Sun,1:06PM ET,New Orleans Saints,22,341,110,2,28,339,70,0,L
+2008,10,Sun,4:15PM ET,Kansas City Chiefs,23,308,92,2,19,263,76,0,W
+2008,11,Sun,4:16PM ET,Pittsburgh Steelers,16,152,66,2,24,286,124,0,L
+2008,12,Sun,8:20PM ET,Indianapolis Colts,21,274,120,1,19,250,91,1,L
+2008,13,Sun,4:05PM ET,Atlanta Falcons,12,131,70,0,20,207,141,3,L
+2008,14,Thu,8:15PM ET,Oakland Raiders,18,214,158,1,9,109,54,4,W
+2008,15,Sun,1:00PM ET,Kansas City Chiefs,22,326,68,3,22,175,102,2,W
+2008,16,Sun,1:02PM ET,Tampa Bay Buccaneers,8,280,90,0,20,231,111,3,W
+2008,17,Sun,8:23PM ET,Denver Broncos,28,202,289,0,25,316,90,2,W
+2009,1,Mon,10:16PM ET,Oakland Raiders,19,240,77,2,19,218,148,3,W
+2009,2,Sun,4:15PM ET,Baltimore Ravens,20,421,53,2,22,181,130,1,L
+2009,3,Sun,4:15PM ET,Miami Dolphins,19,286,69,1,19,140,149,2,W
+2009,4,Sun,8:30PM ET,Pittsburgh Steelers,17,235,16,1,32,320,177,1,L
+2009,6,Mon,8:40PM ET,Denver Broncos,20,238,73,1,19,227,101,0,L
+2009,7,Sun,1:00PM ET,Kansas City Chiefs,17,268,135,0,10,82,121,3,W
+2009,8,Sun,4:05PM ET,Oakland Raiders,20,246,100,2,13,81,99,1,W
+2009,9,Sun,4:15PM ET,New York Giants,18,192,34,2,19,188,116,1,W
+2009,10,Sun,4:15PM ET,Philadelphia Eagles,22,212,119,0,26,433,29,1,W
+2009,11,Sun,4:15PM ET,Denver Broncos,21,145,203,0,14,156,115,3,W
+2009,12,Sun,4:05PM ET,Kansas City Chiefs,26,332,94,1,16,170,114,4,W
+2009,13,Sun,4:05PM ET,Cleveland Browns,21,386,91,0,24,257,115,1,W
+2009,14,Sun,4:15PM ET,Dallas Cowboys,21,268,73,1,22,239,108,0,W
+2009,15,Sun,4:05PM ET,Cincinnati Bengals,20,296,70,2,19,293,114,1,W
+2009,16,Fri,7:34PM ET,Tennessee Titans,30,259,166,1,17,88,182,3,W
+2009,17,Sun,4:15PM ET,Washington Redskins,19,314,50,1,18,275,66,0,W
+2010,1,Mon,10:20PM ET,Kansas City Chiefs,18,280,109,1,9,62,135,0,L
+2010,2,Sun,4:15PM ET,Jacksonville Jaguars,25,326,151,3,20,279,71,6,W
+2010,3,Sun,4:16PM ET,Seattle Seahawks,27,429,89,5,13,203,68,2,L
+2010,4,Sun,4:15PM ET,Arizona Cardinals,23,239,180,1,10,87,47,3,W
+2010,5,Sun,4:15PM ET,Oakland Raiders,29,415,91,3,14,168,111,0,L
+2010,6,Sun,1:00PM ET,St. Louis Rams,22,208,79,1,20,183,117,0,L
+2010,7,Sun,4:15PM ET,New England Patriots,23,325,38,4,15,128,51,0,L
+2010,8,Sun,4:05PM ET,Tennessee Titans,23,300,156,1,15,305,65,0,W
+2010,9,Sun,1:02PM ET,Houston Texans,18,290,77,2,25,252,140,1,W
+2010,11,Mon,8:40PM ET,Denver Broncos,21,253,147,1,16,172,63,1,W
+2010,12,Sun,8:30PM ET,Indianapolis Colts,18,172,129,0,16,279,24,5,W
+2010,13,Sun,4:05PM ET,Oakland Raiders,18,265,21,2,22,117,251,1,L
+2010,14,Sun,4:15PM ET,Kansas City Chiefs,25,219,207,2,5,19,48,0,W
+2010,15,Thu,8:20PM ET,San Francisco 49ers,24,266,108,0,11,131,61,1,W
+2010,16,Sun,4:05PM ET,Cincinnati Bengals,23,249,64,2,18,269,102,1,L
+2010,17,Sun,4:15PM ET,Denver Broncos,20,283,164,1,18,191,146,2,W
+2011,1,Sun,4:20PM ET,Minnesota Vikings,31,330,77,2,10,28,159,1,W
+2011,2,Sun,4:15PM ET,New England Patriots,29,372,98,4,28,410,94,0,L
+2011,3,Sun,4:05PM ET,Kansas City Chiefs,22,258,117,2,13,171,81,1,W
+2011,4,Sun,4:15PM ET,Miami Dolphins,21,295,116,0,16,176,72,2,W
+2011,5,Sun,4:16PM ET,Denver Broncos,25,212,206,2,13,113,162,1,W
+2011,7,Sun,1:03PM ET,New York Jets,16,172,96,2,25,156,162,2,L
+2011,8,Mon,8:40PM ET,Kansas City Chiefs,22,345,102,4,19,247,94,4,L
+2011,9,Sun,4:15PM ET,Green Bay Packers,28,375,85,3,21,232,136,0,L
+2011,10,Thu,8:29PM ET,Oakland Raiders,20,239,75,2,20,298,191,2,L
+2011,11,Sun,4:16PM ET,Chicago Bears,15,280,52,3,23,286,92,1,L
+2011,12,Sun,4:15PM ET,Denver Broncos,20,159,185,0,18,141,208,0,L
+2011,13,Mon,8:41PM ET,Jacksonville Jaguars,19,294,139,0,17,177,129,1,W
+2011,14,Sun,4:15PM ET,Buffalo Bills,23,216,150,1,17,185,96,3,W
+2011,15,Sun,8:30PM ET,Baltimore Ravens,23,270,145,0,19,201,89,2,W
+2011,16,Sat,4:05PM ET,Detroit Lions,20,299,68,2,24,353,87,0,L
+2011,17,Sun,4:15PM ET,Oakland Raiders,25,310,153,1,28,417,103,1,W
+2012,1,Mon,10:25PM ET,Oakland Raiders,15,226,32,0,21,276,45,1,W
+2012,2,Sun,4:25PM ET,Tennessee Titans,27,268,148,1,9,174,38,1,W
+2012,3,Sun,4:05PM ET,Atlanta Falcons,15,164,116,4,25,265,119,1,L
+2012,4,Sun,1:03PM ET,Kansas City Chiefs,19,189,104,1,25,234,115,6,W
+2012,5,Sun,8:31PM ET,New Orleans Saints,27,310,117,2,21,351,53,1,L
+2012,6,Mon,8:40PM ET,Denver Broncos,23,217,90,6,18,309,56,3,L
+2012,8,Sun,1:06PM ET,Cleveland Browns,17,148,117,1,15,117,133,0,L
+2012,9,Thu,8:27PM ET,Kansas City Chiefs,18,216,123,2,21,176,113,4,W
+2012,10,Sun,1:03PM ET,Tampa Bay Buccaneers,23,323,103,2,12,205,74,0,L
+2012,11,Sun,4:25PM ET,Denver Broncos,13,224,53,3,21,253,133,2,L
+2012,12,Sun,4:05PM ET,Baltimore Ravens,16,189,91,0,25,316,127,0,L
+2012,13,Sun,4:25PM ET,Cincinnati Bengals,20,251,46,2,21,211,128,3,L
+2012,14,Sun,1:02PM ET,Pittsburgh Steelers,19,200,94,0,18,271,69,2,W
+2012,15,Sun,4:05PM ET,Carolina Panthers,12,94,70,2,29,217,155,1,L
+2012,16,Sun,1:03PM ET,New York Jets,15,136,87,0,18,156,69,2,W
+2012,17,Sun,4:21PM ET,Oakland Raiders,14,140,70,0,17,150,115,1,W
+2013,1,Mon,10:25PM ET,Houston Texans,14,183,80,1,26,329,120,1,L
+2013,2,Sun,1:02PM ET,Philadelphia Eagles,33,413,126,2,22,422,100,0,W
+2013,3,Sun,1:03PM ET,Tennessee Titans,19,175,102,1,23,282,170,0,L
+2013,4,Sun,4:25PM ET,Dallas Cowboys,27,394,112,1,21,227,92,1,W
+2013,5,Sun,11:35PM ET,Oakland Raiders,27,391,36,5,17,195,104,0,L
+2013,6,Mon,8:40PM ET,Indianapolis Colts,24,227,147,0,12,193,74,1,W
+2013,7,Sun,1:02PM ET,Jacksonville Jaguars,27,276,158,0,18,275,78,1,W
+2013,9,Sun,1:03PM ET,Washington Redskins,25,341,69,2,27,291,209,1,L
+2013,10,Sun,4:25PM ET,Denver Broncos,20,198,131,0,22,313,84,1,L
+2013,11,Sun,4:05PM ET,Miami Dolphins,22,281,154,1,21,239,104,1,L
+2013,12,Sun,1:03PM ET,Kansas City Chiefs,24,387,104,0,26,281,114,2,W
+2013,13,Sun,4:25PM ET,Cincinnati Bengals,19,243,91,3,19,190,164,2,L
+2013,14,Sun,4:25PM ET,New York Giants,25,244,144,1,18,241,92,3,W
+2013,15,Thu,8:29PM ET,Denver Broncos,24,160,177,0,19,277,18,1,W
+2013,16,Sun,4:25PM ET,Oakland Raiders,24,196,148,3,14,206,59,2,W
+2013,17,Sun,4:26PM ET,Kansas City Chiefs,19,219,186,1,22,189,143,0,W
+2014,1,Mon,9:20PM ET,Arizona Cardinals,15,238,52,1,22,294,109,2,L
+2014,2,Sun,4:05PM ET,Seattle Seahawks,26,276,101,0,14,180,108,1,W
+2014,3,Sun,1:02PM ET,Buffalo Bills,20,250,83,0,18,205,87,0,W
+2014,4,Sun,4:05PM ET,Jacksonville Jaguars,19,365,42,0,21,235,85,3,W
+2014,5,Sun,4:25PM ET,New York Jets,21,277,162,1,11,60,91,2,W
+2014,6,Sun,4:05PM ET,Oakland Raiders,24,307,116,0,17,282,114,1,W
+2014,7,Sun,4:05PM ET,Kansas City Chiefs,19,182,69,1,22,211,154,0,L
+2014,8,Thu,8:26PM ET,Denver Broncos,22,245,61,2,27,286,139,0,L
+2014,9,Sun,1:02PM ET,Miami Dolphins,10,128,50,4,28,309,132,0,L
+2014,11,Sun,4:05PM ET,Oakland Raiders,18,180,120,0,9,162,71,1,W
+2014,12,Sun,4:05PM ET,St. Louis Rams,19,282,128,3,16,210,107,3,W
+2014,13,Sun,1:02PM ET,Baltimore Ravens,31,376,64,2,24,225,125,0,W
+2014,14,Sun,8:30PM ET,New England Patriots,13,163,53,1,24,310,87,2,L
+2014,15,Sun,4:05PM ET,Denver Broncos,20,232,56,2,18,226,111,0,L
+2014,16,Sat,8:26PM ET,San Francisco 49ers,28,348,98,3,21,92,355,3,W
+2014,17,Sun,1:03PM ET,Kansas City Chiefs,21,249,112,3,15,140,111,0,L
+2015,1,Sun,4:05PM ET,Detroit Lions,28,387,96,3,16,233,69,2,W
+2015,2,Sun,1:03PM ET,Cincinnati Bengals,19,223,131,3,20,214,175,2,L
+2015,3,Sun,1:02PM ET,Minnesota Vikings,21,279,90,2,18,121,163,1,L
+2015,4,Sun,4:05PM ET,Cleveland Browns,23,347,91,0,20,332,100,1,W
+2015,5,Mon,8:30PM ET,Pittsburgh Steelers,24,354,52,2,14,194,155,1,L
+2015,6,Sun,4:25PM ET,Green Bay Packers,32,488,60,1,17,237,133,0,L
+2015,7,Sun,4:05PM ET,Oakland Raiders,28,327,90,2,19,282,130,0,L
+2015,8,Sun,1:02PM ET,Baltimore Ravens,22,290,81,0,23,293,72,0,L
+2015,9,Mon,8:30PM ET,Chicago Bears,19,262,77,1,25,337,109,2,L
+2015,11,Sun,4:05PM ET,Kansas City Chiefs,14,149,52,2,22,232,153,0,L
+2015,12,Sun,1:03PM ET,Jacksonville Jaguars,24,290,79,0,20,318,102,1,W
+2015,13,Sun,4:05PM ET,Denver Broncos,15,179,93,3,19,159,134,1,L
+2015,14,Sun,1:03PM ET,Kansas City Chiefs,15,236,44,1,18,179,150,2,L
+2015,15,Sun,4:25PM ET,Miami Dolphins,26,302,140,2,13,187,44,1,W
+2015,16,Thu,8:26PM ET,Oakland Raiders,19,271,72,1,14,175,106,1,L
+2015,17,Sun,4:25PM ET,Denver Broncos,15,207,110,1,21,293,210,5,L
+2016,1,Sun,1:05PM ET,Kansas City Chiefs,25,233,155,0,26,330,83,1,L
+2016,2,Sun,4:25PM ET,Jacksonville Jaguars,25,207,150,1,20,319,69,3,W
+2016,3,Sun,4:25PM ET,Indianapolis Colts,17,315,37,3,24,317,93,2,L
+2016,4,Sun,4:25PM ET,New Orleans Saints,21,308,38,3,21,192,83,2,L
+2016,5,Sun,4:25PM ET,Oakland Raiders,17,351,72,4,19,300,89,1,L
+2016,6,Thu,8:25PM ET,Denver Broncos,16,166,99,2,16,220,84,2,W
+2016,7,Sun,4:05PM ET,Atlanta Falcons,26,348,78,2,21,256,130,1,W
+2016,8,Sun,4:05PM ET,Denver Broncos,21,246,123,3,15,267,57,3,L
+2016,9,Sun,4:25PM ET,Tennessee Titans,31,268,208,0,24,313,80,3,W
+2016,10,Sun,4:05PM ET,Miami Dolphins,29,309,70,4,17,231,106,1,L
+2016,12,Sun,1:00PM ET,Houston Texans,18,235,67,1,22,239,114,4,W
+2016,13,Sun,4:25PM ET,Tampa Bay Buccaneers,18,211,119,2,20,268,81,1,L
+2016,14,Sun,1:00PM ET,Carolina Panthers,17,220,58,5,17,146,126,1,L
+2016,15,Sun,4:25PM ET,Oakland Raiders,14,190,73,2,18,200,145,2,L
+2016,16,Sat,1:00PM ET,Cleveland Browns,19,322,34,1,23,127,124,0,L
+2016,17,Sun,4:25PM ET,Kansas City Chiefs,26,269,129,2,26,262,103,1,L
+2017,1,Mon,10:20PM ET,Denver Broncos,17,185,64,1,22,181,140,2,L
+2017,2,Sun,4:05PM ET,Miami Dolphins,24,323,44,0,21,225,111,0,L
+2017,3,Sun,4:25PM ET,Kansas City Chiefs,24,226,104,3,16,122,189,0,L
+2017,4,Sun,4:05PM ET,Philadelphia Eagles,18,342,58,1,26,240,214,0,L
+2017,5,Sun,1:00PM ET,New York Giants,21,258,124,1,18,183,152,2,W
+2017,6,Sun,4:25PM ET,Oakland Raiders,20,263,80,1,15,165,109,2,W
+2017,7,Sun,4:25PM ET,Denver Broncos,14,162,80,0,12,182,69,3,W
+2017,8,Sun,1:00PM ET,New England Patriots,16,192,157,1,27,317,97,0,L
+2017,10,Sun,1:00PM ET,Jacksonville Jaguars,16,235,87,2,20,263,135,2,L
+2017,11,Sun,4:05PM ET,Buffalo Bills,28,283,146,0,18,220,173,6,W
+2017,12,Thu,4:30PM ET,Dallas Cowboys,25,434,81,0,14,168,79,2,W
+2017,13,Sun,4:05PM ET,Cleveland Browns,23,335,94,0,17,202,89,2,W
+2017,14,Sun,4:05PM ET,Washington Redskins,24,314,174,1,9,136,65,1,W
+2017,15,Sat,8:25PM ET,Kansas City Chiefs,20,209,98,4,20,223,174,0,L
+2017,16,Sun,1:00PM ET,New York Jets,21,290,89,0,13,98,197,3,W
+2017,17,Sun,4:25PM ET,Oakland Raiders,26,380,115,0,14,231,105,2,W
+2018,1,Sun,4:05PM ET,Kansas City Chiefs,33,418,123,2,19,256,106,0,L
+2018,2,Sun,1:00PM ET,Buffalo Bills,21,240,109,0,17,209,84,2,W
+2018,3,Sun,4:05PM ET,Los Angeles Rams,16,215,141,2,33,350,171,2,L
+2018,4,Sun,4:25PM ET,San Francisco 49ers,21,242,126,1,22,288,76,2,W
+2018,5,Sun,4:05PM ET,Oakland Raiders,19,333,79,0,14,248,41,2,W
+2018,6,Sun,1:00PM ET,Cleveland Browns,24,203,246,1,18,214,103,2,W
+2018,7,Sun,9:30AM ET,Tennessee Titans,14,297,47,0,23,226,164,1,W
+2018,9,Sun,4:05PM ET,Seattle Seahawks,18,215,160,0,25,202,154,1,W
+2018,10,Sun,4:05PM ET,Oakland Raiders,16,222,113,1,16,203,114,1,W
+2018,11,Sun,4:05PM ET,Denver Broncos,26,384,95,2,16,217,108,0,L
+2018,12,Sun,4:05PM ET,Arizona Cardinals,30,236,178,1,10,87,62,1,W
+2018,13,Sun,8:20PM ET,Pittsburgh Steelers,22,286,85,0,23,271,65,1,W
+2018,14,Sun,4:05PM ET,Cincinnati Bengals,17,203,85,0,19,151,144,0,W
+2018,15,Thu,8:20PM ET,Kansas City Chiefs,30,288,119,2,22,234,60,0,W
+2018,16,Sat,8:20PM ET,Baltimore Ravens,14,147,51,3,15,202,159,1,L
+2018,17,Sun,4:25PM ET,Denver Broncos,17,160,116,4,19,288,82,4,W
+2019,1,Sun,4:05PM ET,Indianapolis Colts,25,310,125,2,22,173,203,0,W
+2019,2,Sun,1:00PM ET,Detroit Lions,21,287,137,2,19,245,94,2,L
+2019,3,Sun,4:25PM ET,Houston Texans,22,293,73,1,20,337,39,1,L
+2019,4,Sun,1:00PM ET,Miami Dolphins,24,311,79,0,13,161,72,1,W
+2019,5,Sun,4:05PM ET,Denver Broncos,19,211,35,3,15,159,191,2,L
+2019,6,Sun,8:20PM ET,Pittsburgh Steelers,23,316,32,3,18,132,124,1,L
+2019,7,Sun,4:05PM ET,Tennessee Titans,24,326,39,1,22,306,97,1,L
+2019,8,Sun,1:00PM ET,Chicago Bears,11,195,36,1,26,226,162,2,W
+2019,9,Sun,4:25PM ET,Green Bay Packers,24,283,159,0,13,139,45,0,W
+2019,10,Thu,8:20PM ET,Oakland Raiders,26,169,146,3,18,200,78,0,L
+2019,11,Mon,8:15PM ET,Kansas City Chiefs,23,345,93,4,18,180,130,1,L
+2019,13,Sun,4:25PM ET,Denver Broncos,17,244,115,2,13,134,84,1,L
+2019,14,Sun,4:05PM ET,Jacksonville Jaguars,27,330,195,0,15,164,88,0,W
+2019,15,Sun,4:05PM ET,Minnesota Vikings,17,283,62,7,18,207,137,1,L
+2019,16,Sun,4:05PM ET,Oakland Raiders,21,265,19,0,19,267,99,0,L
+2019,17,Sun,1:00PM ET,Kansas City Chiefs,25,258,108,2,16,174,162,1,L
+2020,1,Sun,4:05PM ET,Cincinnati Bengals,19,207,155,0,19,173,122,2,W
+2020,2,Sun,4:25PM ET,Kansas City Chiefs,28,296,183,1,23,289,125,0,L
+2020,3,Sun,4:05PM ET,Carolina Panthers,26,319,117,4,14,221,81,0,L
+2020,4,Sun,1:00PM ET,Tampa Bay Buccaneers,15,278,46,2,28,369,115,1,L
+2020,5,Mon,8:15PM ET,New Orleans Saints,19,239,111,0,23,313,95,1,L
+2020,7,Sun,4:25PM ET,Jacksonville Jaguars,29,349,135,0,15,154,140,1,W
+2020,8,Sun,4:05PM ET,Denver Broncos,28,275,210,2,17,243,108,1,L
+2020,9,Sun,4:05PM ET,Las Vegas Raiders,26,312,128,1,16,160,160,1,L
+2020,10,Sun,4:05PM ET,Miami Dolphins,19,174,99,1,17,169,111,1,L
+2020,11,Sun,4:05PM ET,New York Jets,28,347,29,1,20,196,96,1,W
+2020,12,Sun,1:00PM ET,Buffalo Bills,24,291,76,1,23,160,172,3,L
+2020,13,Sun,4:25PM ET,New England Patriots,17,188,70,2,22,126,165,0,L
+2020,14,Sun,4:25PM ET,Atlanta Falcons,23,240,105,1,19,249,70,3,W
+2020,15,Thu,8:20PM ET,Las Vegas Raiders,27,306,96,0,27,276,173,1,W
+2020,16,Sun,4:05PM ET,Denver Broncos,16,227,89,0,23,263,133,2,W
+2020,17,Sun,4:25PM ET,Kansas City Chiefs,29,281,135,0,18,217,51,1,W
+2021,1,Sun,1:00PM ET,Washington Football Team,27,334,90,2,15,133,126,1,W
+2021,2,Sun,4:25PM ET,Dallas Cowboys,24,313,95,2,25,221,198,1,L
+2021,3,Sun,1:00PM ET,Kansas City Chiefs,21,275,77,0,33,251,186,4,W
+2021,4,Mon,8:15PM ET,Las Vegas Raiders,25,212,168,0,13,165,48,1,W
+2021,5,Sun,4:05PM ET,Cleveland Browns,27,381,112,1,25,301,230,0,W
+2021,6,Sun,1:00PM ET,Baltimore Ravens,14,182,26,1,27,140,187,2,L
+2021,8,Sun,4:05PM ET,New England Patriots,17,206,163,2,21,210,142,1,L
+2021,9,Sun,4:05PM ET,Philadelphia Eagles,28,356,89,0,20,155,176,0,W
+2021,10,Sun,4:05PM ET,Minnesota Vikings,20,171,82,1,24,278,103,1,L
+2021,11,Sun,8:20PM ET,Pittsburgh Steelers,33,374,159,1,22,245,55,0,W
+2021,12,Sun,4:05PM ET,Denver Broncos,20,285,72,2,23,155,147,1,L
+2021,13,Sun,1:00PM ET,Cincinnati Bengals,18,284,79,3,21,260,96,4,W
+2021,14,Sun,4:05PM ET,New York Giants,26,271,152,0,20,181,135,2,W
+2021,15,Thu,8:20PM ET,Kansas City Chiefs,28,236,192,2,26,410,86,2,L
+2021,16,Sun,1:00PM ET,Houston Texans,25,328,89,3,26,248,189,0,L
+2021,17,Sun,4:05PM ET,Denver Broncos,21,237,104,0,18,236,83,1,W
+2021,18,Sun,8:25PM ET,Las Vegas Raiders,27,355,85,2,24,172,174,0,L
