@@ -1,70 +1,68 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+from advancedStats import process, closeBrowser
 import time
 import random
 
 # team abbreviation tags and range of years played
 teams = [
-        ("crd", 1940, 2022),
-        ("atl", 1966, 2022),
-        ("rav", 1996, 2022),
-        ("buf", 1960, 2022),
-        ("car", 1995, 2022),
-        ("chi", 1940, 2022),
-        ("cin", 1968, 2022),
-        ("cle", 1999, 2022),
-        ("dal", 1960, 2022),
-        ("den", 1960, 2022),
-        ("det", 1940, 2022),
-        ("gnb", 1940, 2022),
-        ("htx", 2002, 2022),
-        ("clt", 1953, 2022),
-        ("jax", 1995, 2022),
-        ("kan", 1960, 2022),
-        ("rai", 1960, 2022),
-        ("sdg", 1960, 2022),
-        ("ram", 1944, 2022),
-        ("mia", 1966, 2022),
-        ("min", 1961, 2022),
-        ("nwe", 1960, 2022),
-        ("nor", 1967, 2022),
-        ("nyg", 1940, 2022),
-        ("nyj", 1960, 2022),
-        ("phi", 1940, 2022),
-        ("pit", 1945, 2022),
-        ("sfo", 1946, 2022),
-        ("sea", 1976, 2022),
-        ("tam", 1976, 2022),
-        ("oti", 1960, 2022),
-        ("was", 1940, 2022)
+        # ("crd", 1970),
+        # ("atl", 1970),
+        # ("rav", 1996),
+        # ("buf", 1970),
+        # ("car", 1995),
+        # ("chi", 1970),
+        # ("cin", 1970),
+        # ("cle", 1999),
+        # ("dal", 1970),
+        # ("den", 1970),
+        # ("det", 1970),
+        # ("gnb", 1970),
+        # ("htx", 2002),
+        # ("clt", 1970),
+        # ("jax", 1995),
+        # ("kan", 1970),
+        # ("rai", 1970),
+        # ("sdg", 1970),
+        # ("ram", 1970),
+        # ("mia", 1970),
+        # ("min", 1970),
+        ("nwe", 1970),
+        ("nor", 1970),
+        ("nyg", 1970),
+        ("nyj", 1970),
+        ("phi", 1970),
+        ("pit", 1970),
+        ("sfo", 1970),
+        ("sea", 1976),
+        ("tam", 1976),
+        ("oti", 1970),
+        ("was", 1970)
     ]
 
-# make look like user
-headers = requests.utils.default_headers()
-headers.update({
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
-})
+stat_labels = ["year", "week_num", "day_of_week", "kickoff_time", 
+                "temperature", "wind_speed", "first_down_off", "rush_attempts",
+                "rush_yds_off", "fumbles_lost", "completed_passes", "pass_attempts", 
+                "pass_yds_off", "interceptions_thrown", "sack_yds_off", "penalty_yds_against",
+                "plays_run_off", "avg_ko_return", "avg_punt_return", "avg_punt_dist", 
+                "first_down_def", "rushes_defended", "rush_yds_def", "fumbles_forced",
+                "completions_allowed", "passes_defended", "pass_yds_def", "interceptions_caught",
+                "sack_yds_def", "penalty_yds_for", "plays_defended", "avg_ko_return_against",
+                "avg_punt_return_against", "avg_punt_dist_against", "result"]
 
-# labels and corresponding index in html table
-stat_labels = ["year", "week_num", "game_day_of_week", "game_time", "opp", "first_down_off", "pass_yds_off", "rush_yds_off", "to_off", "first_down_def", "pass_yds_def", "rush_yds_def", "to_def", "result"]
-indexes = [0, 2, 8, 11, 13, 14, 15, 16, 18, 19, 20, 4]
-
-# iterate through team pages
-url = 'https://www.pro-football-reference.com/teams/'
+url = 'https://www.pro-football-reference.com'
 for team in teams:
     print(team[0])
-    if team[0] == "nwe": continue
 
     data = pd.DataFrame(columns=stat_labels)
 
-    abbr, start, end = team[0], team[1], team[2]
-    filename = abbr + ".csv"
+    abbr, start = team[0], team[1]
+    save_file = ("data/%s.csv" % abbr)
 
-    for year in range(start,end):
+    for year in range(start, 2022):
         print(year)
-        tag = abbr + "/" + str(year)+".htm"
-        path = url + tag
+        path = ("%s/teams/%s/%s.htm" % (url,abbr,year))
 
         r = requests.get(path)
         soup = BeautifulSoup(r.content, 'html.parser')
@@ -85,14 +83,21 @@ for team in teams:
                 break
 
             weekNum = game.findChild('th').text
-            row.append(weekNum)
-            
-            for i in range(len(indexes)):
-                if(stats[indexes[i]].text != ""):
-                    row.append(stats[indexes[i]].text)
-                else:
-                    row.append("0")
-            data.loc[len(data)] = row
+            row.append(int(weekNum))
+            row.append(stats[0].text)
+            row.append(stats[2].text)
+            home = stats[7].text != '@'
 
-        data.to_csv(filename, index=False)
-        time.sleep(random.randint(1,7))
+            box_wrapper = stats[3].find('a', href=True)
+            boxscore_path = box_wrapper['href']
+            boxscore_url = ("%s%s" %(url,boxscore_path))
+            
+            full_row = process(data=row, home=home, url=boxscore_url)
+            full_row.append(stats[4].text)
+
+            print(full_row)
+            data.loc[len(data)] = full_row
+            data.to_csv(save_file, index=False)
+            time.sleep(random.randrange(1,3))
+
+closeBrowser()

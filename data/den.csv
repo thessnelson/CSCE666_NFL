@@ -1,950 +1,498 @@
-year,week_num,game_day_of_week,game_time,opp,first_down_off,pass_yds_off,rush_yds_off,to_off,first_down_def,pass_yds_def,rush_yds_def,to_def,result
-1960,1,Fri,0,Boston Patriots,15,174,149,2,13,140,79,3,W
-1960,2,Sun,0,Buffalo Bills,17,147,117,2,14,211,68,6,W
-1960,3,Fri,0,New York Titans,25,204,209,2,17,90,184,2,L
-1960,4,Sun,0,Oakland Raiders,18,206,165,2,21,172,216,5,W
-1960,6,Sun,0,Los Angeles Chargers,14,129,104,4,16,178,140,3,L
-1960,7,Sun,0,Boston Patriots,19,261,65,6,16,223,211,5,W
-1960,8,Sun,0,Dallas Texans,13,155,147,5,19,177,131,4,L
-1960,9,Sun,0,Houston Oilers,26,371,121,3,24,276,191,0,L
-1960,10,Sun,0,Dallas Texans,13,114,45,4,20,185,271,2,L
-1960,11,Sun,0,Houston Oilers,20,248,81,3,9,265,95,2,L
-1960,12,Sun,0,Buffalo Bills,18,303,81,5,14,157,220,3,T
-1960,13,Sun,0,New York Titans,20,209,40,5,20,187,186,5,L
-1960,14,Sat,0,Los Angeles Chargers,20,281,110,4,22,166,181,2,L
-1960,15,Sat,0,Oakland Raiders,10,173,33,5,29,299,233,2,L
-1961,1,Sun,0,Buffalo Bills,12,179,100,2,13,118,166,3,W
-1961,2,Sat,0,Boston Patriots,10,201,69,4,19,346,46,1,L
-1961,3,Sun,0,New York Titans,18,223,63,2,13,95,108,3,L
-1961,4,Sun,0,Oakland Raiders,14,164,111,3,14,103,153,0,L
-1961,5,Sun,0,Dallas Texans,19,214,57,6,18,39,191,1,L
-1961,6,Sun,0,Oakland Raiders,14,212,82,3,21,247,141,5,W
-1961,7,Sun,0,New York Titans,20,205,133,4,17,281,78,6,W
-1961,8,Sun,0,San Diego Chargers,14,228,76,7,13,211,101,5,L
-1961,9,Sun,0,Houston Oilers,19,130,74,6,24,348,234,2,L
-1961,10,Sun,0,San Diego Chargers,19,272,86,5,13,153,56,3,L
-1961,11,Sun,0,Buffalo Bills,11,161,112,9,13,155,80,0,L
-1961,12,Sun,0,Houston Oilers,11,115,44,8,21,251,60,6,L
-1961,13,Sun,0,Boston Patriots,19,217,64,4,11,173,71,2,L
-1961,14,Sun,0,Dallas Texans,19,199,20,5,23,265,148,3,L
-1962,1,Fri,0,San Diego Chargers,28,384,121,3,14,112,96,1,W
-1962,2,Sat,0,Buffalo Bills,22,428,27,4,18,174,211,2,W
-1962,3,Fri,0,Boston Patriots,18,372,41,5,12,171,170,4,L
-1962,4,Sun,0,New York Titans,16,273,60,4,11,166,78,4,W
-1962,5,Fri,0,Oakland Raiders,19,113,190,5,14,123,74,6,W
-1962,6,Sun,0,Oakland Raiders,15,242,87,5,15,150,79,7,W
-1962,7,Sun,0,Houston Oilers,21,301,86,1,15,201,67,0,W
-1962,8,Sun,0,Buffalo Bills,21,167,196,3,19,253,199,1,L
-1962,9,Sun,0,San Diego Chargers,21,200,51,3,16,162,151,4,W
-1962,10,Sun,0,Boston Patriots,23,213,130,2,25,225,171,2,L
-1962,11,Sun,0,Dallas Texans,12,81,98,1,17,267,180,1,L
-1962,12,Thu,0,New York Titans,19,179,115,4,25,268,113,4,L
-1962,13,Sun,0,Houston Oilers,16,206,39,9,19,280,52,6,L
-1962,14,Sun,0,Dallas Texans,19,245,57,5,14,118,227,4,L
-1963,1,Sat,0,Kansas City Chiefs,12,95,86,7,20,358,120,2,L
-1963,2,Sat,0,Houston Oilers,13,76,106,4,17,208,82,2,L
-1963,4,Sun,0,Boston Patriots,20,154,104,2,11,79,133,5,W
-1963,5,Sun,0,San Diego Chargers,24,229,205,2,15,317,95,7,W
-1963,6,Sun,0,Houston Oilers,13,217,96,5,24,274,118,2,L
-1963,7,Fri,0,Boston Patriots,18,250,95,1,19,331,53,2,L
-1963,8,Sat,0,New York Jets,16,201,116,2,16,225,69,2,T
-1963,9,Sun,0,Buffalo Bills,11,242,59,4,20,307,152,4,L
-1963,10,Sat,0,Buffalo Bills,17,168,77,1,20,267,94,2,L
-1963,11,Sun,0,New York Jets,14,52,163,1,16,238,109,0,L
-1963,13,Thu,0,Oakland Raiders,9,136,29,4,16,119,172,2,L
-1963,14,Sun,0,Kansas City Chiefs,27,197,216,4,23,212,159,2,L
-1963,15,Sun,0,Oakland Raiders,20,316,67,1,14,250,83,1,L
-1963,16,Sun,0,San Diego Chargers,16,154,77,6,23,181,270,2,L
-1964,1,Sat,0,New York Jets,14,95,97,5,15,144,103,0,L
-1964,2,Sun,0,Buffalo Bills,12,157,69,2,20,177,230,5,L
-1964,3,Sun,0,Houston Oilers,24,258,113,4,24,312,124,2,L
-1964,4,Sun,0,Boston Patriots,12,79,53,3,17,152,207,1,L
-1964,5,Sun,0,Kansas City Chiefs,17,165,117,1,20,191,102,4,W
-1964,6,Sun,0,San Diego Chargers,14,79,107,2,26,214,272,1,L
-1964,7,Sun,0,Oakland Raiders,12,157,65,3,29,427,199,1,L
-1964,8,Sun,0,Kansas City Chiefs,14,269,78,3,24,383,137,6,L
-1964,9,Sun,0,San Diego Chargers,13,158,121,5,19,127,70,3,L
-1964,10,Sun,0,New York Jets,11,6,171,2,16,104,111,7,W
-1964,11,Fri,0,Boston Patriots,16,144,70,4,15,180,116,5,L
-1964,12,Sun,0,Oakland Raiders,19,124,141,2,16,213,160,6,T
-1964,14,Sun,0,Buffalo Bills,7,70,47,1,13,64,157,6,L
-1964,15,Sun,0,Houston Oilers,26,260,67,3,16,218,80,6,L
-1965,1,Sat,0,San Diego Chargers,21,179,151,2,19,293,166,3,L
-1965,2,Sun,0,Buffalo Bills,17,291,69,8,20,276,88,2,L
-1965,3,Fri,0,Boston Patriots,22,42,220,2,9,91,34,4,W
-1965,4,Sun,0,New York Jets,21,170,175,1,12,140,64,3,W
-1965,5,Sun,0,Kansas City Chiefs,20,98,192,5,15,172,82,3,L
-1965,6,Sun,0,Houston Oilers,15,170,110,4,23,241,87,5,W
-1965,7,Sun,0,Buffalo Bills,19,264,95,1,21,262,76,1,L
-1965,8,Sun,0,New York Jets,10,148,57,6,13,80,123,3,L
-1965,9,Sun,0,San Diego Chargers,22,202,74,3,21,264,176,2,L
-1965,10,Sun,0,Houston Oilers,12,20,173,4,21,234,100,7,W
-1965,11,Sun,0,Oakland Raiders,22,272,109,5,16,179,72,2,L
-1965,13,Sun,0,Oakland Raiders,17,342,99,1,16,177,138,2,L
-1965,14,Sun,0,Boston Patriots,21,213,135,4,17,189,131,2,L
-1965,15,Sun,0,Kansas City Chiefs,15,229,170,0,17,362,0,0,L
-1966,1,Sat,0,Houston Oilers,0,-7,33,3,28,259,213,1,L
-1966,3,Sun,0,Boston Patriots,12,72,101,3,16,116,145,3,L
-1966,4,Sun,0,New York Jets,7,105,77,2,20,206,153,3,L
-1966,5,Sun,0,Houston Oilers,17,212,150,2,20,289,95,3,W
-1966,6,Sat,0,Kansas City Chiefs,11,133,79,2,21,145,234,1,L
-1966,7,Sun,0,Miami Dolphins,11,53,65,6,10,146,71,4,L
-1966,8,Sun,0,Kansas City Chiefs,12,183,28,7,26,234,380,1,L
-1966,9,Sun,0,San Diego Chargers,15,155,125,0,21,180,154,2,L
-1966,10,Sun,0,Boston Patriots,16,143,97,7,11,67,43,5,W
-1966,12,Sun,0,Oakland Raiders,10,31,71,3,8,94,66,0,L
-1966,13,Sun,0,San Diego Chargers,16,173,170,3,16,200,86,2,W
-1966,14,Sun,0,Miami Dolphins,17,262,91,2,19,207,48,1,W
-1966,15,Sun,0,Oakland Raiders,11,160,42,2,18,243,134,1,L
-1966,16,Sun,0,Buffalo Bills,16,320,44,5,19,129,207,4,L
-1967,1,Sun,0,Boston Patriots,11,117,92,1,14,212,90,7,W
-1967,2,Sun,0,Oakland Raiders,3,-53,48,2,19,180,208,1,L
-1967,3,Sun,0,Miami Dolphins,13,29,97,2,19,233,202,3,L
-1967,4,Sun,0,New York Jets,15,242,117,2,27,399,79,2,L
-1967,5,Sun,0,Houston Oilers,15,49,189,3,14,76,166,2,L
-1967,6,Sun,0,Buffalo Bills,13,107,83,1,21,210,87,4,L
-1967,8,Sun,0,San Diego Chargers,11,206,49,1,22,335,155,2,L
-1967,9,Sun,0,Kansas City Chiefs,10,215,53,6,22,268,176,1,L
-1967,10,Sun,0,Oakland Raiders,7,52,67,1,15,195,132,2,L
-1967,11,Sun,0,Houston Oilers,14,144,78,1,26,133,253,3,L
-1967,12,Sun,0,Buffalo Bills,13,154,40,3,21,229,138,3,W
-1967,13,Thu,0,San Diego Chargers,21,246,112,3,14,204,96,2,L
-1967,14,Sun,0,New York Jets,9,18,124,0,23,305,40,6,W
-1967,16,Sun,0,Kansas City Chiefs,17,156,116,4,19,146,254,3,L
-1968,2,Sun,0,Cincinnati Bengals,15,121,78,1,11,185,104,0,L
-1968,3,Sun,0,Kansas City Chiefs,13,194,51,4,17,196,145,2,L
-1968,4,Sun,0,Boston Patriots,15,85,149,3,14,143,69,1,L
-1968,5,Sun,0,Cincinnati Bengals,11,112,99,0,15,136,111,1,W
-1968,6,Sun,0,New York Jets,12,174,48,0,18,331,129,5,W
-1968,7,Sun,0,San Diego Chargers,26,295,181,5,20,370,211,1,L
-1968,8,Sun,0,Miami Dolphins,20,127,196,4,17,216,124,4,W
-1968,9,Sun,0,Boston Patriots,18,232,238,4,15,98,77,4,W
-1968,10,Sun,0,Oakland Raiders,11,85,90,3,22,280,207,2,L
-1968,11,Sun,0,Houston Oilers,11,126,102,2,22,220,157,2,L
-1968,12,Sun,0,Buffalo Bills,15,302,84,3,14,132,88,2,W
-1968,13,Sun,0,San Diego Chargers,15,177,110,2,27,335,161,1,L
-1968,14,Sun,0,Oakland Raiders,16,204,63,5,24,338,159,6,L
-1968,15,Sat,0,Kansas City Chiefs,19,124,125,4,15,183,119,1,L
-1969,1,Sun,0,Boston Patriots,16,186,135,0,21,237,89,4,W
-1969,2,Sun,0,New York Jets,18,141,151,3,22,262,108,3,W
-1969,3,Sun,0,Buffalo Bills,20,233,69,5,28,247,159,1,L
-1969,4,Sun,0,Kansas City Chiefs,15,132,80,1,19,182,168,0,L
-1969,5,Sun,0,Oakland Raiders,18,113,121,2,20,244,79,0,L
-1969,6,Sun,0,Cincinnati Bengals,17,149,272,3,20,159,97,3,W
-1969,7,Sun,0,Houston Oilers,17,218,96,0,19,239,219,2,L
-1969,8,Sun,0,San Diego Chargers,19,199,114,2,10,20,50,0,W
-1969,9,Sun,0,Oakland Raiders,21,177,125,1,20,270,89,0,L
-1969,10,Sun,0,Houston Oilers,8,113,99,2,19,364,90,5,T
-1969,11,Sun,0,San Diego Chargers,23,329,34,3,27,227,235,2,L
-1969,12,Thu,0,Kansas City Chiefs,17,151,85,2,17,133,152,2,L
-1969,13,Sun,0,Miami Dolphins,13,176,68,4,20,76,146,3,L
-1969,14,Sun,0,Cincinnati Bengals,21,207,188,3,14,272,28,3,W
-1970,1,Sun,1:00PM ET,Buffalo Bills,11,146,136,3,8,56,93,4,W
-1970,2,Sun,4:00PM ET,Pittsburgh Steelers,12,144,82,4,14,227,18,3,W
-1970,3,Sun,4:00PM ET,Kansas City Chiefs,17,100,140,1,14,33,88,5,W
-1970,4,Sun,4:00PM ET,Oakland Raiders,13,140,145,1,25,348,174,1,L
-1970,5,Sun,4:00PM ET,Atlanta Falcons,18,132,91,1,15,140,76,5,W
-1970,6,Sun,4:00PM ET,San Francisco 49ers,15,121,162,3,16,234,128,0,L
-1970,7,Sun,4:00PM ET,Washington Redskins,14,106,140,5,12,102,97,2,L
-1970,8,Sun,4:00PM ET,San Diego Chargers,21,151,190,1,18,144,91,0,L
-1970,9,Sun,3:00PM ET,Oakland Raiders,20,196,116,3,16,258,67,2,L
-1970,10,Sun,1:00PM ET,New Orleans Saints,25,302,150,1,11,214,49,3,W
-1970,11,Sun,3:00PM ET,Houston Oilers,14,164,83,5,12,234,98,3,L
-1970,12,Sun,2:00PM ET,Kansas City Chiefs,7,70,76,6,8,18,204,0,L
-1970,13,Sun,4:00PM ET,San Diego Chargers,14,152,112,3,15,145,86,1,T
-1970,14,Sun,3:00PM ET,Cleveland Browns,16,101,179,4,15,201,82,3,L
-1971,1,Sun,4:00PM ET,Miami Dolphins,13,157,104,1,15,121,118,5,T
-1971,2,Sun,1:00PM ET,Green Bay Packers,19,246,81,7,15,89,214,4,L
-1971,3,Sun,4:00PM ET,Kansas City Chiefs,9,160,62,5,11,66,93,3,L
-1971,4,Sun,4:00PM ET,Oakland Raiders,11,220,99,3,20,113,156,1,L
-1971,5,Sun,4:00PM ET,San Diego Chargers,17,71,225,2,15,212,76,4,W
-1971,6,Sun,1:00PM ET,Cleveland Browns,18,85,280,0,6,36,24,4,W
-1971,7,Sun,1:00PM ET,Philadelphia Eagles,19,102,170,5,9,77,46,1,L
-1971,8,Sun,4:00PM ET,Detroit Lions,20,157,203,2,19,190,228,2,L
-1971,9,Sun,4:00PM ET,Cincinnati Bengals,10,99,122,1,19,260,213,1,L
-1971,10,Sun,2:00PM ET,Kansas City Chiefs,15,190,129,3,16,255,132,3,L
-1971,11,Sun,1:00PM ET,Pittsburgh Steelers,14,150,126,2,12,67,158,3,W
-1971,12,Sun,4:00PM ET,Chicago Bears,10,54,170,4,9,-7,73,4,W
-1971,13,Sun,4:00PM ET,San Diego Chargers,19,163,167,3,24,343,155,1,L
-1971,14,Sun,4:00PM ET,Oakland Raiders,23,211,155,1,16,163,148,4,L
-1972,1,Sun,4:00PM ET,Houston Oilers,18,239,239,3,12,142,54,2,W
-1972,2,Sun,4:00PM ET,San Diego Chargers,17,218,95,6,18,175,142,2,L
-1972,3,Sun,4:00PM ET,Kansas City Chiefs,21,184,148,4,14,175,130,1,L
-1972,4,Sun,1:00PM ET,Cincinnati Bengals,11,37,130,0,13,109,90,1,L
-1972,5,Sun,4:00PM ET,Minnesota Vikings,15,175,161,2,21,177,128,1,L
-1972,6,Sun,4:00PM ET,Oakland Raiders,15,396,13,1,23,189,127,1,W
-1972,7,Sun,4:00PM ET,Cleveland Browns,17,126,146,1,26,171,172,1,L
-1972,8,Sun,1:00PM ET,New York Giants,17,147,183,3,23,178,138,1,L
-1972,9,Sun,4:00PM ET,Los Angeles Rams,13,112,133,2,9,110,73,3,W
-1972,10,Sun,2:00PM ET,Oakland Raiders,13,170,38,3,25,140,197,2,L
-1972,11,Sun,1:00PM ET,Atlanta Falcons,17,213,102,1,13,170,80,1,L
-1972,12,Sun,2:00PM ET,Kansas City Chiefs,22,191,137,5,12,76,113,1,L
-1972,13,Sun,2:00PM ET,San Diego Chargers,15,85,172,3,20,236,99,5,W
-1972,14,Sun,4:00PM ET,New England Patriots,26,341,141,0,22,135,125,0,W
-1973,1,Sun,4:00PM ET,Cincinnati Bengals,23,190,153,1,22,211,133,1,W
-1973,2,Sun,4:00PM ET,San Francisco 49ers,22,240,115,6,16,212,135,1,L
-1973,3,Sun,4:00PM ET,Chicago Bears,25,295,71,7,19,123,202,1,L
-1973,4,Sun,2:00PM ET,Kansas City Chiefs,10,112,158,1,19,170,179,1,L
-1973,5,Sun,2:00PM ET,Houston Oilers,21,214,233,0,20,98,117,5,W
-1973,6,Mon,9:00PM ET,Oakland Raiders,13,102,114,2,21,270,147,3,T
-1973,7,Sun,1:00PM ET,New York Jets,20,235,197,1,17,229,86,3,W
-1973,8,Sun,2:00PM ET,St. Louis Cardinals,15,190,104,1,18,168,93,2,T
-1973,9,Sun,4:00PM ET,San Diego Chargers,21,234,179,3,14,101,120,2,W
-1973,10,Sun,1:00PM ET,Pittsburgh Steelers,20,73,184,0,12,217,83,3,W
-1973,11,Sun,3:00PM ET,Kansas City Chiefs,12,137,82,1,17,103,139,2,W
-1973,12,Sun,4:00PM ET,Dallas Cowboys,12,147,82,3,14,189,74,0,L
-1973,13,Sun,4:00PM ET,San Diego Chargers,23,231,192,0,14,215,126,3,W
-1973,14,Sun,4:00PM ET,Oakland Raiders,16,119,90,3,16,134,161,2,L
-1974,1,Sun,4:00PM ET,Los Angeles Rams,11,104,52,0,14,127,145,2,L
-1974,2,Sun,4:00PM ET,Pittsburgh Steelers,20,176,156,3,33,324,160,4,T
-1974,3,Mon,9:00PM ET,Washington Redskins,10,106,53,3,21,245,100,1,L
-1974,4,Sun,4:00PM ET,Kansas City Chiefs,13,90,131,2,11,81,89,2,W
-1974,5,Sun,4:00PM ET,New Orleans Saints,24,274,123,2,19,196,137,3,W
-1974,6,Sun,4:00PM ET,San Diego Chargers,20,165,189,1,16,149,84,3,W
-1974,7,Sun,1:00PM ET,Cleveland Browns,18,172,186,1,14,187,72,1,L
-1974,8,Sun,4:00PM ET,Oakland Raiders,11,223,113,3,16,207,180,2,L
-1974,9,Sun,2:00PM ET,Baltimore Colts,12,38,133,0,24,176,147,4,W
-1974,10,Mon,9:00PM ET,Kansas City Chiefs,34,459,73,6,24,170,194,2,L
-1974,11,Sun,4:00PM ET,Oakland Raiders,22,118,292,1,20,220,128,3,W
-1974,12,Thu,12:30PM ET,Detroit Lions,23,121,240,2,16,131,121,2,W
-1974,13,Sun,4:00PM ET,Houston Oilers,27,168,243,1,16,180,88,2,W
-1974,14,Sun,4:00PM ET,San Diego Chargers,13,114,173,5,21,190,163,2,L
-1975,1,Sun,4:00PM ET,Kansas City Chiefs,15,298,127,4,18,166,146,2,W
-1975,2,Mon,9:00PM ET,Green Bay Packers,18,175,162,2,22,242,71,3,W
-1975,3,Sun,1:00PM ET,Buffalo Bills,13,258,47,4,29,143,293,1,L
-1975,4,Sun,1:00PM ET,Pittsburgh Steelers,17,153,124,4,14,190,137,2,L
-1975,5,Sun,4:00PM ET,Cleveland Browns,18,217,108,6,17,127,144,2,W
-1975,6,Sun,2:00PM ET,Kansas City Chiefs,22,201,151,4,17,106,197,1,L
-1975,7,Sun,4:00PM ET,Oakland Raiders,24,177,150,3,21,144,184,4,L
-1975,8,Sun,4:00PM ET,Cincinnati Bengals,19,213,92,2,20,181,163,1,L
-1975,9,Sun,4:00PM ET,San Diego Chargers,22,225,112,2,17,202,105,2,W
-1975,10,Sun,1:00PM ET,Atlanta Falcons,17,131,102,6,20,129,148,4,L
-1975,11,Sun,4:00PM ET,San Diego Chargers,24,8,328,6,3,64,59,2,W
-1975,12,Mon,9:00PM ET,Oakland Raiders,18,107,147,4,16,78,100,3,L
-1975,13,Sun,4:00PM ET,Philadelphia Eagles,20,172,197,1,17,170,114,5,W
-1975,14,Sat,3:30PM ET,Miami Dolphins,21,206,146,0,16,90,113,0,L
-1976,1,Sun,2:00PM ET,Cincinnati Bengals,12,46,115,2,14,135,118,1,L
-1976,2,Sun,4:00PM ET,New York Jets,31,292,251,1,11,93,92,2,W
-1976,3,Sun,4:00PM ET,Cleveland Browns,18,171,55,3,17,144,83,4,W
-1976,4,Sun,4:00PM ET,San Diego Chargers,17,170,141,2,12,152,88,3,W
-1976,5,Sun,2:00PM ET,Houston Oilers,8,67,87,1,18,217,95,0,L
-1976,6,Sun,4:00PM ET,Oakland Raiders,16,173,88,0,20,158,131,1,L
-1976,7,Sun,2:00PM ET,Kansas City Chiefs,24,203,192,5,29,298,169,2,W
-1976,8,Sun,4:00PM ET,Oakland Raiders,16,134,131,2,20,222,160,2,L
-1976,9,Sun,4:00PM ET,Tampa Bay Buccaneers,18,222,193,3,17,122,112,4,W
-1976,10,Sun,4:00PM ET,San Diego Chargers,13,194,61,2,8,95,33,6,W
-1976,11,Sun,4:00PM ET,New York Giants,15,103,136,1,13,122,121,3,W
-1976,12,Sun,1:00PM ET,New England Patriots,12,145,44,3,25,82,332,2,L
-1976,13,Sun,4:00PM ET,Kansas City Chiefs,13,187,82,3,13,129,59,3,W
-1976,14,Sun,2:00PM ET,Chicago Bears,26,97,356,6,5,56,116,4,W
-1977,1,Sun,4:00PM ET,St. Louis Cardinals,15,122,136,4,12,204,69,1,W
-1977,2,Sun,4:00PM ET,Buffalo Bills,17,93,203,2,8,63,66,3,W
-1977,3,Sun,4:00PM ET,Seattle Seahawks,19,177,153,2,19,191,81,3,W
-1977,4,Sun,4:00PM ET,Kansas City Chiefs,16,188,124,2,14,80,86,6,W
-1977,5,Sun,4:00PM ET,Oakland Raiders,8,98,102,0,21,239,87,8,W
-1977,6,Sun,1:00PM ET,Cincinnati Bengals,16,155,180,0,14,159,177,3,W
-1977,7,Sun,4:00PM ET,Oakland Raiders,19,180,98,3,17,70,200,0,L
-1977,8,Sun,4:00PM ET,Pittsburgh Steelers,12,75,99,0,19,97,119,2,W
-1977,9,Sun,4:00PM ET,San Diego Chargers,14,120,102,3,13,192,128,2,W
-1977,10,Sun,2:00PM ET,Kansas City Chiefs,21,127,249,3,14,160,140,2,W
-1977,11,Sun,4:00PM ET,Baltimore Colts,11,143,174,2,23,240,90,3,W
-1977,12,Sun,1:00PM ET,Houston Oilers,23,163,169,2,11,139,112,1,W
-1977,13,Sun,4:00PM ET,San Diego Chargers,20,142,156,3,17,260,64,3,W
-1977,14,Sun,2:00PM ET,Dallas Cowboys,12,80,98,1,15,150,112,2,L
-1978,1,Sun,4:00PM ET,Oakland Raiders,13,8,144,1,16,201,117,3,W
-1978,2,Mon,9:00PM ET,Minnesota Vikings,18,129,102,6,13,105,101,3,L
-1978,3,Sun,4:00PM ET,San Diego Chargers,21,177,137,0,18,214,101,2,W
-1978,4,Sun,2:00PM ET,Kansas City Chiefs,25,129,228,1,13,89,155,2,W
-1978,5,Sun,4:00PM ET,Seattle Seahawks,24,169,204,3,19,231,92,5,W
-1978,6,Sun,4:00PM ET,San Diego Chargers,11,80,76,5,19,170,128,2,L
-1978,7,Mon,9:00PM ET,Chicago Bears,18,173,135,3,15,137,210,3,W
-1978,8,Sun,4:00PM ET,Baltimore Colts,17,190,151,1,11,131,106,1,L
-1978,9,Sun,4:00PM ET,Seattle Seahawks,25,145,278,3,19,140,118,5,W
-1978,10,Sun,4:00PM ET,New York Jets,15,173,133,3,19,201,202,3,L
-1978,11,Sun,1:00PM ET,Cleveland Browns,17,214,109,2,14,145,110,3,W
-1978,12,Sun,4:00PM ET,Green Bay Packers,19,144,215,0,13,179,84,1,W
-1978,13,Thu,12:30PM ET,Detroit Lions,16,105,128,1,15,105,139,1,L
-1978,14,Sun,9:00PM ET,Oakland Raiders,16,45,147,1,20,178,101,5,W
-1978,15,Sun,4:00PM ET,Kansas City Chiefs,20,271,190,2,13,100,99,3,W
-1978,16,Sat,4:00PM ET,Pittsburgh Steelers,19,226,74,2,14,144,116,2,L
-1979,1,Sun,4:00PM ET,Cincinnati Bengals,22,200,199,0,16,137,95,0,W
-1979,2,Thu,8:30PM ET,Los Angeles Rams,12,106,73,2,15,181,96,0,L
-1979,3,Sun,1:00PM ET,Atlanta Falcons,18,201,168,2,19,326,56,0,W
-1979,4,Sun,4:00PM ET,Seattle Seahawks,23,254,90,3,22,197,153,4,W
-1979,5,Sun,4:00PM ET,Oakland Raiders,21,210,81,3,16,187,90,0,L
-1979,6,Sun,4:00PM ET,San Diego Chargers,11,33,160,1,19,305,69,4,W
-1979,7,Sun,4:00PM ET,Kansas City Chiefs,21,207,137,1,16,68,98,2,W
-1979,8,Mon,9:00PM ET,Pittsburgh Steelers,16,276,53,3,27,294,236,3,L
-1979,9,Sun,4:00PM ET,Kansas City Chiefs,20,269,112,2,12,108,102,3,W
-1979,10,Sun,4:00PM ET,New Orleans Saints,19,201,148,3,13,117,122,1,W
-1979,11,Sun,4:00PM ET,New England Patriots,21,182,107,3,8,34,58,3,W
-1979,12,Sun,4:00PM ET,San Francisco 49ers,22,225,144,2,18,166,74,2,W
-1979,13,Sun,4:00PM ET,Oakland Raiders,22,167,215,3,15,203,173,2,L
-1979,14,Sun,1:00PM ET,Buffalo Bills,11,129,97,4,19,298,100,7,W
-1979,15,Sat,4:00PM ET,Seattle Seahawks,27,222,141,3,21,308,74,2,L
-1979,16,Mon,9:00PM ET,San Diego Chargers,20,224,111,5,17,230,97,4,L
-1980,1,Sun,4:00PM ET,Philadelphia Eagles,14,140,93,2,21,284,137,2,L
-1980,2,Sun,4:00PM ET,Dallas Cowboys,19,190,153,0,20,276,110,3,W
-1980,3,Sun,4:00PM ET,San Diego Chargers,22,221,153,7,16,211,92,3,L
-1980,4,Mon,9:00PM ET,New England Patriots,8,62,108,1,23,200,157,2,L
-1980,5,Sun,1:00PM ET,Cleveland Browns,17,157,82,1,18,255,103,1,W
-1980,6,Mon,9:00PM ET,Washington Redskins,19,132,165,2,15,130,184,1,W
-1980,7,Sun,2:00PM ET,Kansas City Chiefs,17,182,86,2,19,183,178,0,L
-1980,8,Sun,1:00PM ET,New York Giants,21,64,212,1,15,188,127,1,W
-1980,9,Sun,4:00PM ET,Houston Oilers,18,156,96,0,23,157,173,1,L
-1980,10,Sun,4:00PM ET,San Diego Chargers,11,131,88,0,26,324,135,3,W
-1980,11,Sun,4:00PM ET,New York Jets,29,275,115,3,14,201,99,1,W
-1980,12,Sun,4:00PM ET,Seattle Seahawks,17,200,76,3,14,151,69,5,W
-1980,13,Mon,9:00PM ET,Oakland Raiders,12,119,95,6,15,51,164,0,L
-1980,14,Sun,4:00PM ET,Kansas City Chiefs,21,216,132,5,22,132,199,2,L
-1980,15,Sun,4:00PM ET,Oakland Raiders,26,431,76,4,15,179,97,1,L
-1980,16,Sun,4:00PM ET,Seattle Seahawks,15,101,135,0,27,203,96,2,W
-1981,1,Sun,4:00PM ET,Oakland Raiders,21,182,176,1,12,84,81,3,W
-1981,2,Sun,4:00PM ET,Seattle Seahawks,16,142,110,2,18,156,111,2,L
-1981,3,Sun,4:00PM ET,Baltimore Colts,27,315,127,4,10,48,161,3,W
-1981,4,Sun,4:00PM ET,San Diego Chargers,20,350,103,3,23,267,82,5,W
-1981,5,Sun,4:00PM ET,Oakland Raiders,17,90,162,0,12,90,78,6,W
-1981,6,Sun,4:00PM ET,Detroit Lions,20,266,135,3,18,63,262,1,W
-1981,7,Sun,4:00PM ET,Kansas City Chiefs,20,319,77,5,13,100,224,5,L
-1981,8,Sun,1:00PM ET,Buffalo Bills,10,97,64,0,17,204,119,2,L
-1981,9,Mon,9:00PM ET,Minnesota Vikings,17,182,147,2,19,223,102,2,W
-1981,10,Sun,4:00PM ET,Cleveland Browns,22,246,116,2,20,280,82,4,W
-1981,11,Sun,1:00PM ET,Tampa Bay Buccaneers,22,128,153,1,10,168,41,2,W
-1981,12,Sun,1:00PM ET,Cincinnati Bengals,17,269,68,4,25,387,184,1,L
-1981,13,Sun,4:00PM ET,San Diego Chargers,19,322,67,5,20,260,148,2,L
-1981,14,Sun,4:00PM ET,Kansas City Chiefs,16,265,77,1,18,233,74,1,W
-1981,15,Sun,4:00PM ET,Seattle Seahawks,23,136,237,3,18,199,86,5,W
-1981,16,Sun,1:00PM ET,Chicago Bears,19,222,76,3,15,111,170,2,L
-1982,1,Sun,4:00PM ET,San Diego Chargers,17,222,101,6,23,253,140,0,L
-1982,2,Sun,4:00PM ET,San Francisco 49ers,17,183,100,2,20,325,88,2,W
-1982,11,Sun,4:00PM ET,Seattle Seahawks,10,114,136,2,21,303,84,1,L
-1982,12,Sun,4:00PM ET,San Diego Chargers,20,175,119,5,28,330,106,3,L
-1982,13,Sun,4:00PM ET,Atlanta Falcons,23,249,101,4,19,205,137,2,L
-1982,14,Sun,4:00PM ET,Los Angeles Rams,22,258,127,3,14,161,92,3,W
-1982,15,Sun,4:00PM ET,Kansas City Chiefs,17,146,74,4,17,172,98,1,L
-1982,16,Sun,4:00PM ET,Los Angeles Raiders,25,284,61,6,16,251,61,4,L
-1982,17,Sun,4:00PM ET,Seattle Seahawks,19,188,199,4,18,234,129,3,L
-1983,1,Sun,1:00PM ET,Pittsburgh Steelers,14,1,138,3,21,191,123,7,W
-1983,2,Sun,4:00PM ET,Baltimore Colts,15,223,104,3,13,121,150,3,W
-1983,3,Sun,4:00PM ET,Philadelphia Eagles,16,176,69,3,19,274,133,2,L
-1983,4,Sun,4:00PM ET,Los Angeles Raiders,16,138,130,4,11,132,82,1,L
-1983,5,Sun,1:00PM ET,Chicago Bears,16,200,46,2,22,246,177,4,L
-1983,6,Sun,1:00PM ET,Houston Oilers,22,148,253,1,19,167,126,4,W
-1983,7,Sun,4:00PM ET,Cincinnati Bengals,22,276,110,2,22,252,105,1,W
-1983,8,Sun,4:00PM ET,San Diego Chargers,21,133,128,4,17,193,106,3,W
-1983,9,Sun,4:00PM ET,Kansas City Chiefs,23,329,75,1,21,327,35,3,W
-1983,10,Sun,4:00PM ET,Seattle Seahawks,23,222,135,3,18,216,183,1,L
-1983,11,Sun,4:00PM ET,Los Angeles Raiders,14,169,63,2,23,200,140,3,L
-1983,12,Sun,4:00PM ET,Seattle Seahawks,17,145,184,2,29,380,94,8,W
-1983,13,Sun,4:00PM ET,San Diego Chargers,15,112,83,3,31,287,141,2,L
-1983,14,Sun,4:00PM ET,Cleveland Browns,24,284,127,1,19,216,65,3,W
-1983,15,Sun,4:00PM ET,Baltimore Colts,19,307,45,2,19,201,187,1,W
-1983,16,Sun,1:00PM ET,Kansas City Chiefs,15,164,94,5,17,268,91,1,L
-1984,1,Sun,4:00PM ET,Cincinnati Bengals,19,202,121,2,29,322,111,2,W
-1984,2,Sun,1:00PM ET,Chicago Bears,8,77,53,4,15,104,302,3,L
-1984,3,Sun,9:00PM ET,Cleveland Browns,18,164,133,2,21,231,79,4,W
-1984,4,Sun,4:00PM ET,Kansas City Chiefs,21,157,210,2,16,287,50,2,W
-1984,5,Sun,4:00PM ET,Los Angeles Raiders,26,121,231,1,12,211,70,2,W
-1984,6,Sun,1:00PM ET,Detroit Lions,20,179,108,3,23,256,92,10,W
-1984,7,Mon,9:00PM ET,Green Bay Packers,10,101,92,1,25,349,74,5,W
-1984,8,Sun,1:00PM ET,Buffalo Bills,24,232,107,0,10,155,71,5,W
-1984,9,Sun,4:00PM ET,Los Angeles Raiders,24,178,182,3,20,234,122,7,W
-1984,10,Sun,4:00PM ET,New England Patriots,18,291,28,1,25,289,195,3,W
-1984,11,Sun,4:00PM ET,San Diego Chargers,17,177,62,0,20,254,112,1,W
-1984,12,Sun,4:00PM ET,Minnesota Vikings,22,229,206,2,19,247,67,5,W
-1984,13,Sun,4:00PM ET,Seattle Seahawks,18,258,93,2,20,406,60,0,L
-1984,14,Sun,1:00PM ET,Kansas City Chiefs,17,164,145,3,17,225,93,3,L
-1984,15,Sun,4:00PM ET,San Diego Chargers,22,181,162,4,16,147,87,0,W
-1984,16,Sat,4:00PM ET,Seattle Seahawks,15,148,143,4,23,306,79,3,W
-1985,1,Sun,4:00PM ET,Los Angeles Rams,13,214,63,3,19,138,147,3,L
-1985,2,Sun,4:00PM ET,New Orleans Saints,22,327,105,2,17,235,107,1,W
-1985,3,Sun,1:00PM ET,Atlanta Falcons,27,280,148,2,16,233,108,2,W
-1985,4,Sun,4:00PM ET,Miami Dolphins,23,226,169,2,19,365,53,1,L
-1985,5,Sun,4:00PM ET,Houston Oilers,31,241,121,3,18,201,120,0,W
-1985,6,Sun,1:00PM ET,Indianapolis Colts,20,223,128,1,12,117,120,3,W
-1985,7,Sun,4:00PM ET,Seattle Seahawks,14,148,98,0,17,77,172,5,W
-1985,8,Sun,1:00PM ET,Kansas City Chiefs,25,118,206,0,13,180,77,0,W
-1985,9,Sun,4:00PM ET,San Diego Chargers,17,231,64,3,24,285,145,3,L
-1985,10,Mon,9:00PM ET,San Francisco 49ers,18,215,121,1,16,203,138,0,W
-1985,11,Sun,4:00PM ET,San Diego Chargers,21,240,91,2,22,245,95,4,W
-1985,12,Sun,4:00PM ET,Los Angeles Raiders,25,138,153,1,21,223,201,3,L
-1985,13,Sun,1:00PM ET,Pittsburgh Steelers,20,238,93,1,22,250,77,4,W
-1985,14,Sun,4:00PM ET,Los Angeles Raiders,17,120,87,4,20,93,181,5,L
-1985,15,Sat,4:00PM ET,Kansas City Chiefs,20,301,110,6,14,156,106,1,W
-1985,16,Fri,8:00PM ET,Seattle Seahawks,26,385,94,0,20,205,126,1,W
-1986,1,Sun,4:00PM ET,Los Angeles Raiders,20,235,55,1,22,315,116,3,W
-1986,2,Mon,9:00PM ET,Pittsburgh Steelers,20,235,91,1,17,206,30,3,W
-1986,3,Sun,1:00PM ET,Philadelphia Eagles,19,125,203,1,16,196,77,2,W
-1986,4,Sun,4:00PM ET,New England Patriots,22,182,156,2,16,184,40,1,W
-1986,5,Sun,4:00PM ET,Dallas Cowboys,19,198,121,1,19,225,41,3,W
-1986,6,Sun,4:00PM ET,San Diego Chargers,25,247,156,1,19,316,42,2,W
-1986,7,Mon,9:00PM ET,New York Jets,19,232,47,3,20,74,137,0,L
-1986,8,Sun,4:00PM ET,Seattle Seahawks,24,332,118,2,13,50,164,0,W
-1986,9,Sun,4:00PM ET,Los Angeles Raiders,11,132,114,1,25,326,81,6,W
-1986,10,Sun,4:00PM ET,San Diego Chargers,12,184,61,5,14,147,78,2,L
-1986,11,Sun,4:00PM ET,Kansas City Chiefs,18,198,67,2,16,220,77,4,W
-1986,12,Sun,1:00PM ET,New York Giants,26,325,80,4,14,119,143,2,L
-1986,13,Sun,4:00PM ET,Cincinnati Bengals,27,219,182,0,22,302,124,3,W
-1986,14,Sun,1:00PM ET,Kansas City Chiefs,16,242,81,5,12,93,76,1,L
-1986,15,Sat,4:00PM ET,Washington Redskins,23,259,71,0,19,285,127,2,W
-1986,16,Sat,4:00PM ET,Seattle Seahawks,18,193,75,0,27,238,298,1,L
-1987,1,Sun,4:00PM ET,Seattle Seahawks,25,338,166,2,15,169,108,5,W
-1987,2,Sun,1:00PM ET,Green Bay Packers,29,281,197,6,14,100,134,1,T
-1987,4,Sun,4:00PM ET,Houston Oilers,14,182,38,3,20,260,154,2,L
-1987,5,Mon,9:00PM ET,Los Angeles Raiders,24,142,204,2,16,168,102,5,W
-1987,6,Sun,4:00PM ET,Kansas City Chiefs,23,275,98,4,16,125,122,3,W
-1987,7,Mon,9:00PM ET,Minnesota Vikings,21,206,123,1,27,196,197,5,L
-1987,8,Sun,4:00PM ET,Detroit Lions,28,248,212,1,14,128,63,2,W
-1987,9,Sun,1:00PM ET,Buffalo Bills,12,139,76,2,25,170,258,3,L
-1987,10,Mon,9:00PM ET,Chicago Bears,26,341,98,2,24,300,146,2,W
-1987,11,Sun,4:00PM ET,Los Angeles Raiders,20,276,127,1,17,122,149,1,W
-1987,12,Sun,4:00PM ET,San Diego Chargers,31,347,175,1,18,312,66,2,W
-1987,13,Sun,4:00PM ET,New England Patriots,21,259,112,3,20,158,211,6,W
-1987,14,Sun,8:00PM ET,Seattle Seahawks,20,308,72,2,24,226,141,4,L
-1987,15,Sat,4:00PM ET,Kansas City Chiefs,22,226,143,2,20,254,123,1,W
-1987,16,Sun,4:00PM ET,San Diego Chargers,15,86,129,4,7,108,43,5,W
-1988,1,Sun,4:00PM ET,Seattle Seahawks,19,226,76,3,19,152,178,1,L
-1988,2,Sun,4:00PM ET,San Diego Chargers,24,259,184,0,13,111,133,2,W
-1988,3,Sun,1:00PM ET,Kansas City Chiefs,17,213,70,3,22,250,130,0,L
-1988,4,Mon,8:00PM ET,Los Angeles Raiders,23,209,189,5,20,235,128,1,L
-1988,5,Sun,4:00PM ET,San Diego Chargers,22,162,129,1,11,170,20,2,W
-1988,6,Sun,4:00PM ET,San Francisco 49ers,24,167,147,3,21,171,246,4,W
-1988,7,Sun,4:00PM ET,Atlanta Falcons,21,302,104,1,20,137,174,3,W
-1988,8,Sun,1:00PM ET,Pittsburgh Steelers,15,278,45,4,18,130,256,2,L
-1988,9,Mon,9:00PM ET,Indianapolis Colts,22,266,131,4,23,220,244,0,L
-1988,10,Sun,4:00PM ET,Kansas City Chiefs,23,177,131,2,16,183,90,3,W
-1988,11,Sun,4:00PM ET,Cleveland Browns,27,215,120,0,15,140,87,4,W
-1988,12,Sun,4:00PM ET,New Orleans Saints,17,206,52,1,28,189,196,0,L
-1988,13,Sun,4:00PM ET,Los Angeles Rams,19,270,98,1,28,352,132,3,W
-1988,14,Sun,4:00PM ET,Los Angeles Raiders,20,297,50,3,14,87,129,2,L
-1988,15,Sun,8:00PM ET,Seattle Seahawks,25,301,101,1,30,220,230,0,L
-1988,16,Sat,4:00PM ET,New England Patriots,20,143,188,2,18,186,165,2,W
-1989,1,Sun,4:00PM ET,Kansas City Chiefs,14,150,100,2,14,242,45,4,W
-1989,2,Mon,9:00PM ET,Buffalo Bills,26,181,201,2,28,319,94,4,W
-1989,3,Sun,4:00PM ET,Los Angeles Raiders,18,113,170,3,15,270,90,6,W
-1989,4,Sun,1:00PM ET,Cleveland Browns,10,161,80,3,16,201,95,1,L
-1989,5,Sun,4:00PM ET,San Diego Chargers,24,179,156,1,12,93,118,2,W
-1989,6,Sun,4:00PM ET,Indianapolis Colts,20,150,169,2,7,84,44,1,W
-1989,7,Sun,4:00PM ET,Seattle Seahawks,15,316,55,1,23,224,139,4,W
-1989,8,Sun,4:00PM ET,Philadelphia Eagles,22,216,104,6,17,98,215,2,L
-1989,9,Sun,4:00PM ET,Pittsburgh Steelers,22,261,153,2,7,77,93,1,W
-1989,10,Sun,1:00PM ET,Kansas City Chiefs,12,112,101,1,20,171,141,2,W
-1989,11,Mon,9:00PM ET,Washington Redskins,19,106,126,2,14,146,77,2,W
-1989,12,Sun,4:00PM ET,Seattle Seahawks,18,216,137,0,21,192,133,4,W
-1989,13,Sun,4:00PM ET,Los Angeles Raiders,26,176,156,2,11,178,79,1,L
-1989,14,Sun,4:00PM ET,New York Giants,18,284,83,0,16,148,113,0,L
-1989,15,Sat,4:00PM ET,Phoenix Cardinals,28,271,204,2,7,79,22,3,W
-1989,16,Sun,4:00PM ET,San Diego Chargers,16,109,97,3,18,305,82,6,L
-1990,1,Sun,4:00PM ET,Los Angeles Raiders,13,157,39,4,12,71,123,2,L
-1990,2,Mon,9:00PM ET,Kansas City Chiefs,18,250,149,2,22,363,78,1,W
-1990,3,Sun,4:00PM ET,Seattle Seahawks,30,281,141,1,24,185,184,3,W
-1990,4,Sun,1:00PM ET,Buffalo Bills,28,202,208,5,15,133,64,3,L
-1990,5,Mon,9:00PM ET,Cleveland Browns,19,175,141,2,23,318,97,3,L
-1990,6,Sun,4:00PM ET,Pittsburgh Steelers,16,178,66,1,25,343,108,2,L
-1990,7,Sun,1:00PM ET,Indianapolis Colts,23,293,151,1,23,304,59,1,W
-1990,9,Sun,8:00PM ET,Minnesota Vikings,19,141,146,3,15,111,145,1,L
-1990,10,Sun,4:00PM ET,San Diego Chargers,15,149,62,2,17,159,181,0,L
-1990,11,Sun,4:00PM ET,Chicago Bears,21,222,108,2,21,139,202,0,L
-1990,12,Thu,12:30PM ET,Detroit Lions,19,211,73,2,22,248,173,1,L
-1990,13,Sun,4:00PM ET,Los Angeles Raiders,20,216,141,1,17,145,148,0,L
-1990,14,Sun,4:00PM ET,Kansas City Chiefs,26,300,74,3,19,254,111,1,L
-1990,15,Sun,4:00PM ET,San Diego Chargers,16,233,87,0,24,298,92,2,W
-1990,16,Sun,8:00PM ET,Seattle Seahawks,16,145,101,2,13,103,110,1,L
-1990,17,Sun,4:00PM ET,Green Bay Packers,24,188,185,1,14,208,88,4,W
-1991,1,Sun,4:00PM ET,Cincinnati Bengals,25,286,185,0,10,193,53,4,W
-1991,2,Sun,4:00PM ET,Los Angeles Raiders,12,214,33,1,16,140,133,0,L
-1991,3,Sun,4:00PM ET,Seattle Seahawks,16,246,99,2,17,312,50,4,W
-1991,4,Sun,4:00PM ET,San Diego Chargers,18,216,144,2,17,126,171,2,W
-1991,5,Sun,8:00PM ET,Minnesota Vikings,17,63,179,1,15,121,203,3,W
-1991,6,Sun,1:00PM ET,Houston Oilers,23,272,91,3,17,327,51,2,L
-1991,8,Sun,4:00PM ET,Kansas City Chiefs,14,229,95,0,22,209,119,0,W
-1991,9,Sun,4:00PM ET,New England Patriots,14,141,102,1,15,146,141,0,W
-1991,10,Sun,8:00PM ET,Pittsburgh Steelers,17,130,144,2,19,163,146,1,W
-1991,11,Sun,4:00PM ET,Los Angeles Raiders,23,183,200,3,13,126,118,0,L
-1991,12,Sun,1:00PM ET,Kansas City Chiefs,14,87,172,0,21,292,125,4,W
-1991,13,Sun,4:00PM ET,Seattle Seahawks,12,112,98,4,11,53,146,4,L
-1991,14,Sun,4:00PM ET,New England Patriots,19,209,116,1,14,202,50,4,W
-1991,15,Sun,1:00PM ET,Cleveland Browns,17,200,90,1,9,80,101,1,W
-1991,16,Sun,4:00PM ET,Phoenix Cardinals,22,243,122,3,13,158,73,0,W
-1991,17,Sun,4:00PM ET,San Diego Chargers,21,166,145,1,13,107,114,4,W
-1992,1,Sun,8:00PM ET,Los Angeles Raiders,12,153,47,3,20,161,152,5,W
-1992,2,Sun,4:00PM ET,San Diego Chargers,12,162,64,1,27,187,168,2,W
-1992,3,Sun,1:00PM ET,Philadelphia Eagles,4,30,52,1,20,258,130,0,L
-1992,4,Sun,1:00PM ET,Cleveland Browns,15,112,188,1,10,75,141,3,W
-1992,5,Sun,4:00PM ET,Kansas City Chiefs,20,279,68,1,20,279,90,0,W
-1992,6,Mon,9:00PM ET,Washington Redskins,7,102,26,4,17,245,117,1,L
-1992,7,Sun,4:00PM ET,Houston Oilers,14,152,170,0,21,298,109,1,W
-1992,8,Sun,4:00PM ET,San Diego Chargers,18,260,91,3,20,340,101,3,L
-1992,10,Sun,4:00PM ET,New York Jets,19,261,114,4,15,182,159,2,W
-1992,11,Sun,8:00PM ET,New York Giants,18,230,149,2,10,39,120,1,W
-1992,12,Sun,4:00PM ET,Los Angeles Raiders,15,182,85,3,20,150,167,0,L
-1992,13,Mon,9:00PM ET,Seattle Seahawks,10,112,84,2,15,234,74,4,L
-1992,14,Sun,4:00PM ET,Dallas Cowboys,15,261,93,5,22,222,82,0,L
-1992,15,Sat,12:30PM ET,Buffalo Bills,24,222,98,5,17,210,151,4,L
-1992,16,Sun,4:00PM ET,Seattle Seahawks,15,204,89,5,16,80,142,2,W
-1992,17,Sun,1:00PM ET,Kansas City Chiefs,16,208,82,3,13,160,60,3,L
-1993,1,Sun,1:00PM ET,New York Jets,18,254,99,1,20,351,71,3,W
-1993,2,Sun,4:00PM ET,San Diego Chargers,17,284,58,2,26,322,68,2,W
-1993,3,Mon,9:00PM ET,Kansas City Chiefs,17,300,35,3,21,254,160,1,L
-1993,5,Sun,4:00PM ET,Indianapolis Colts,26,258,196,2,16,160,111,2,W
-1993,6,Sun,7:30PM ET,Green Bay Packers,26,333,55,2,15,235,64,3,L
-1993,7,Mon,9:00PM ET,Los Angeles Raiders,18,121,132,2,12,255,53,2,L
-1993,9,Sun,4:00PM ET,Seattle Seahawks,25,239,87,1,19,184,103,2,W
-1993,10,Sun,1:00PM ET,Cleveland Browns,21,233,160,1,14,191,75,0,W
-1993,11,Sun,4:00PM ET,Minnesota Vikings,25,250,92,4,18,357,70,3,L
-1993,12,Sun,4:00PM ET,Pittsburgh Steelers,23,257,107,0,19,248,101,3,W
-1993,13,Sun,4:00PM ET,Seattle Seahawks,19,206,101,2,13,161,127,2,W
-1993,14,Sun,4:00PM ET,San Diego Chargers,14,138,86,2,20,203,95,0,L
-1993,15,Sun,4:00PM ET,Kansas City Chiefs,23,204,136,2,17,234,77,1,W
-1993,16,Sat,12:30PM ET,Chicago Bears,15,105,129,1,14,101,84,5,W
-1993,17,Sun,4:00PM ET,Tampa Bay Buccaneers,18,225,110,3,13,171,65,1,L
-1993,18,Sun,4:00PM ET,Los Angeles Raiders,22,361,110,0,24,304,94,1,L
-1994,1,Sun,8:00PM ET,San Diego Chargers,30,341,129,3,19,232,138,1,L
-1994,2,Sun,4:00PM ET,New York Jets,22,316,85,1,19,287,79,2,L
-1994,3,Sun,4:00PM ET,Los Angeles Raiders,21,223,69,3,20,322,102,1,L
-1994,4,Mon,9:00PM ET,Buffalo Bills,21,260,77,2,19,166,149,1,L
-1994,6,Sun,4:00PM ET,Seattle Seahawks,19,128,150,0,16,244,94,5,W
-1994,7,Mon,9:00PM ET,Kansas City Chiefs,21,233,97,3,26,393,90,2,L
-1994,8,Sun,4:00PM ET,San Diego Chargers,16,225,69,3,18,155,166,3,W
-1994,9,Sun,4:00PM ET,Cleveland Browns,29,343,114,2,17,276,41,1,W
-1994,10,Sun,4:00PM ET,Los Angeles Rams,24,236,48,0,23,244,141,2,L
-1994,11,Sun,4:00PM ET,Seattle Seahawks,21,128,169,2,14,131,158,1,W
-1994,12,Sun,4:00PM ET,Atlanta Falcons,25,336,89,2,16,254,76,0,W
-1994,13,Sun,4:00PM ET,Cincinnati Bengals,12,206,50,0,16,198,130,4,W
-1994,14,Sun,4:00PM ET,Kansas City Chiefs,26,270,123,1,17,323,78,1,W
-1994,15,Sun,4:00PM ET,Los Angeles Raiders,16,228,63,2,16,177,128,0,L
-1994,16,Sat,4:00PM ET,San Francisco 49ers,20,286,48,3,25,386,102,1,L
-1994,17,Sat,4:00PM ET,New Orleans Saints,23,258,90,4,22,367,80,1,L
-1995,1,Sun,8:00PM ET,Buffalo Bills,24,299,140,1,14,174,60,0,W
-1995,2,Sun,4:00PM ET,Dallas Cowboys,17,198,89,2,27,196,162,1,L
-1995,3,Sun,4:00PM ET,Washington Redskins,28,318,158,0,20,225,129,1,W
-1995,4,Sun,4:00PM ET,San Diego Chargers,12,181,65,0,23,176,158,1,L
-1995,5,Sun,4:00PM ET,Seattle Seahawks,18,243,75,1,26,192,230,0,L
-1995,6,Sun,8:00PM ET,New England Patriots,23,282,121,1,22,248,81,2,W
-1995,7,Mon,9:00PM ET,Oakland Raiders,24,351,124,3,10,148,21,4,W
-1995,8,Sun,4:00PM ET,Kansas City Chiefs,19,200,85,3,21,161,171,0,L
-1995,10,Sun,4:00PM ET,Arizona Cardinals,24,258,148,1,18,203,74,2,W
-1995,11,Sun,8:00PM ET,Philadelphia Eagles,15,148,132,1,25,256,125,0,L
-1995,12,Sun,4:00PM ET,San Diego Chargers,25,290,173,2,20,199,70,1,W
-1995,13,Sun,4:00PM ET,Houston Oilers,22,332,140,2,23,280,168,2,L
-1995,14,Sun,4:00PM ET,Jacksonville Jaguars,20,286,111,3,13,191,69,2,W
-1995,15,Sun,4:00PM ET,Seattle Seahawks,25,148,240,5,19,192,134,2,L
-1995,16,Sun,4:00PM ET,Kansas City Chiefs,18,204,64,2,22,219,145,1,L
-1995,17,Sun,4:00PM ET,Oakland Raiders,30,307,130,3,19,238,98,2,W
-1996,1,Sun,4:00PM ET,New York Jets,21,167,200,3,12,72,116,4,W
-1996,2,Sun,4:00PM ET,Seattle Seahawks,22,194,180,1,10,172,39,3,W
-1996,3,Sun,8:00PM ET,Tampa Bay Buccaneers,20,180,194,3,15,186,121,2,W
-1996,4,Sun,1:00PM ET,Kansas City Chiefs,17,138,161,2,20,231,75,1,L
-1996,5,Sun,1:00PM ET,Cincinnati Bengals,22,288,114,3,17,147,106,1,W
-1996,6,Sun,4:00PM ET,San Diego Chargers,23,312,94,1,14,210,35,0,W
-1996,8,Sun,4:00PM ET,Baltimore Ravens,26,326,222,1,23,317,75,1,W
-1996,9,Sun,4:00PM ET,Kansas City Chiefs,26,286,213,3,10,208,24,2,W
-1996,10,Mon,9:00PM ET,Oakland Raiders,18,160,152,1,17,216,105,0,W
-1996,11,Sun,4:00PM ET,Chicago Bears,17,192,92,0,24,172,174,3,W
-1996,12,Sun,1:00PM ET,New England Patriots,26,224,198,1,12,201,17,1,W
-1996,13,Sun,1:00PM ET,Minnesota Vikings,22,309,79,3,20,246,50,2,W
-1996,14,Sun,4:00PM ET,Seattle Seahawks,31,236,205,0,13,172,105,3,W
-1996,15,Sun,1:00PM ET,Green Bay Packers,9,83,93,3,22,276,103,2,L
-1996,16,Sun,4:00PM ET,Oakland Raiders,23,186,99,3,18,150,105,4,W
-1996,17,Sun,8:00PM ET,San Diego Chargers,13,148,66,4,14,163,81,3,L
-1997,1,Sun,4:00PM ET,Kansas City Chiefs,20,232,146,0,12,108,133,1,W
-1997,2,Sun,4:00PM ET,Seattle Seahawks,22,188,143,1,16,220,69,1,W
-1997,3,Sun,4:00PM ET,St. Louis Rams,19,233,144,2,18,184,130,2,W
-1997,4,Sun,4:00PM ET,Cincinnati Bengals,23,150,222,1,22,194,195,1,W
-1997,5,Sun,1:00PM ET,Atlanta Falcons,16,228,101,1,17,196,112,1,W
-1997,6,Mon,9:00PM ET,New England Patriots,25,188,192,2,13,211,51,2,W
-1997,8,Sun,4:00PM ET,Oakland Raiders,25,294,147,1,12,81,243,2,L
-1997,9,Sun,1:00PM ET,Buffalo Bills,17,116,225,3,19,160,155,6,W
-1997,10,Sun,4:00PM ET,Seattle Seahawks,19,245,140,2,22,245,104,2,W
-1997,11,Sun,4:00PM ET,Carolina Panthers,20,233,160,1,7,113,34,4,W
-1997,12,Sun,1:00PM ET,Kansas City Chiefs,26,194,135,1,15,96,106,1,L
-1997,13,Mon,9:00PM ET,Oakland Raiders,23,260,110,1,14,150,110,2,W
-1997,14,Sun,8:00PM ET,San Diego Chargers,28,240,198,0,22,222,47,2,W
-1997,15,Sun,1:00PM ET,Pittsburgh Steelers,18,231,89,1,22,290,186,2,L
-1997,16,Mon,9:00PM ET,San Francisco 49ers,15,141,96,3,18,265,58,1,L
-1997,17,Sun,4:00PM ET,San Diego Chargers,24,321,130,1,9,133,70,1,W
-1998,1,Mon,8:20PM ET,New England Patriots,20,248,91,0,17,258,81,0,W
-1998,2,Sun,4:15PM ET,Dallas Cowboys,21,306,209,0,18,201,169,0,W
-1998,3,Sun,4:15PM ET,Oakland Raiders,25,193,145,2,13,164,94,3,W
-1998,4,Sun,1:00PM ET,Washington Redskins,18,180,185,0,18,235,152,3,W
-1998,5,Sun,4:15PM ET,Philadelphia Eagles,22,192,231,2,12,100,57,2,W
-1998,6,Sun,4:15PM ET,Seattle Seahawks,17,171,202,2,16,242,77,1,W
-1998,8,Sun,4:15PM ET,Jacksonville Jaguars,24,295,170,0,24,282,66,1,W
-1998,9,Sun,1:00PM ET,Cincinnati Bengals,20,202,150,1,25,245,127,1,W
-1998,10,Sun,4:15PM ET,San Diego Chargers,19,217,72,1,13,136,77,3,W
-1998,11,Mon,8:20PM ET,Kansas City Chiefs,26,174,205,0,15,190,31,1,W
-1998,12,Sun,4:15PM ET,Oakland Raiders,28,201,196,1,15,245,49,3,W
-1998,13,Sun,8:20PM ET,San Diego Chargers,18,226,96,4,21,302,65,6,W
-1998,14,Sun,4:15PM ET,Kansas City Chiefs,23,383,93,3,20,222,44,1,W
-1998,15,Sun,1:00PM ET,New York Giants,21,159,170,1,18,254,138,2,L
-1998,16,Mon,8:20PM ET,Miami Dolphins,14,161,58,2,19,355,36,2,L
-1998,17,Sun,4:15PM ET,Seattle Seahawks,31,316,195,1,19,217,24,1,W
-1999,1,Mon,9:07PM ET,Miami Dolphins,25,240,113,1,22,215,111,0,L
-1999,2,Sun,4:16PM ET,Kansas City Chiefs,20,156,88,4,17,177,188,1,L
-1999,3,Sun,1:01PM ET,Tampa Bay Buccaneers,8,120,53,1,17,78,165,2,L
-1999,4,Sun,4:15PM ET,New York Jets,17,218,108,6,23,224,110,2,L
-1999,5,Sun,4:17PM ET,Oakland Raiders,16,221,81,2,17,210,55,2,W
-1999,6,Sun,4:15PM ET,Green Bay Packers,28,363,151,1,5,112,21,3,W
-1999,7,Sun,1:02PM ET,New England Patriots,23,309,133,0,15,192,133,0,L
-1999,8,Sun,4:15PM ET,Minnesota Vikings,24,256,135,3,15,205,97,0,L
-1999,9,Sun,4:15PM ET,San Diego Chargers,17,127,114,0,19,214,59,4,W
-1999,10,Sun,8:21PM ET,Seattle Seahawks,18,236,87,1,14,230,41,2,L
-1999,11,Mon,11:07PM ET,Oakland Raiders,17,171,120,2,16,205,79,3,W
-1999,13,Sun,4:15PM ET,Kansas City Chiefs,14,208,83,1,17,175,177,1,L
-1999,14,Mon,9:09PM ET,Jacksonville Jaguars,18,268,90,2,18,104,161,0,L
-1999,15,Sun,2:15PM ET,Seattle Seahawks,26,170,260,2,19,250,114,2,W
-1999,16,Sat,4:16PM ET,Detroit Lions,22,165,204,1,16,242,32,0,W
-1999,17,Sun,4:15PM ET,San Diego Chargers,15,191,44,1,17,183,194,4,L
-2000,1,Mon,9:07PM ET,St. Louis Rams,25,274,150,0,23,433,80,3,L
-2000,2,Sun,4:16PM ET,Atlanta Falcons,29,255,152,0,12,139,47,3,W
-2000,3,Sun,4:05PM ET,Oakland Raiders,25,207,180,1,16,140,123,4,W
-2000,4,Sun,4:16PM ET,Kansas City Chiefs,21,197,145,3,21,245,49,3,L
-2000,5,Sun,4:06PM ET,New England Patriots,26,326,79,2,19,260,54,1,L
-2000,6,Sun,4:15PM ET,San Diego Chargers,18,208,96,0,17,212,65,3,W
-2000,7,Sun,4:06PM ET,Cleveland Browns,24,353,146,0,12,240,38,3,W
-2000,8,Sun,1:00PM ET,Cincinnati Bengals,32,358,142,3,15,14,407,1,L
-2000,10,Sun,4:15PM ET,New York Jets,23,317,130,1,22,293,88,3,W
-2000,11,Mon,9:09PM ET,Oakland Raiders,18,258,71,2,25,373,38,3,W
-2000,12,Sun,4:05PM ET,San Diego Chargers,34,443,93,5,14,299,86,3,W
-2000,13,Sun,4:16PM ET,Seattle Seahawks,25,237,301,5,17,269,85,3,W
-2000,14,Sun,1:02PM ET,New Orleans Saints,24,200,283,0,19,425,21,3,W
-2000,15,Sun,4:05PM ET,Seattle Seahawks,20,182,131,1,22,298,107,4,W
-2000,16,Sun,1:00PM ET,Kansas City Chiefs,11,225,53,1,24,160,264,2,L
-2000,17,Sat,4:17PM ET,San Francisco 49ers,28,203,159,1,16,146,46,2,W
-2001,1,Mon,7:07PM ET,New York Giants,25,330,143,0,17,245,63,0,W
-2001,2,Sun,8:37PM ET,Arizona Cardinals,27,234,147,0,14,224,84,3,W
-2001,3,Sun,4:15PM ET,Baltimore Ravens,13,167,61,3,16,221,112,1,L
-2001,4,Sun,2:05PM ET,Kansas City Chiefs,15,103,197,1,16,255,42,4,W
-2001,5,Sun,4:16PM ET,Seattle Seahawks,20,189,92,3,21,93,161,1,L
-2001,6,Sun,1:05PM ET,San Diego Chargers,19,182,81,3,22,272,107,2,L
-2001,7,Sun,2:15PM ET,New England Patriots,18,269,86,2,21,183,117,5,W
-2001,8,Mon,9:05PM ET,Oakland Raiders,26,247,119,2,27,242,114,1,L
-2001,9,Sun,4:05PM ET,San Diego Chargers,19,221,117,1,9,147,96,5,W
-2001,10,Sun,4:15PM ET,Washington Redskins,10,98,88,2,18,127,118,3,L
-2001,11,Thu,4:15PM ET,Dallas Cowboys,19,160,119,1,16,164,27,2,W
-2001,12,Sun,1:02PM ET,Miami Dolphins,19,126,147,2,12,176,42,1,L
-2001,13,Sun,8:35PM ET,Seattle Seahawks,20,144,165,2,15,207,70,2,W
-2001,14,Sun,1:00PM ET,Kansas City Chiefs,22,241,94,1,22,259,137,3,L
-2001,16,Sun,4:15PM ET,Oakland Raiders,15,125,106,0,24,283,51,3,W
-2001,17,Sun,1:00PM ET,Indianapolis Colts,17,104,115,4,22,184,151,1,L
-2002,1,Sun,4:17PM ET,St. Louis Rams,18,187,104,2,15,295,32,2,W
-2002,2,Sun,4:00PM ET,San Francisco 49ers,21,98,201,1,18,190,71,2,W
-2002,3,Sun,4:05PM ET,Buffalo Bills,22,179,163,0,17,252,39,1,W
-2002,4,Mon,9:08PM ET,Baltimore Ravens,30,306,97,3,14,146,84,2,L
-2002,5,Sun,4:05PM ET,San Diego Chargers,20,300,117,1,16,235,79,3,W
-2002,6,Sun,8:35PM ET,Miami Dolphins,27,299,111,3,16,201,58,2,L
-2002,7,Sun,1:00PM ET,Kansas City Chiefs,22,366,141,1,24,143,162,0,W
-2002,8,Sun,4:15PM ET,New England Patriots,23,215,136,2,16,110,69,0,W
-2002,10,Mon,9:09PM ET,Oakland Raiders,27,265,77,1,20,347,27,0,L
-2002,11,Sun,4:16PM ET,Seattle Seahawks,22,199,202,1,13,153,51,3,W
-2002,12,Sun,8:36PM ET,Indianapolis Colts,15,172,113,2,26,216,128,3,L
-2002,13,Sun,4:05PM ET,San Diego Chargers,20,261,156,3,25,214,220,0,L
-2002,14,Sun,4:16PM ET,New York Jets,21,258,111,1,18,217,64,0,L
-2002,15,Sun,4:05PM ET,Kansas City Chiefs,24,285,197,3,22,309,185,0,W
-2002,16,Sun,4:15PM ET,Oakland Raiders,21,243,81,3,20,186,136,2,L
-2002,17,Sun,4:16PM ET,Arizona Cardinals,24,191,259,0,18,123,84,2,W
-2003,1,Sun,1:06PM ET,Cincinnati Bengals,19,109,184,3,15,243,51,4,W
-2003,2,Sun,4:15PM ET,San Diego Chargers,24,185,197,0,19,182,121,1,W
-2003,3,Mon,9:09PM ET,Oakland Raiders,20,193,190,1,11,156,39,1,W
-2003,4,Sun,4:15PM ET,Detroit Lions,20,253,79,1,16,141,144,0,W
-2003,5,Sun,1:00PM ET,Kansas City Chiefs,22,292,176,1,13,129,133,2,L
-2003,6,Sun,4:15PM ET,Pittsburgh Steelers,15,165,77,3,17,130,85,1,W
-2003,7,Sun,1:00PM ET,Minnesota Vikings,27,183,138,3,14,268,72,0,L
-2003,8,Sun,1:02PM ET,Baltimore Ravens,12,90,104,2,16,126,151,0,L
-2003,9,Mon,9:09PM ET,New England Patriots,18,163,114,1,17,350,69,2,L
-2003,11,Sun,4:05PM ET,San Diego Chargers,26,247,201,3,5,56,40,4,W
-2003,12,Sun,4:05PM ET,Chicago Bears,18,165,200,0,19,111,106,0,L
-2003,13,Sun,4:15PM ET,Oakland Raiders,20,94,193,1,12,142,120,3,W
-2003,14,Sun,4:15PM ET,Kansas City Chiefs,26,238,270,0,28,381,63,0,W
-2003,15,Sun,4:05PM ET,Cleveland Browns,28,252,165,1,12,173,102,1,W
-2003,16,Sun,8:35PM ET,Indianapolis Colts,26,238,227,1,11,136,47,0,W
-2003,17,Sun,4:15PM ET,Green Bay Packers,13,102,114,3,16,104,262,1,L
-2004,1,Sun,8:39PM ET,Kansas City Chiefs,24,221,192,3,15,151,167,1,W
-2004,2,Sun,1:02PM ET,Jacksonville Jaguars,20,250,106,1,8,109,67,0,L
-2004,3,Sun,4:05PM ET,San Diego Chargers,18,291,37,1,16,129,85,1,W
-2004,4,Sun,4:15PM ET,Tampa Bay Buccaneers,19,138,111,0,12,159,110,1,W
-2004,5,Sun,4:15PM ET,Carolina Panthers,23,224,210,2,12,163,64,0,W
-2004,6,Sun,4:15PM ET,Oakland Raiders,25,190,254,1,9,114,31,2,W
-2004,7,Mon,9:09PM ET,Cincinnati Bengals,22,195,123,3,13,188,133,1,L
-2004,8,Sun,4:05PM ET,Atlanta Falcons,27,499,68,3,22,272,195,1,L
-2004,9,Sun,4:15PM ET,Houston Texans,21,225,139,0,22,228,103,0,W
-2004,11,Sun,1:03PM ET,New Orleans Saints,18,224,165,0,20,362,49,4,W
-2004,12,Sun,8:36PM ET,Oakland Raiders,16,245,122,3,19,334,61,3,L
-2004,13,Sun,4:05PM ET,San Diego Chargers,21,263,74,4,14,86,122,2,L
-2004,14,Sun,4:05PM ET,Miami Dolphins,24,219,196,3,13,144,70,1,W
-2004,15,Sun,1:00PM ET,Kansas City Chiefs,24,273,129,3,22,248,162,0,L
-2004,16,Sat,8:35PM ET,Tennessee Titans,26,303,193,2,10,94,59,2,W
-2004,17,Sun,4:15PM ET,Indianapolis Colts,23,239,214,0,8,166,34,1,W
-2005,1,Sun,1:07PM ET,Miami Dolphins,19,242,70,3,21,275,151,3,L
-2005,2,Sun,4:15PM ET,San Diego Chargers,21,233,98,2,15,134,79,2,W
-2005,3,Mon,9:07PM ET,Kansas City Chiefs,24,137,221,0,18,211,74,1,W
-2005,4,Sun,1:02PM ET,Jacksonville Jaguars,24,118,188,0,13,229,12,4,W
-2005,5,Sun,4:15PM ET,Washington Redskins,11,92,165,0,28,322,125,1,W
-2005,6,Sun,4:16PM ET,New England Patriots,20,254,178,0,22,299,89,0,W
-2005,7,Sun,4:15PM ET,New York Giants,20,194,191,1,22,214,97,2,L
-2005,8,Sun,4:15PM ET,Philadelphia Eagles,28,309,255,0,12,272,79,2,W
-2005,10,Sun,4:05PM ET,Oakland Raiders,18,205,121,2,20,275,60,3,W
-2005,11,Sun,4:15PM ET,New York Jets,28,213,191,1,10,176,19,5,W
-2005,12,Thu,4:17PM ET,Dallas Cowboys,13,149,144,2,23,229,85,2,W
-2005,13,Sun,4:15PM ET,Kansas City Chiefs,19,257,131,2,24,253,168,3,L
-2005,14,Sun,4:15PM ET,Baltimore Ravens,17,222,96,1,20,251,72,4,W
-2005,15,Sat,8:36PM ET,Buffalo Bills,27,259,178,1,17,197,75,0,W
-2005,16,Sat,4:15PM ET,Oakland Raiders,24,259,155,1,15,161,87,2,W
-2005,17,Sat,4:35PM ET,San Diego Chargers,17,84,157,0,15,145,91,2,W
-2006,1,Sun,1:02PM ET,St. Louis Rams,17,98,161,5,16,195,125,0,L
-2006,2,Sun,4:16PM ET,Kansas City Chiefs,18,173,145,1,16,131,145,2,W
-2006,3,Sun,8:20PM ET,New England Patriots,19,256,144,0,22,320,50,0,W
-2006,5,Mon,8:41PM ET,Baltimore Ravens,13,106,116,2,16,154,103,3,W
-2006,6,Sun,8:21PM ET,Oakland Raiders,15,91,144,1,14,159,85,2,W
-2006,7,Sun,4:06PM ET,Cleveland Browns,22,197,150,2,10,131,34,3,W
-2006,8,Sun,4:15PM ET,Indianapolis Colts,24,169,227,1,23,345,92,0,L
-2006,9,Sun,4:15PM ET,Pittsburgh Steelers,13,221,115,0,27,403,96,6,W
-2006,10,Sun,4:05PM ET,Oakland Raiders,13,201,63,3,13,198,46,2,W
-2006,11,Sun,8:21PM ET,San Diego Chargers,20,168,158,1,21,217,125,2,L
-2006,12,Thu,8:12PM ET,Kansas City Chiefs,16,206,38,1,22,159,223,1,L
-2006,13,Sun,8:20PM ET,Seattle Seahawks,14,121,181,5,12,162,108,1,L
-2006,14,Sun,4:15PM ET,San Diego Chargers,19,166,162,1,22,276,143,1,L
-2006,15,Sun,4:05PM ET,Arizona Cardinals,26,256,106,2,17,195,100,2,W
-2006,16,Sun,4:16PM ET,Cincinnati Bengals,17,160,127,2,23,194,149,4,W
-2006,17,Sun,4:16PM ET,San Francisco 49ers,19,210,115,3,17,171,189,1,L
-2007,1,Sun,1:02PM ET,Buffalo Bills,23,299,171,1,13,72,112,1,W
-2007,2,Sun,4:15PM ET,Oakland Raiders,26,260,181,2,11,53,200,3,W
-2007,3,Sun,4:05PM ET,Jacksonville Jaguars,11,218,47,3,21,140,186,2,L
-2007,4,Sun,4:15PM ET,Indianapolis Colts,22,131,223,2,30,193,226,0,L
-2007,5,Sun,4:15PM ET,San Diego Chargers,17,224,72,3,20,270,214,0,L
-2007,7,Sun,8:23PM ET,Pittsburgh Steelers,21,234,90,2,24,260,119,3,W
-2007,8,Mon,8:40PM ET,Green Bay Packers,24,244,88,1,20,325,105,0,L
-2007,9,Sun,1:02PM ET,Detroit Lions,16,256,47,4,20,246,130,1,L
-2007,10,Sun,1:00PM ET,Kansas City Chiefs,18,186,141,1,19,217,67,4,W
-2007,11,Mon,8:40PM ET,Tennessee Titans,15,193,166,1,28,290,133,3,W
-2007,12,Sun,4:16PM ET,Chicago Bears,22,292,138,2,18,171,122,4,L
-2007,13,Sun,4:05PM ET,Oakland Raiders,14,206,86,4,20,197,175,1,L
-2007,14,Sun,4:15PM ET,Kansas City Chiefs,23,238,215,0,7,113,16,3,W
-2007,15,Thu,8:15PM ET,Houston Texans,20,236,72,0,21,200,158,1,L
-2007,16,Mon,8:10PM ET,San Diego Chargers,12,133,92,3,18,187,147,1,L
-2007,17,Sun,4:16PM ET,Minnesota Vikings,21,234,128,0,16,160,172,3,W
-2008,1,Mon,10:22PM ET,Oakland Raiders,24,300,141,0,15,157,150,1,W
-2008,2,Sun,4:15PM ET,San Diego Chargers,34,341,145,1,19,376,80,1,W
-2008,3,Sun,4:06PM ET,New Orleans Saints,20,264,105,2,27,414,88,1,W
-2008,4,Sun,1:00PM ET,Kansas City Chiefs,22,352,94,4,17,157,213,1,L
-2008,5,Sun,4:05PM ET,Tampa Bay Buccaneers,17,227,106,1,17,168,139,1,W
-2008,6,Sun,4:05PM ET,Jacksonville Jaguars,19,192,131,3,26,261,155,2,L
-2008,7,Mon,8:40PM ET,New England Patriots,19,169,106,5,25,147,257,0,L
-2008,9,Sun,4:05PM ET,Miami Dolphins,14,305,14,3,21,266,75,1,L
-2008,10,Thu,8:15PM ET,Cleveland Browns,26,441,123,1,20,239,160,1,W
-2008,11,Sun,1:02PM ET,Atlanta Falcons,19,208,124,0,20,250,114,1,W
-2008,12,Sun,4:05PM ET,Oakland Raiders,23,204,115,2,18,160,158,0,L
-2008,13,Sun,4:15PM ET,New York Jets,23,357,127,1,22,241,142,2,W
-2008,14,Sun,4:05PM ET,Kansas City Chiefs,27,286,139,1,14,177,83,0,W
-2008,15,Sun,4:15PM ET,Carolina Panthers,15,158,121,2,18,253,147,1,L
-2008,16,Sun,4:06PM ET,Buffalo Bills,27,351,181,2,20,188,87,0,L
-2008,17,Sun,8:23PM ET,San Diego Chargers,25,316,90,2,28,202,289,0,L
-2009,1,Sun,1:02PM ET,Cincinnati Bengals,10,227,75,0,16,221,86,2,W
-2009,2,Sun,4:15PM ET,Cleveland Browns,25,263,186,1,11,146,54,3,W
-2009,3,Sun,4:15PM ET,Oakland Raiders,21,157,215,1,9,42,95,3,W
-2009,4,Sun,4:15PM ET,Dallas Cowboys,18,221,116,1,20,241,74,2,W
-2009,5,Sun,4:16PM ET,New England Patriots,27,321,103,2,18,209,96,1,W
-2009,6,Mon,8:40PM ET,San Diego Chargers,19,227,101,0,20,238,73,1,W
-2009,8,Sun,1:02PM ET,Baltimore Ravens,17,134,66,1,16,167,125,0,L
-2009,9,Mon,8:41PM ET,Pittsburgh Steelers,12,215,27,3,21,202,173,2,L
-2009,10,Sun,1:02PM ET,Washington Redskins,14,185,120,2,22,214,174,0,L
-2009,11,Sun,4:15PM ET,San Diego Chargers,14,156,115,3,21,145,203,0,L
-2009,12,Thu,8:21PM ET,New York Giants,23,235,138,1,15,210,57,3,W
-2009,13,Sun,1:00PM ET,Kansas City Chiefs,24,168,245,3,14,128,94,3,W
-2009,14,Sun,1:02PM ET,Indianapolis Colts,20,262,95,1,21,220,92,3,L
-2009,15,Sun,4:05PM ET,Oakland Raiders,19,257,80,0,22,102,241,2,L
-2009,16,Sun,4:16PM ET,Philadelphia Eagles,13,171,70,1,22,289,105,3,L
-2009,17,Sun,4:15PM ET,Kansas City Chiefs,30,428,84,3,22,207,317,2,L
-2010,1,Sun,1:03PM ET,Jacksonville Jaguars,21,274,89,2,18,165,134,0,L
-2010,2,Sun,4:06PM ET,Seattle Seahawks,23,304,65,0,17,230,109,4,W
-2010,3,Sun,4:16PM ET,Indianapolis Colts,23,472,47,2,18,325,40,0,L
-2010,4,Sun,1:02PM ET,Tennessee Titans,22,308,19,1,13,167,121,2,W
-2010,5,Sun,1:02PM ET,Baltimore Ravens,16,307,39,1,28,182,233,0,L
-2010,6,Sun,4:05PM ET,New York Jets,21,201,145,2,17,190,129,3,L
-2010,7,Sun,4:15PM ET,Oakland Raiders,11,165,75,3,29,180,328,0,L
-2010,8,Sun,1:07PM ET,San Francisco 49ers,22,339,59,2,16,196,143,0,L
-2010,10,Sun,4:05PM ET,Kansas City Chiefs,25,299,153,0,30,433,51,1,W
-2010,11,Mon,8:40PM ET,San Diego Chargers,16,172,63,1,21,253,147,1,L
-2010,12,Sun,4:16PM ET,St. Louis Rams,24,330,119,2,24,308,123,0,L
-2010,13,Sun,1:03PM ET,Kansas City Chiefs,13,86,161,1,21,174,185,1,L
-2010,14,Sun,4:15PM ET,Arizona Cardinals,20,156,132,6,21,146,211,1,L
-2010,15,Sun,4:15PM ET,Oakland Raiders,9,129,106,1,20,238,264,3,L
-2010,16,Sun,4:06PM ET,Houston Texans,25,305,126,1,21,310,91,1,W
-2010,17,Sun,4:15PM ET,San Diego Chargers,18,191,146,2,20,283,164,1,L
-2011,1,Mon,10:26PM ET,Oakland Raiders,25,272,38,3,20,99,190,1,L
-2011,2,Sun,4:15PM ET,Cincinnati Bengals,19,187,131,2,18,310,72,0,W
-2011,3,Sun,1:02PM ET,Tennessee Titans,19,172,59,2,17,295,38,2,L
-2011,4,Sun,4:15PM ET,Green Bay Packers,18,265,119,4,26,396,111,2,L
-2011,5,Sun,4:16PM ET,San Diego Chargers,13,113,162,1,25,212,206,2,L
-2011,7,Sun,1:02PM ET,Miami Dolphins,18,131,177,1,15,173,94,1,W
-2011,8,Sun,4:10PM ET,Detroit Lions,19,117,195,3,21,263,113,0,L
-2011,9,Sun,4:05PM ET,Oakland Raiders,20,113,299,0,21,316,100,3,W
-2011,10,Sun,1:03PM ET,Kansas City Chiefs,16,69,244,0,17,124,134,0,W
-2011,11,Thu,8:30PM ET,New York Jets,11,104,125,1,22,235,83,2,W
-2011,12,Sun,4:15PM ET,San Diego Chargers,18,141,208,0,20,159,185,0,W
-2011,13,Sun,1:05PM ET,Minnesota Vikings,13,186,150,2,27,360,129,3,W
-2011,14,Sun,4:05PM ET,Chicago Bears,22,221,124,2,12,86,159,1,W
-2011,15,Sun,4:16PM ET,New England Patriots,25,141,252,3,26,310,141,0,L
-2011,16,Sat,1:02PM ET,Buffalo Bills,18,152,133,3,14,191,160,0,L
-2011,17,Sun,4:16PM ET,Kansas City Chiefs,16,50,216,2,14,175,106,1,L
-2012,1,Sun,8:31PM ET,Pittsburgh Steelers,20,240,94,1,19,209,75,1,W
-2012,2,Mon,8:41PM ET,Atlanta Falcons,24,218,118,4,22,208,67,0,L
-2012,3,Sun,4:25PM ET,Houston Texans,24,316,59,1,23,284,152,2,L
-2012,4,Sun,4:05PM ET,Oakland Raiders,26,338,165,1,12,181,56,0,W
-2012,5,Sun,4:25PM ET,New England Patriots,22,324,70,3,35,193,251,1,L
-2012,6,Mon,8:40PM ET,San Diego Chargers,18,309,56,3,23,217,90,6,W
-2012,8,Sun,8:30PM ET,New Orleans Saints,29,305,225,1,14,201,51,1,W
-2012,9,Sun,1:02PM ET,Cincinnati Bengals,20,291,68,2,22,275,91,1,W
-2012,10,Sun,1:02PM ET,Carolina Panthers,18,295,65,2,19,198,52,2,W
-2012,11,Sun,4:25PM ET,San Diego Chargers,21,253,133,2,13,224,53,3,W
-2012,12,Sun,1:03PM ET,Kansas City Chiefs,21,273,95,1,13,116,148,1,W
-2012,13,Sun,4:05PM ET,Tampa Bay Buccaneers,25,242,91,1,18,235,71,1,W
-2012,14,Thu,8:30PM ET,Oakland Raiders,30,288,140,1,14,263,61,2,W
-2012,15,Sun,1:02PM ET,Baltimore Ravens,21,187,163,0,12,222,56,2,W
-2012,16,Sun,4:05PM ET,Cleveland Browns,29,339,118,1,20,142,91,1,W
-2012,17,Sun,4:25PM ET,Kansas City Chiefs,32,316,172,1,8,26,93,0,W
-2013,1,Thu,9:13PM ET,Baltimore Ravens,24,445,65,2,24,335,58,2,W
-2013,2,Sun,4:25PM ET,New York Giants,23,307,107,1,28,353,23,4,W
-2013,3,Mon,8:40PM ET,Oakland Raiders,31,372,164,2,13,293,49,0,W
-2013,4,Sun,4:25PM ET,Philadelphia Eagles,35,331,141,0,21,284,166,0,W
-2013,5,Sun,4:25PM ET,Dallas Cowboys,34,414,103,2,24,470,52,2,W
-2013,6,Sun,4:05PM ET,Jacksonville Jaguars,26,295,112,3,20,291,71,2,W
-2013,7,Sun,8:31PM ET,Indianapolis Colts,23,365,64,3,19,213,121,1,L
-2013,8,Sun,4:25PM ET,Washington Redskins,29,339,107,4,22,154,112,5,W
-2013,10,Sun,4:25PM ET,San Diego Chargers,22,313,84,1,20,198,131,0,W
-2013,11,Sun,8:30PM ET,Kansas City Chiefs,24,323,104,1,24,200,144,1,W
-2013,12,Sun,8:30PM ET,New England Patriots,28,132,280,4,27,324,116,3,L
-2013,13,Sun,4:26PM ET,Kansas City Chiefs,25,403,132,2,27,293,159,1,W
-2013,14,Sun,4:05PM ET,Tennessee Titans,39,397,154,0,15,158,96,2,W
-2013,15,Thu,8:29PM ET,San Diego Chargers,19,277,18,1,24,160,177,0,L
-2013,16,Sun,1:02PM ET,Houston Texans,25,397,114,0,14,153,87,2,W
-2013,17,Sun,4:25PM ET,Oakland Raiders,28,334,124,0,17,191,64,1,W
-2014,1,Sun,8:30PM ET,Indianapolis Colts,24,259,102,0,24,354,54,2,W
-2014,2,Sun,4:25PM ET,Kansas City Chiefs,19,237,88,0,28,247,133,0,W
-2014,3,Sun,4:25PM ET,Seattle Seahawks,20,296,36,2,26,255,129,1,L
-2014,5,Sun,4:05PM ET,Arizona Cardinals,24,476,92,2,9,178,37,0,W
-2014,6,Sun,1:02PM ET,New York Jets,21,221,138,0,15,173,31,2,W
-2014,7,Sun,8:30PM ET,San Francisco 49ers,23,304,115,0,22,248,62,1,W
-2014,8,Thu,8:26PM ET,San Diego Chargers,27,286,139,0,22,245,61,2,W
-2014,9,Sun,4:25PM ET,New England Patriots,26,429,43,2,29,332,66,1,L
-2014,10,Sun,4:05PM ET,Oakland Raiders,25,353,118,2,10,192,30,3,W
-2014,11,Sun,1:00PM ET,St. Louis Rams,21,369,28,2,16,206,131,0,L
-2014,12,Sun,4:25PM ET,Miami Dolphins,29,249,201,1,25,216,97,1,W
-2014,13,Sun,8:32PM ET,Kansas City Chiefs,21,174,214,1,11,110,41,3,W
-2014,14,Sun,4:05PM ET,Buffalo Bills,15,173,133,3,24,341,74,3,W
-2014,15,Sun,4:05PM ET,San Diego Chargers,18,226,111,0,20,232,56,2,W
-2014,16,Mon,8:30PM ET,Cincinnati Bengals,22,300,85,4,20,146,207,2,L
-2014,17,Sun,4:25PM ET,Oakland Raiders,25,309,142,1,10,132,67,2,W
-2015,1,Sun,4:25PM ET,Baltimore Ravens,16,150,69,1,11,100,73,2,W
-2015,2,Thu,8:29PM ET,Kansas City Chiefs,21,238,61,1,20,167,147,5,W
-2015,3,Sun,8:30PM ET,Detroit Lions,19,313,41,2,22,262,28,3,W
-2015,4,Sun,4:25PM ET,Minnesota Vikings,18,200,144,2,19,212,113,1,W
-2015,5,Sun,4:25PM ET,Oakland Raiders,15,254,43,2,20,223,65,3,W
-2015,6,Sun,1:02PM ET,Cleveland Browns,21,290,152,3,20,189,109,3,W
-2015,8,Sun,8:30PM ET,Green Bay Packers,24,340,160,1,14,50,90,0,W
-2015,9,Sun,4:25PM ET,Indianapolis Colts,16,274,35,2,27,245,120,0,L
-2015,10,Sun,4:30PM ET,Kansas City Chiefs,18,152,69,5,13,197,106,0,L
-2015,11,Sun,1:02PM ET,Chicago Bears,21,219,170,0,19,261,86,2,W
-2015,12,Sun,8:30PM ET,New England Patriots,23,254,179,1,16,262,39,1,W
-2015,13,Sun,4:05PM ET,San Diego Chargers,19,159,134,1,15,179,93,3,W
-2015,14,Sun,4:05PM ET,Oakland Raiders,20,276,34,2,8,99,27,0,L
-2015,15,Sun,4:25PM ET,Pittsburgh Steelers,20,281,104,2,28,354,23,2,L
-2015,16,Mon,8:30PM ET,Cincinnati Bengals,22,277,113,1,22,186,108,1,W
-2015,17,Sun,4:25PM ET,San Diego Chargers,21,293,210,5,15,207,110,1,W
-2016,1,Thu,8:40PM ET,Carolina Panthers,21,159,148,3,21,176,157,1,W
-2016,2,Sun,4:25PM ET,Indianapolis Colts,24,266,134,1,19,170,83,2,W
-2016,3,Sun,1:02PM ET,Cincinnati Bengals,21,303,52,1,20,189,143,2,W
-2016,4,Sun,4:05PM ET,Tampa Bay Buccaneers,22,218,89,0,15,143,72,3,W
-2016,5,Sun,4:05PM ET,Atlanta Falcons,18,183,84,1,19,250,122,1,L
-2016,6,Thu,8:25PM ET,San Diego Chargers,16,220,84,2,16,166,99,2,L
-2016,7,Mon,8:30PM ET,Houston Texans,19,157,190,0,14,131,140,2,W
-2016,8,Sun,4:05PM ET,San Diego Chargers,15,267,57,3,21,246,123,3,W
-2016,9,Sun,8:30PM ET,Oakland Raiders,13,266,33,2,30,179,218,0,L
-2016,10,Sun,1:00PM ET,New Orleans Saints,24,234,103,2,19,293,80,4,W
-2016,12,Sun,8:30PM ET,Kansas City Chiefs,21,340,124,1,23,190,83,0,L
-2016,13,Sun,1:00PM ET,Jacksonville Jaguars,10,102,104,0,19,179,154,3,W
-2016,14,Sun,1:00PM ET,Tennessee Titans,19,330,18,2,16,73,180,0,L
-2016,15,Sun,4:25PM ET,New England Patriots,15,251,58,3,20,177,136,0,L
-2016,16,Sun,8:30PM ET,Kansas City Chiefs,14,183,63,3,23,246,238,1,L
-2016,17,Sun,4:25PM ET,Oakland Raiders,18,206,143,1,11,164,57,3,W
-2017,1,Mon,10:20PM ET,Los Angeles Chargers,22,181,140,2,17,185,64,1,W
-2017,2,Sun,4:25PM ET,Dallas Cowboys,26,202,178,2,16,228,40,2,W
-2017,3,Sun,1:00PM ET,Buffalo Bills,21,255,111,2,16,197,75,0,L
-2017,4,Sun,4:25PM ET,Oakland Raiders,16,155,143,0,11,230,24,1,W
-2017,6,Sun,8:30PM ET,New York Giants,20,366,46,3,12,118,148,0,L
-2017,7,Sun,4:25PM ET,Los Angeles Chargers,12,182,69,3,14,162,80,0,L
-2017,8,Mon,8:30PM ET,Kansas City Chiefs,23,187,177,5,16,197,79,2,L
-2017,9,Sun,1:00PM ET,Philadelphia Eagles,14,191,35,2,25,222,197,1,L
-2017,10,Sun,8:30PM ET,New England Patriots,17,221,118,2,28,297,99,0,L
-2017,11,Sun,4:25PM ET,Cincinnati Bengals,20,229,112,2,12,141,49,0,L
-2017,12,Sun,4:25PM ET,Oakland Raiders,12,160,56,1,21,244,104,1,L
-2017,13,Sun,1:00PM ET,Miami Dolphins,14,167,103,3,15,222,145,3,L
-2017,14,Sun,4:05PM ET,New York Jets,17,189,84,0,6,41,59,2,W
-2017,15,Thu,8:25PM ET,Indianapolis Colts,23,251,211,1,15,158,70,0,W
-2017,16,Sun,1:00PM ET,Washington Redskins,18,171,159,3,19,299,87,2,L
-2017,17,Sun,4:25PM ET,Kansas City Chiefs,22,226,110,3,23,269,110,2,L
-2018,1,Sun,4:25PM ET,Seattle Seahawks,25,324,146,3,13,242,64,3,W
-2018,2,Sun,4:25PM ET,Oakland Raiders,20,217,168,1,21,281,92,0,W
-2018,3,Sun,1:00PM ET,Baltimore Ravens,18,173,120,1,20,265,77,0,L
-2018,4,Mon,8:15PM ET,Kansas City Chiefs,21,226,159,1,22,304,142,0,L
-2018,5,Sun,1:00PM ET,New York Jets,26,344,92,1,18,189,323,2,L
-2018,6,Sun,4:05PM ET,Los Angeles Rams,23,297,60,1,24,174,270,1,L
-2018,7,Thu,8:20PM ET,Arizona Cardinals,15,178,131,1,14,154,69,5,W
-2018,8,Sun,1:00PM ET,Kansas City Chiefs,22,222,189,2,20,291,49,1,L
-2018,9,Sun,4:05PM ET,Houston Texans,19,273,75,1,17,192,98,0,L
-2018,11,Sun,4:05PM ET,Los Angeles Chargers,16,217,108,0,26,384,95,2,W
-2018,12,Sun,4:25PM ET,Pittsburgh Steelers,17,184,124,0,25,452,75,4,W
-2018,13,Sun,1:00PM ET,Cincinnati Bengals,16,143,218,1,20,202,111,3,W
-2018,14,Sun,4:05PM ET,San Francisco 49ers,22,171,103,0,24,305,84,1,L
-2018,15,Sat,8:20PM ET,Cleveland Browns,22,238,32,2,21,175,134,2,L
-2018,16,Mon,8:15PM ET,Oakland Raiders,19,200,100,2,16,159,114,0,L
-2018,17,Sun,4:25PM ET,Los Angeles Chargers,19,288,82,4,17,160,116,4,L
-2019,1,Mon,10:20PM ET,Oakland Raiders,18,249,95,0,19,259,98,0,L
-2019,2,Sun,4:25PM ET,Chicago Bears,27,282,90,1,18,120,153,0,L
-2019,3,Sun,1:00PM ET,Green Bay Packers,20,161,149,3,16,235,77,0,L
-2019,4,Sun,4:25PM ET,Jacksonville Jaguars,19,303,68,1,25,186,269,0,L
-2019,5,Sun,4:05PM ET,Los Angeles Chargers,15,159,191,2,19,211,35,3,W
-2019,6,Sun,4:25PM ET,Tennessee Titans,11,167,103,1,12,165,39,3,W
-2019,7,Thu,8:20PM ET,Kansas City Chiefs,15,134,71,1,14,191,80,0,L
-2019,8,Sun,1:00PM ET,Indianapolis Colts,21,166,113,0,19,191,127,1,L
-2019,9,Sun,4:25PM ET,Cleveland Browns,13,175,127,1,21,261,90,0,W
-2019,11,Sun,1:00PM ET,Minnesota Vikings,20,270,124,1,19,284,37,2,L
-2019,12,Sun,1:00PM ET,Buffalo Bills,9,49,85,1,22,180,244,1,L
-2019,13,Sun,4:25PM ET,Los Angeles Chargers,13,134,84,1,17,244,115,2,W
-2019,14,Sun,1:00PM ET,Houston Texans,22,301,90,1,26,280,134,3,W
-2019,15,Sun,1:00PM ET,Kansas City Chiefs,15,199,52,1,27,327,92,1,L
-2019,16,Sun,4:05PM ET,Detroit Lions,25,198,150,0,13,95,96,0,W
-2019,17,Sun,4:25PM ET,Oakland Raiders,16,168,70,1,18,380,97,1,W
-2020,1,Mon,10:10PM ET,Tennessee Titans,19,216,107,1,26,247,130,0,L
-2020,2,Sun,1:00PM ET,Pittsburgh Steelers,23,215,104,2,19,301,109,2,L
-2020,3,Sun,4:25PM ET,Tampa Bay Buccaneers,13,184,42,2,17,285,68,0,L
-2020,4,Thu,8:20PM ET,New York Jets,21,242,117,3,18,192,129,0,W
-2020,6,Sun,1:00PM ET,New England Patriots,15,164,135,2,14,171,117,3,W
-2020,7,Sun,4:25PM ET,Kansas City Chiefs,24,234,177,4,17,185,101,1,L
-2020,8,Sun,4:05PM ET,Los Angeles Chargers,17,243,108,1,28,275,210,2,W
-2020,9,Sun,1:00PM ET,Atlanta Falcons,23,302,103,1,23,271,92,1,L
-2020,10,Sun,4:05PM ET,Las Vegas Raiders,20,247,66,5,21,154,203,0,L
-2020,11,Sun,4:05PM ET,Miami Dolphins,19,270,189,2,17,167,56,1,W
-2020,12,Sun,4:05PM ET,New Orleans Saints,6,12,100,3,19,63,229,1,L
-2020,13,Sun,8:20PM ET,Kansas City Chiefs,19,151,179,2,25,313,134,0,L
-2020,14,Sun,1:00PM ET,Carolina Panthers,23,269,96,1,22,245,125,0,W
-2020,15,Sat,4:30PM ET,Buffalo Bills,19,115,140,1,29,352,182,1,L
-2020,16,Sun,4:05PM ET,Los Angeles Chargers,23,263,133,2,16,227,89,0,L
-2020,17,Sun,4:25PM ET,Las Vegas Raiders,24,324,122,0,22,359,106,4,L
-2021,1,Sun,4:25PM ET,New York Giants,24,255,165,1,19,254,60,1,W
-2021,2,Sun,1:00PM ET,Jacksonville Jaguars,22,302,96,0,12,114,75,2,W
-2021,3,Sun,4:05PM ET,New York Jets,23,223,120,1,11,119,43,2,W
-2021,4,Sun,4:25PM ET,Baltimore Ravens,15,148,106,1,20,304,102,0,L
-2021,5,Sun,1:00PM ET,Pittsburgh Steelers,17,268,106,1,19,244,147,1,L
-2021,6,Sun,4:25PM ET,Las Vegas Raiders,25,309,112,4,16,340,86,0,L
-2021,7,Thu,8:20PM ET,Cleveland Browns,15,182,41,1,23,194,182,0,L
-2021,8,Sun,4:25PM ET,Washington Football Team,17,190,83,1,21,230,112,2,W
-2021,9,Sun,1:00PM ET,Dallas Cowboys,23,217,190,0,14,212,78,2,W
-2021,10,Sun,4:25PM ET,Philadelphia Eagles,17,212,96,1,22,170,216,1,L
-2021,12,Sun,4:05PM ET,Los Angeles Chargers,23,155,147,1,20,285,72,2,W
-2021,13,Sun,8:20PM ET,Kansas City Chiefs,22,250,154,3,15,178,89,1,L
-2021,14,Sun,4:05PM ET,Detroit Lions,25,174,184,0,17,198,118,2,W
-2021,15,Sun,4:05PM ET,Cincinnati Bengals,19,159,133,1,12,136,113,0,L
-2021,16,Sun,4:25PM ET,Las Vegas Raiders,8,140,18,0,22,182,160,3,L
-2021,17,Sun,4:05PM ET,Los Angeles Chargers,18,236,83,1,21,237,104,0,L
-2021,18,Sat,4:30PM ET,Kansas City Chiefs,18,173,191,1,28,255,135,0,L
+year,week_num,day_of_week,kickoff_time,temperature,wind_speed,first_down_off,rush_attempts,rush_yds_off,fumbles_lost,completed_passes,pass_attempts,pass_yds_off,interceptions_thrown,sack_yds_off,penalty_yds_against,plays_run_off,avg_ko_return,avg_punt_return,avg_punt_dist,first_down_def,rushes_defended,rush_yds_def,fumbles_forced,completions_allowed,passes_defended,pass_yds_def,interceptions_caught,sack_yds_def,penalty_yds_for,plays_defended,avg_ko_return_against,avg_punt_return_against,avg_punt_dist_against,result
+1991,1,Sun,4:00PM ET,71,10,25,43,185,0,19,29,286,0,0,41,72,0.0,1.6666666666666667,55.0,10,23,53,1,11,22,206,3,13,47,46,19.5,22.0,50.0,W
+1991,2,Sun,4:00PM ET,65,9,12,17,33,1,15,29,240,0,26,53,51,8.0,3.0,36.4,16,38,133,0,12,19,168,0,28,76,62,22.333333333333332,13.0,40.75,L
+1991,3,Sun,4:00PM ET,58,9,16,30,99,2,19,32,252,0,6,55,63,0.0,7.666666666666667,35.75,17,16,50,2,21,50,322,2,10,44,68,21.2,6.2,43.42857142857143,W
+1991,4,Sun,4:00PM ET,53,11,18,29,144,1,17,28,218,1,2,40,58,19.5,0.0,36.0,17,32,171,1,13,29,139,1,13,56,63,18.333333333333332,2.0,41.0,W
+1991,5,Sun,8:00PM ET,70,0,17,33,179,1,8,22,82,0,19,15,58,19.0,16.333333333333332,34.6,15,26,203,0,14,28,130,3,9,52,57,17.666666666666668,3.5,46.5,W
+1991,6,Sun,1:00PM ET,70,0,23,23,91,2,27,47,334,1,62,78,76,14.5,14.0,44.5,17,20,51,1,19,31,334,1,7,88,52,17.5,0.0,42.5,L
+1991,8,Sun,4:00PM ET,48,6,14,24,95,0,14,27,270,0,41,31,56,29.0,-1.0,55.0,22,29,119,0,21,36,241,0,32,29,69,21.6,7.0,45.0,W
+1991,9,Sun,4:00PM ET,65,13,14,30,102,1,15,27,154,0,13,11,58,14.0,8.0,55.0,15,29,141,0,17,25,164,0,18,44,56,18.0,14.333333333333334,40.833333333333336,W
+1991,10,Sun,8:00PM ET,16,8,17,31,144,1,10,23,140,1,10,27,55,26.666666666666668,3.6666666666666665,47.0,19,31,146,0,18,33,204,1,41,91,70,18.2,0.0,41.833333333333336,W
+1991,11,Sun,4:00PM ET,45,9,23,39,200,1,13,31,191,2,8,41,71,21.0,6.25,37.333333333333336,13,28,118,0,13,20,151,0,25,59,51,10.5,6.0,50.0,L
+1991,12,Sun,1:00PM ET,51,17,14,35,172,0,9,20,134,0,47,36,61,27.5,4.666666666666667,45.0,21,28,125,0,20,38,298,4,6,25,67,18.6,4.333333333333333,44.25,W
+1991,13,Sun,4:00PM ET,70,0,12,32,98,2,13,23,132,2,20,50,60,11.0,8.0,36.666666666666664,11,30,146,2,9,19,70,2,17,27,53,8.333333333333334,0.0,40.5,L
+1991,14,Sun,4:00PM ET,14,6,19,37,116,1,18,25,215,0,6,41,63,22.0,11.666666666666666,42.4,14,16,50,2,19,36,247,2,45,42,57,12.333333333333334,8.5,44.2,W
+1991,15,Sun,1:00PM ET,54,16,17,35,90,0,16,29,221,1,21,47,68,29.0,7.25,36.8,9,19,101,0,12,24,110,1,30,75,48,17.5,1.5,45.57142857142857,W
+1991,16,Sun,4:00PM ET,34,8,22,30,122,0,19,33,245,3,2,65,64,22.666666666666668,15.0,44.25,13,25,73,0,15,32,194,0,36,64,62,15.25,0.0,44.8,W
+1991,17,Sun,4:00PM ET,57,6,21,39,145,0,14,34,196,1,30,84,78,18.0,3.4,39.5,13,21,114,1,12,34,123,3,16,29,58,20.5,3.0,47.25,W
+1992,1,Sun,8:00PM ET,64,9,12,22,47,2,10,24,171,1,18,30,50,12.333333333333334,9.0,43.8,20,45,152,3,7,24,181,2,20,49,72,0.0,25.0,40.8,W
+1992,2,Sun,4:00PM ET,74,11,12,21,64,0,14,24,186,1,24,63,47,27.333333333333332,11.0,47.875,27,30,168,0,23,45,231,2,44,50,80,0.0,5.6,47.666666666666664,W
+1992,3,Sun,1:00PM ET,67,9,4,17,52,0,8,19,59,1,29,45,40,14.0,21.333333333333332,44.875,20,39,130,0,18,26,270,0,12,25,67,0.0,9.5,39.25,L
+1992,4,Sun,1:00PM ET,66,14,15,41,188,0,10,17,157,1,45,22,63,17.0,7.0,50.5,10,30,141,0,9,20,75,3,0,29,50,31.0,11.5,51.5,W
+1992,5,Sun,4:00PM ET,64,12,20,20,68,1,23,38,311,0,32,84,63,20.5,20.5,46.333333333333336,20,27,90,0,22,31,301,0,22,45,61,5.0,2.0,43.666666666666664,W
+1992,6,Mon,9:00PM ET,57,11,7,17,26,1,17,40,138,3,36,48,62,20.285714285714285,9.0,42.111111111111114,17,38,117,1,16,26,245,0,0,15,64,14.0,5.0,36.833333333333336,L
+1992,7,Sun,4:00PM ET,47,8,14,22,170,0,13,21,192,0,40,50,47,16.333333333333332,37.0,0.0,21,19,109,0,23,39,321,1,23,77,62,26.0,8.0,41.5,W
+1992,8,Sun,4:00PM ET,67,8,18,21,91,0,21,39,260,3,0,31,60,21.0,0.0,43.6,20,33,101,2,20,27,355,1,15,43,63,19.0,16.0,46.0,L
+1992,10,Sun,4:00PM ET,43,10,19,32,114,2,18,33,261,2,0,10,65,0.0,6.666666666666667,48.666666666666664,15,20,159,1,16,30,197,1,15,63,53,19.0,12.333333333333334,39.4,W
+1992,11,Sun,8:00PM ET,46,9,18,37,149,1,15,22,230,1,0,60,59,22.0,13.0,40.0,10,29,120,1,8,14,71,0,32,31,48,1.0,4.0,52.4,W
+1992,12,Sun,4:00PM ET,57,9,15,20,85,1,18,26,207,2,25,35,50,20.2,9.5,44.25,20,31,167,0,16,30,160,0,10,55,63,0.0,13.0,41.25,L
+1992,13,Mon,9:00PM ET,70,0,10,34,84,0,11,26,127,2,15,72,63,13.666666666666666,-1.0,40.45454545454545,15,27,74,2,24,42,273,2,39,59,75,1.0,10.4,41.0,L
+1992,14,Sun,4:00PM ET,15,7,15,19,93,1,18,31,289,4,28,67,54,24.0,16.0,49.0,22,32,82,0,25,35,231,0,9,35,69,24.0,6.0,46.0,L
+1992,15,Sat,12:30PM ET,31,12,24,30,98,2,23,48,250,3,28,49,82,20.25,7.5,36.333333333333336,17,37,151,2,13,23,213,2,3,88,61,28.0,17.5,44.25,L
+1992,16,Sun,4:00PM ET,13,6,15,23,89,2,20,30,210,3,6,52,55,45.0,4.333333333333333,43.75,16,30,142,2,14,25,137,0,57,30,63,0.0,6.0,44.2,W
+1992,17,Sun,1:00PM ET,38,17,16,27,82,1,19,35,264,2,56,50,68,17.166666666666668,6.0,0.0,13,22,60,2,14,25,176,1,16,21,50,36.0,6.4,49.333333333333336,L
+1993,1,Sun,1:00PM ET,76,7,18,32,99,1,20,29,269,0,15,19,63,26.333333333333332,17.5,39.0,20,19,71,2,29,40,371,1,20,45,62,13.833333333333334,0.0,53.0,W
+1993,2,Sun,4:00PM ET,76,11,17,22,58,1,24,34,294,1,10,34,57,15.0,15.333333333333334,49.25,26,24,68,1,31,55,338,1,16,58,83,15.333333333333334,9.5,40.5,W
+1993,3,Mon,9:00PM ET,64,9,17,14,35,2,28,45,300,1,0,75,59,16.666666666666668,5.0,47.125,21,31,160,1,21,36,273,0,19,105,70,44.0,8.5,37.0,L
+1993,5,Sun,4:00PM ET,59,8,26,37,196,2,21,31,260,0,2,60,69,9.0,6.0,40.0,16,22,111,0,15,33,165,2,5,40,56,20.0,0.0,51.5,W
+1993,6,Sun,7:30PM ET,36,9,26,19,55,1,33,59,367,1,34,112,82,15.333333333333334,6.5,40.0,15,29,64,0,20,32,235,3,0,74,61,25.5,8.0,43.333333333333336,L
+1993,7,Mon,9:00PM ET,44,12,18,32,132,1,16,30,188,1,67,55,69,13.0,8.0,48.75,12,23,53,1,15,25,264,1,9,110,50,17.0,15.0,44.0,L
+1993,9,Sun,4:00PM ET,40,10,25,31,87,0,23,36,255,1,16,54,69,20.0,13.0,41.666666666666664,19,26,103,0,16,30,201,2,17,94,60,15.0,3.0,48.333333333333336,W
+1993,10,Sun,1:00PM ET,32,12,21,42,160,1,17,23,244,0,11,63,66,17.0,7.333333333333333,34.333333333333336,14,14,75,0,16,30,226,0,35,51,50,18.5,2.0,41.75,W
+1993,11,Sun,4:00PM ET,32,10,25,22,92,3,30,40,290,1,40,77,66,29.6,12.25,40.2,18,27,70,2,19,37,366,1,9,92,65,14.6,7.333333333333333,48.8,L
+1993,12,Sun,4:00PM ET,42,10,23,34,107,0,18,25,276,0,19,22,61,9.0,13.666666666666666,49.333333333333336,19,22,101,2,23,38,278,1,30,63,64,16.25,0.0,50.666666666666664,W
+1993,13,Sun,4:00PM ET,70,0,19,35,101,1,20,37,226,1,20,35,76,0.0,7.25,47.375,13,26,127,1,17,37,188,1,27,75,69,18.0,7.0,46.583333333333336,W
+1993,14,Sun,4:00PM ET,57,6,14,23,86,1,15,33,172,1,34,29,61,10.0,11.0,50.5,20,27,95,0,22,39,221,0,18,75,68,16.0,23.5,41.5,L
+1993,15,Sun,4:00PM ET,48,14,23,38,136,0,20,30,221,2,17,64,70,0.0,7.0,46.0,17,21,77,0,17,30,237,1,3,42,52,20.5,5.5,48.333333333333336,W
+1993,16,Sat,12:30PM ET,39,11,15,33,129,1,14,24,113,0,8,0,60,17.5,3.5,39.6,14,26,84,2,14,29,120,3,19,25,59,13.75,3.5,41.2,W
+1993,17,Sun,4:00PM ET,41,10,18,23,110,3,26,41,225,0,0,34,65,20.0,16.8,48.2,13,36,65,0,14,30,176,1,5,10,68,0.0,14.5,44.25,L
+1993,18,Sun,4:00PM ET,58,6,22,31,110,0,25,36,361,0,0,89,67,22.75,4.0,45.0,24,24,94,1,25,41,310,0,6,60,68,17.0,10.0,48.25,L
+1994,1,Sun,8:00PM ET,72,11,30,18,129,1,36,46,371,2,30,63,68,19.8,0.0,59.0,19,34,138,1,12,22,232,0,0,87,56,20.4,8.0,37.666666666666664,L
+1994,2,Sun,4:00PM ET,63,15,22,24,85,0,29,42,319,1,3,35,67,18.0,14.0,41.25,19,21,79,0,26,37,297,2,10,31,59,15.428571428571429,15.0,37.2,L
+1994,3,Sun,4:00PM ET,68,9,21,17,69,2,25,50,252,1,29,76,71,23.8,-1.0,40.25,20,30,102,1,21,34,338,0,16,118,66,23.333333333333332,11.5,50.8,L
+1994,4,Mon,9:00PM ET,64,10,21,23,77,1,26,46,280,1,20,77,73,20.8,16.0,50.0,19,35,149,0,16,26,178,1,12,51,63,13.4,5.5,33.25,L
+1994,6,Sun,4:00PM ET,58,7,19,44,150,0,15,29,146,0,18,35,75,20.25,6.0,44.333333333333336,16,20,94,3,19,39,244,2,0,46,59,16.6,8.666666666666666,48.5,W
+1994,7,Mon,9:00PM ET,43,7,21,27,97,3,18,29,263,0,30,66,62,22.0,7.75,39.857142857142854,26,24,90,1,34,54,393,1,0,101,78,31.0,5.666666666666667,46.0,L
+1994,8,Sun,4:00PM ET,65,5,16,36,69,2,22,31,241,1,16,70,70,29.5,17.5,44.0,18,25,166,0,19,39,162,3,7,81,65,20.75,4.5,46.4,W
+1994,9,Sun,4:00PM ET,42,7,29,37,114,2,30,41,349,0,6,66,79,15.25,7.333333333333333,41.0,17,17,41,1,23,45,284,0,8,59,63,17.75,9.5,45.4,W
+1994,10,Sun,4:00PM ET,58,8,24,14,48,0,24,45,241,0,5,93,60,17.5,20.0,41.75,23,38,141,1,22,29,244,1,0,40,67,19.75,0.5,44.666666666666664,L
+1994,11,Sun,4:00PM ET,48,11,21,38,169,0,17,33,146,2,18,23,73,19.0,8.333333333333334,37.0,14,28,158,1,10,30,133,0,2,79,60,23.25,7.5,46.2,W
+1994,12,Sun,4:00PM ET,34,13,25,29,89,1,27,42,382,1,46,40,76,23.8,0.0,42.666666666666664,16,17,76,0,19,43,254,0,0,62,60,16.0,8.0,41.857142857142854,W
+1994,13,Sun,4:00PM ET,27,18,12,22,50,0,21,38,239,0,33,25,64,16.5,10.0,42.42857142857143,16,30,130,3,16,34,218,1,20,40,67,24.5,4.333333333333333,46.4,W
+1994,14,Sun,4:00PM ET,53,9,26,43,123,1,24,36,299,0,29,70,84,19.6,7.4,47.142857142857146,17,25,78,1,18,37,323,0,0,66,62,22.75,3.0,42.142857142857146,W
+1994,15,Sun,4:00PM ET,54,7,16,21,63,2,20,33,242,0,14,45,56,17.285714285714285,3.3333333333333335,42.125,16,32,128,0,16,31,211,0,34,81,68,19.5,11.6,41.333333333333336,L
+1994,16,Sat,4:00PM ET,47,8,20,15,48,2,29,41,323,1,37,25,63,21.142857142857142,0.0,40.0,25,30,102,0,23,33,394,1,8,26,64,21.25,7.5,37.333333333333336,L
+1994,17,Sat,4:00PM ET,41,8,23,23,90,1,25,44,290,3,32,56,71,21.6,6.75,47.333333333333336,22,26,80,1,28,35,391,0,24,63,66,18.4,3.25,47.0,L
+1995,1,Sun,8:00PM ET,76,11,24,37,140,0,22,41,317,1,18,86,80,0.0,17.0,47.75,14,20,60,0,15,32,190,0,16,76,54,18.285714285714285,5.0,41.5,W
+1995,2,Sun,4:00PM ET,75,10,17,21,89,1,17,35,222,1,24,58,59,26.8,6.0,46.4,27,38,162,0,18,31,196,1,0,49,69,18.0,3.0,34.333333333333336,L
+1995,3,Sun,4:00PM ET,70,11,28,33,158,0,30,47,327,0,9,36,81,22.2,0.0,52.5,20,20,129,0,16,26,233,1,8,30,47,37.6,52.0,49.0,W
+1995,4,Sun,4:00PM ET,70,7,12,15,65,0,19,34,186,0,5,84,50,19.0,10.5,39.8,23,39,158,0,18,32,189,1,13,94,73,17.0,5.333333333333333,38.6,L
+1995,5,Sun,4:00PM ET,70,0,18,19,75,1,23,45,243,0,0,20,64,22.333333333333332,11.5,40.0,26,41,230,0,16,24,222,0,30,23,69,16.666666666666668,0.0,39.666666666666664,L
+1995,6,Sun,8:00PM ET,59,12,23,35,121,0,21,34,287,1,5,77,70,25.0,6.0,33.2,22,19,81,2,27,59,271,0,23,43,80,19.0,-0.6666666666666666,39.6,W
+1995,7,Mon,9:00PM ET,61,10,24,33,124,3,26,49,371,0,20,63,84,0.0,4.25,56.0,10,13,21,2,19,45,175,2,27,77,61,20.0,9.5,47.0,W
+1995,8,Sun,4:00PM ET,44,15,19,26,85,1,21,40,214,2,14,35,69,19.333333333333332,25.5,36.4,21,41,171,0,15,28,164,0,3,38,70,41.0,7.0,47.2,L
+1995,10,Sun,4:00PM ET,44,16,24,30,148,1,17,22,268,0,10,50,53,25.666666666666668,8.5,42.0,18,21,74,2,19,32,245,0,42,56,59,18.166666666666668,0.0,50.75,W
+1995,11,Sun,8:00PM ET,43,24,15,20,132,1,22,32,181,0,33,53,55,24.0,0.0,37.25,25,32,125,0,25,37,264,0,8,20,70,16.75,3.0,38.0,L
+1995,12,Sun,4:00PM ET,48,10,25,31,173,0,19,34,290,2,0,67,65,44.25,10.0,48.0,20,26,70,1,17,28,206,0,7,41,55,27.142857142857142,0.0,48.4,W
+1995,13,Sun,4:00PM ET,70,0,22,24,140,0,27,41,332,2,0,78,65,25.428571428571427,0.0,58.0,23,32,168,2,18,26,280,0,0,15,58,19.714285714285715,7.0,40.5,L
+1995,14,Sun,4:00PM ET,41,11,20,33,111,2,22,34,286,1,0,10,67,12.8,8.333333333333334,43.5,13,21,69,1,15,28,198,1,7,67,52,30.166666666666668,2.0,43.2,W
+1995,15,Sun,4:00PM ET,36,14,25,37,240,2,16,29,174,3,26,78,70,26.6,19.8,38.0,19,27,134,0,16,34,213,2,21,103,63,21.5,0.0,45.666666666666664,L
+1995,16,Sun,4:00PM ET,39,14,18,16,64,2,24,36,242,0,38,29,55,11.0,5.0,42.0,22,33,145,1,23,37,232,0,13,41,71,18.0,3.0,37.666666666666664,L
+1995,17,Sun,4:00PM ET,49,10,30,30,130,2,24,41,320,1,13,27,73,19.6,9.333333333333334,22.0,19,28,98,2,20,30,240,0,2,75,59,13.5,0.0,40.8,W
+1996,1,Sun,4:00PM ET,74,14,21,37,200,1,16,34,183,2,16,39,73,12.0,11.666666666666666,45.0,12,25,116,3,11,25,133,1,61,15,59,18.0,3.6666666666666665,45.22222222222222,W
+1996,2,Sun,4:00PM ET,70,0,22,40,180,1,18,28,209,0,15,19,73,21.0,13.333333333333334,35.2,10,19,39,2,18,30,190,1,18,50,52,22.285714285714285,44.0,52.75,W
+1996,3,Sun,8:00PM ET,59,9,20,39,194,1,25,34,180,2,0,98,73,25.333333333333332,1.5,48.666666666666664,15,22,121,1,12,30,200,1,14,52,54,30.0,1.0,41.2,W
+1996,4,Sun,1:00PM ET,67,8,17,27,161,0,14,30,156,2,18,35,59,27.75,18.5,44.75,20,29,75,0,20,35,242,1,11,24,66,19.666666666666668,8.666666666666666,39.833333333333336,L
+1996,5,Sun,1:00PM ET,55,6,22,27,114,2,23,38,335,1,47,52,70,27.0,9.0,43.4,17,24,106,0,15,29,166,1,19,40,57,23.666666666666668,4.5,53.333333333333336,W
+1996,6,Sun,4:00PM ET,60,9,23,26,94,0,32,41,323,1,11,84,68,32.5,14.6,41.0,14,16,35,0,24,36,237,0,27,61,55,19.5,1.0,56.666666666666664,W
+1996,8,Sun,4:00PM ET,41,14,26,34,222,0,25,39,326,1,0,35,73,22.0,9.5,45.5,23,18,75,0,27,45,338,1,21,25,66,21.0,11.5,48.0,W
+1996,9,Sun,4:00PM ET,33,11,26,43,213,1,16,32,286,2,0,60,75,24.0,14.142857142857142,40.0,10,12,24,0,21,49,213,2,5,88,62,28.571428571428573,0.0,48.0,W
+1996,10,Mon,9:00PM ET,54,9,18,31,152,0,16,33,182,1,22,50,66,20.0,0.0,44.0,17,16,105,0,22,34,250,0,34,82,54,17.333333333333332,10.0,38.666666666666664,W
+1996,11,Sun,4:00PM ET,47,10,17,26,92,0,19,32,198,0,6,71,59,21.0,25.0,42.2,24,39,174,1,17,35,181,2,9,48,75,17.75,13.0,49.0,W
+1996,12,Sun,1:00PM ET,42,8,26,45,198,0,16,27,230,1,6,52,73,21.0,15.0,44.666666666666664,12,9,17,0,22,42,212,1,11,34,53,21.714285714285715,0.0,45.0,W
+1996,13,Sun,1:00PM ET,70,0,22,23,79,2,27,36,334,1,25,50,62,22.75,0.0,39.75,20,28,50,0,24,35,266,2,20,18,65,17.75,0.0,32.6,W
+1996,14,Sun,4:00PM ET,31,13,31,45,205,0,23,34,240,0,4,52,80,50.0,14.5,38.0,13,19,105,1,13,28,177,2,5,44,48,21.2,0.0,55.2,W
+1996,15,Sun,1:00PM ET,29,16,9,24,93,3,13,24,106,0,23,65,51,19.125,6.0,34.8,22,29,103,0,20,38,280,2,4,45,68,15.0,12.0,39.0,L
+1996,16,Sun,4:00PM ET,24,16,23,37,99,2,19,31,206,1,20,101,70,23.0,5.5,42.666666666666664,18,13,105,1,19,39,158,3,8,157,53,19.0,19.0,44.25,W
+1996,17,Sun,8:00PM ET,59,13,13,21,66,2,25,43,168,2,20,86,67,26.25,13.0,41.4,14,27,81,0,17,36,170,3,7,51,64,10.75,21.0,46.0,L
+1997,1,Sun,4:00PM ET,70,14,20,35,146,0,17,28,246,0,14,69,65,42.5,21.5,33.0,12,19,133,0,14,25,115,1,7,50,47,28.0,0.0,42.8,W
+1997,2,Sun,4:00PM ET,70,0,22,30,143,1,18,26,197,0,9,25,58,29.666666666666668,5.0,35.666666666666664,16,24,69,0,20,33,222,1,2,134,58,15.142857142857142,0.0,46.4,W
+1997,3,Sun,4:00PM ET,71,11,19,34,144,1,16,28,247,1,14,100,63,26.0,24.2,47.25,18,23,130,0,18,33,217,2,33,45,61,15.666666666666666,2.5,43.857142857142854,W
+1997,4,Sun,4:00PM ET,51,9,23,29,222,0,14,26,162,1,12,90,57,20.0,0.0,37.0,22,25,195,1,20,30,220,0,26,123,59,22.714285714285715,0.0,31.0,W
+1997,5,Sun,1:00PM ET,70,0,16,27,101,0,18,33,243,1,15,76,63,17.333333333333332,0.0,46.166666666666664,17,21,112,0,18,31,222,1,26,27,56,15.25,10.0,42.42857142857143,W
+1997,6,Mon,9:00PM ET,59,10,25,38,192,0,13,27,196,2,8,20,66,29.5,6.666666666666667,50.333333333333336,13,19,51,1,20,41,234,1,23,117,63,19.833333333333332,20.0,51.857142857142854,W
+1997,8,Sun,4:00PM ET,60,12,25,29,147,1,26,46,309,0,15,70,78,18.25,7.75,43.0,12,32,243,1,9,12,96,1,15,41,46,16.75,3.3333333333333335,46.4,L
+1997,9,Sun,1:00PM ET,35,11,17,46,225,1,16,30,133,2,17,113,81,16.0,6.2,39.5,19,29,155,3,19,42,212,3,52,25,76,20.833333333333332,9.5,41.125,W
+1997,10,Sun,4:00PM ET,38,16,19,31,140,2,19,30,252,0,7,55,62,19.0,9.0,46.75,22,18,104,2,28,46,256,0,11,50,66,15.166666666666666,1.6666666666666667,40.8,W
+1997,11,Sun,4:00PM ET,30,12,20,42,160,1,15,24,248,0,15,15,69,24.0,33.6,36.666666666666664,7,14,34,1,13,29,141,3,28,62,47,25.285714285714285,0.0,47.111111111111114,W
+1997,12,Sun,1:00PM ET,24,8,26,40,135,1,18,31,232,0,38,84,77,24.0,-1.0,42.0,15,30,106,0,11,21,98,1,2,120,52,28.428571428571427,8.0,40.0,L
+1997,13,Mon,9:00PM ET,43,11,23,30,110,1,21,33,280,0,20,75,66,33.0,7.75,42.8,14,21,110,2,22,41,185,0,35,82,66,17.2,0.0,43.75,W
+1997,14,Sun,8:00PM ET,61,8,28,29,198,0,20,33,240,0,0,92,62,21.333333333333332,12.0,50.0,22,21,47,0,23,51,222,2,0,71,73,22.571428571428573,83.0,43.75,W
+1997,15,Sun,1:00PM ET,28,13,18,24,89,0,17,42,248,1,17,33,68,19.0,8.0,43.5,22,36,186,1,18,29,303,1,13,35,66,15.0,15.0,45.333333333333336,L
+1997,16,Mon,9:00PM ET,49,7,15,23,96,1,16,41,150,2,9,46,65,21.714285714285715,0.0,48.5,18,26,58,1,22,34,276,0,11,95,62,21.5,4.75,36.2,L
+1997,17,Sun,4:00PM ET,23,6,24,33,130,0,23,35,321,1,0,43,68,29.0,20.0,53.0,9,23,70,0,15,28,147,1,14,41,53,22.714285714285715,3.0,45.666666666666664,W
+1998,1,Mon,8:20PM ET,70,9,20,30,91,0,22,34,257,0,9,30,65,17.333333333333332,17.666666666666668,45.5,17,24,81,0,20,32,289,0,31,49,59,34.0,4.0,51.0,W
+1998,2,Sun,4:15PM ET,64,14,21,31,209,0,17,23,306,0,0,25,54,28.0,9.5,47.5,18,30,169,0,19,31,201,0,0,19,62,26.333333333333332,0.0,51.0,W
+1998,3,Sun,4:15PM ET,64,10,25,36,145,1,16,27,211,1,18,88,65,20.666666666666668,-3.0,54.4,13,20,94,0,17,29,196,3,32,80,53,16.333333333333332,10.5,40.4,W
+1998,4,Sun,1:00PM ET,80,12,18,35,185,0,16,24,180,0,0,50,59,28.0,13.0,49.8,18,25,152,1,19,31,252,2,17,65,59,22.2,9.5,53.0,W
+1998,5,Sun,4:15PM ET,47,14,22,39,231,0,17,32,205,2,13,50,73,16.0,10.8,46.8,12,19,57,1,14,33,132,1,32,28,58,15.8,5.25,44.9,W
+1998,6,Sun,4:15PM ET,70,0,17,34,202,0,13,27,185,2,14,89,64,22.0,17.6,45.714285714285715,16,24,77,0,21,40,263,1,21,93,67,19.25,5.5,49.55555555555556,W
+1998,8,Sun,4:15PM ET,51,10,24,36,170,0,21,35,295,0,0,54,71,24.0,10.0,41.666666666666664,24,16,66,1,28,46,353,0,71,56,69,31.857142857142858,9.0,39.5,W
+1998,9,Sun,1:00PM ET,55,7,20,29,150,0,15,26,213,1,11,106,57,26.833333333333332,9.0,46.666666666666664,25,39,127,1,20,37,257,0,12,50,78,30.285714285714285,2.5,36.5,W
+1998,10,Sun,4:15PM ET,31,9,19,24,72,0,21,36,241,1,24,65,63,15.0,5.5,46.4,13,21,77,2,17,38,139,1,3,58,60,17.714285714285715,9.0,32.25,W
+1998,11,Mon,8:20PM ET,53,14,26,35,205,0,13,23,180,0,6,99,59,22.5,0.0,40.5,15,19,31,0,26,39,224,1,34,137,62,15.666666666666666,4.25,38.166666666666664,W
+1998,12,Sun,4:15PM ET,56,15,28,41,196,1,18,26,211,0,10,52,68,19.666666666666668,22.0,43.666666666666664,15,19,49,0,20,35,270,3,25,44,58,21.6,10.0,47.57142857142857,W
+1998,13,Sun,8:20PM ET,58,14,18,30,96,1,19,34,239,3,13,70,65,37.666666666666664,8.0,47.0,21,17,65,1,30,53,304,5,2,95,71,14.0,26.0,42.0,W
+1998,14,Sun,4:15PM ET,25,8,23,29,93,2,22,32,400,1,17,86,63,24.5,11.0,46.0,20,17,44,1,27,43,240,0,18,35,64,24.333333333333332,17.333333333333332,40.8,W
+1998,15,Sun,1:00PM ET,44,8,21,33,170,0,19,36,180,1,21,33,72,17.6,0.0,51.333333333333336,18,25,138,2,21,33,265,0,11,30,59,17.8,3.0,38.333333333333336,L
+1998,16,Mon,8:20PM ET,76,11,14,23,58,0,15,40,167,2,6,51,65,33.0,8.0,47.0,19,28,36,1,23,38,355,1,0,0,66,26.0,9.5,38.5,L
+1998,17,Sun,4:15PM ET,36,13,31,40,195,1,26,36,338,0,22,75,78,22.0,6.0,49.5,19,13,24,0,23,38,243,1,26,26,54,25.8,16.0,42.666666666666664,W
+1999,1,Mon,9:07PM ET,60,5,25,26,113,1,24,40,270,0,30,30,68,26.25,3.0,38.333333333333336,22,33,111,0,15,23,215,0,0,60,56,27.5,0.0,43.5,L
+1999,2,Sun,4:16PM ET,69,8,20,26,88,2,20,31,172,2,16,50,59,22.6,2.0,40.25,17,41,188,0,15,20,179,1,2,84,62,21.0,5.0,40.0,L
+1999,3,Sun,1:01PM ET,82,8,8,20,53,0,14,29,132,1,12,62,51,20.666666666666668,8.0,46.714285714285715,17,42,165,2,15,19,135,0,57,14,68,17.0,10.0,45.0,L
+1999,4,Sun,4:15PM ET,54,7,17,29,108,1,18,36,234,5,16,82,66,49.0,2.0,49.666666666666664,23,35,110,0,17,28,242,2,18,43,67,22.5,11.5,41.2,L
+1999,5,Sun,4:17PM ET,79,8,16,28,81,1,17,30,234,1,13,17,60,25.5,1.3333333333333333,54.2,17,24,55,0,25,36,248,2,38,30,66,19.4,25.8,45.75,W
+1999,6,Sun,4:15PM ET,50,0,28,51,151,0,19,31,363,1,0,64,82,15.0,7.333333333333333,51.0,5,11,21,0,7,23,120,3,8,51,35,18.833333333333332,5.5,51.142857142857146,W
+1999,7,Sun,1:02PM ET,53,25,23,27,133,0,25,38,316,0,7,70,68,21.4,8.333333333333334,53.0,15,28,133,0,13,22,214,0,22,34,54,23.333333333333332,17.5,45.57142857142857,L
+1999,8,Sun,4:15PM ET,75,5,24,30,135,2,24,40,274,1,18,39,74,21.0,14.0,54.25,15,24,97,0,17,29,218,0,13,78,55,18.75,14.666666666666666,43.833333333333336,L
+1999,9,Sun,4:15PM ET,69,7,17,31,114,0,14,24,166,0,39,61,60,26.5,4.0,40.25,19,19,59,2,25,39,235,2,21,55,62,17.0,3.0,44.0,W
+1999,10,Sun,8:21PM ET,70,0,18,31,87,0,20,30,239,1,3,55,62,17.2,2.0,40.4,14,21,41,1,16,31,235,1,5,105,53,28.25,13.0,37.75,L
+1999,11,Mon,11:07PM ET,26,7,17,30,120,2,18,41,182,0,11,60,73,21.857142857142858,3.0,38.0,16,29,79,2,17,34,222,1,17,90,68,18.6,13.333333333333334,30.333333333333332,W
+1999,13,Sun,4:15PM ET,45,9,14,18,83,0,20,36,227,1,19,52,56,20.5,9.25,53.22222222222222,17,38,177,0,20,34,183,1,8,106,73,18.333333333333332,19.857142857142858,49.333333333333336,L
+1999,14,Mon,9:09PM ET,68,6,18,27,90,0,21,33,275,2,7,83,61,21.25,4.8,41.5,18,32,161,0,11,25,115,0,11,20,60,18.25,16.5,41.142857142857146,L
+1999,15,Sun,2:15PM ET,27,12,26,33,260,0,20,39,180,2,10,62,74,19.0,22.0,48.666666666666664,19,17,114,2,22,42,278,0,28,118,62,24.428571428571427,6.0,43.166666666666664,W
+1999,16,Sat,4:16PM ET,70,0,22,36,204,0,22,30,171,1,6,40,67,17.0,14.333333333333334,43.8,16,12,32,0,21,40,267,0,25,78,57,24.25,9.0,47.625,W
+1999,17,Sun,4:15PM ET,41,7,15,22,44,1,23,46,211,0,20,45,72,21.666666666666668,1.25,50.125,17,34,194,2,17,26,193,2,10,50,63,17.333333333333332,9.0,48.2,L
+2000,1,Mon,9:07PM ET,70,0,25,28,150,0,19,29,307,0,33,27,61,19.6,0.0,44.5,23,18,80,0,25,35,441,3,8,56,55,18.125,86.0,34.0,L
+2000,2,Sun,4:16PM ET,84,10,29,39,152,0,20,33,268,0,13,54,74,19.0,11.0,43.4,12,13,47,3,12,29,171,0,32,71,48,32.125,16.666666666666668,38.857142857142854,W
+2000,3,Sun,4:05PM ET,79,9,25,39,180,1,21,31,213,0,6,30,71,19.4,8.0,0.0,16,19,123,2,13,21,159,2,19,51,44,23.0,0.0,46.5,W
+2000,4,Sun,4:16PM ET,36,8,21,30,145,2,18,31,208,1,11,71,62,24.4,12.333333333333334,46.5,21,27,49,1,21,33,250,2,5,48,61,21.6,0.0,49.75,L
+2000,5,Sun,4:06PM ET,80,6,26,21,79,1,31,50,361,1,35,50,75,38.25,9.0,49.2,19,27,54,0,18,27,271,1,11,17,57,24.333333333333332,7.333333333333333,45.333333333333336,L
+2000,6,Sun,4:15PM ET,68,7,18,30,96,0,27,40,235,0,27,113,72,25.0,24.0,36.111111111111114,17,20,65,0,18,43,237,3,25,57,67,16.25,3.3333333333333335,46.75,W
+2000,7,Sun,4:06PM ET,59,7,24,31,146,0,22,40,353,0,0,14,71,38.0,10.333333333333334,39.75,12,9,38,0,26,45,287,3,47,116,59,19.88888888888889,22.0,46.25,W
+2000,8,Sun,1:00PM ET,73,2,32,32,142,2,30,45,365,1,7,38,79,23.2,5.0,34.5,15,37,407,1,2,14,34,0,20,69,53,21.25,0.0,46.6,L
+2000,10,Sun,4:15PM ET,51,20,23,39,130,0,22,35,327,1,10,57,75,18.25,19.0,30.0,22,17,88,1,21,42,293,2,0,10,59,17.714285714285715,0.0,63.0,W
+2000,11,Mon,9:09PM ET,20,3,18,23,71,1,26,39,266,1,8,45,63,18.8,10.0,43.666666666666664,25,18,38,1,30,53,382,2,9,54,75,24.4,8.0,48.666666666666664,W
+2000,12,Sun,4:05PM ET,39,13,34,22,93,1,36,58,462,4,19,63,83,24.714285714285715,12.0,38.0,14,27,86,2,13,27,311,1,12,62,57,21.166666666666668,10.0,44.0,W
+2000,13,Sun,4:16PM ET,48,9,25,41,301,3,15,31,244,2,7,53,73,18.166666666666668,1.3333333333333333,35.75,17,21,85,1,23,48,274,2,5,43,70,20.0,8.5,38.0,W
+2000,14,Sun,1:02PM ET,70,0,24,49,283,0,11,16,201,0,1,21,66,23.0,9.666666666666666,36.0,19,9,21,1,30,48,441,2,16,45,60,20.0,0.0,45.666666666666664,W
+2000,15,Sun,4:05PM ET,22,10,20,36,131,0,14,25,201,1,19,15,62,16.5,6.666666666666667,43.5,22,26,107,1,26,41,298,3,0,38,67,20.0,0.0,37.25,W
+2000,16,Sun,1:00PM ET,9,6,11,14,53,1,22,35,234,0,9,51,51,18.4,8.0,41.57142857142857,24,41,264,2,14,28,160,0,0,51,69,21.5,2.0,44.166666666666664,L
+2000,17,Sat,4:17PM ET,45,7,28,42,159,1,20,31,219,0,16,90,77,13.0,7.5,38.5,16,15,46,1,18,40,188,1,42,110,61,21.25,21.0,41.5,W
+2001,1,Mon,7:07PM ET,75,9,25,36,143,0,21,29,330,0,0,36,65,23.5,18.0,50.25,17,19,63,0,19,34,258,0,13,35,56,22.25,8.0,55.125,W
+2001,2,Sun,8:37PM ET,103,6,27,37,147,0,22,31,242,0,8,32,69,26.5,10.0,54.25,14,18,84,2,16,28,242,1,18,79,49,24.714285714285715,12.333333333333334,47.0,W
+2001,3,Sun,4:15PM ET,71,5,13,24,61,1,17,33,191,2,24,52,62,33.0,5.0,46.5,16,34,112,0,17,30,221,1,0,74,64,18.333333333333332,6.5,48.375,L
+2001,4,Sun,2:05PM ET,74,9,15,39,197,0,11,20,121,1,18,53,61,20.666666666666668,0.0,49.0,16,17,42,0,25,40,283,4,28,15,61,20.333333333333332,9.8,46.25,W
+2001,5,Sun,4:16PM ET,54,7,20,20,92,0,24,36,209,3,20,148,59,22.666666666666668,46.0,45.5,21,40,161,1,12,18,110,0,17,84,60,14.0,16.666666666666668,44.333333333333336,L
+2001,6,Sun,1:05PM ET,66,8,19,21,81,1,26,41,212,2,30,61,66,30.333333333333332,7.0,45.0,22,32,107,1,21,32,280,1,8,34,67,56.5,11.75,42.4,L
+2001,7,Sun,2:15PM ET,72,9,18,29,86,0,19,30,283,2,14,66,61,29.0,0.0,45.5,21,24,117,0,25,39,203,5,20,53,65,22.5,4.5,45.5,W
+2001,8,Mon,9:05PM ET,62,9,26,23,119,0,26,38,271,2,24,71,65,23.142857142857142,3.0,40.0,27,30,114,1,25,34,242,0,0,93,64,19.2,0.0,43.0,L
+2001,9,Sun,4:05PM ET,62,4,19,42,117,1,21,31,224,0,3,20,76,38.0,13.0,53.166666666666664,9,17,96,1,12,31,165,4,18,16,49,26.666666666666668,1.6666666666666667,55.8,W
+2001,10,Sun,4:15PM ET,44,11,10,27,88,2,11,31,114,0,16,57,61,18.333333333333332,0.0,39.333333333333336,18,32,118,3,16,31,150,0,23,54,66,18.0,7.714285714285714,41.875,L
+2001,11,Thu,4:15PM ET,72,0,19,39,119,0,17,29,171,1,11,65,69,17.0,15.75,46.5,16,16,27,2,17,33,192,0,28,34,53,20.666666666666668,20.0,45.5,W
+2001,12,Sun,1:02PM ET,76,6,19,32,147,1,18,33,135,1,9,39,66,15.5,5.0,47.666666666666664,12,22,42,1,18,28,176,0,0,70,50,23.333333333333332,10.25,42.857142857142854,L
+2001,13,Sun,8:35PM ET,38,3,20,28,165,1,21,37,158,1,14,45,67,22.5,16.333333333333332,40.0,15,21,70,0,17,37,243,2,36,62,63,19.6,17.0,48.75,W
+2001,14,Sun,1:00PM ET,49,0,22,34,94,1,23,34,254,0,13,146,70,17.666666666666668,26.0,39.2,22,33,137,2,17,21,292,1,33,68,59,18.0,8.5,50.0,L
+2001,16,Sun,4:15PM ET,24,3,15,25,106,0,19,26,142,0,17,11,55,23.25,9.5,38.0,24,16,51,1,35,49,313,2,30,62,68,19.6,8.5,45.0,W
+2001,17,Sun,1:00PM ET,70,0,17,25,115,0,16,32,151,4,47,15,62,22.125,7.0,45.6,22,35,151,0,16,30,191,1,7,20,66,22.666666666666668,18.5,48.333333333333336,L
+2002,1,Sun,4:17PM ET,83,4,18,26,104,0,18,27,202,2,15,31,57,0.0,4.0,51.666666666666664,15,13,32,1,32,41,315,1,20,44,57,19.4,4.666666666666667,36.666666666666664,W
+2002,2,Sun,4:00PM ET,67,11,21,35,201,1,14,19,119,0,21,30,58,6.0,3.25,36.75,18,20,71,1,27,36,205,1,15,114,58,14.2,2.5,39.0,W
+2002,3,Sun,4:05PM ET,59,3,22,32,163,0,19,31,211,0,32,64,67,28.0,5.0,43.166666666666664,17,14,39,1,27,41,283,0,31,82,59,21.6,0.0,48.57142857142857,W
+2002,4,Mon,9:08PM ET,71,0,30,21,97,0,35,54,328,3,22,91,78,25.0,9.6,41.5,14,30,84,2,13,24,152,0,6,62,55,28.2,7.333333333333333,52.5,L
+2002,5,Sun,4:05PM ET,57,9,20,31,117,0,26,35,316,1,16,50,68,15.0,14.0,43.5,16,18,79,1,26,42,235,2,0,41,60,20.75,2.0,42.75,W
+2002,6,Sun,8:35PM ET,58,3,27,26,111,1,27,46,335,2,36,70,75,32.5,14.0,50.0,16,23,58,1,19,29,210,1,9,42,53,30.714285714285715,23.5,41.2,L
+2002,7,Sun,1:00PM ET,51,3,22,27,141,1,30,50,376,0,10,75,78,22.375,0.0,41.5,24,31,162,0,20,33,172,0,29,50,68,23.857142857142858,14.666666666666666,37.5,W
+2002,8,Sun,4:15PM ET,60,15,23,40,136,1,18,23,229,1,14,51,65,25.5,0.3333333333333333,36.0,16,19,69,0,15,29,130,0,20,83,53,19.6,40.0,38.75,W
+2002,10,Mon,9:09PM ET,32,6,27,22,77,0,34,47,293,1,28,15,73,22.5,0.0,37.666666666666664,20,14,27,0,34,38,352,0,5,35,53,18.0,0.0,47.5,L
+2002,11,Sun,4:16PM ET,53,8,22,34,202,0,19,29,209,1,10,104,64,24.0,0.0,35.666666666666664,13,16,51,1,22,36,180,2,27,56,57,18.666666666666668,0.0,42.0,W
+2002,12,Sun,8:36PM ET,25,6,15,22,113,0,15,24,185,2,13,58,48,27.2,53.0,37.666666666666664,26,39,128,2,27,44,229,1,13,31,85,23.6,0.0,38.0,L
+2002,13,Sun,4:05PM ET,64,7,20,27,156,1,22,39,288,2,27,57,70,17.666666666666668,2.5,36.6,25,38,220,0,27,41,217,0,3,5,80,21.6,14.0,41.8,L
+2002,14,Sun,4:16PM ET,42,13,21,29,111,0,28,37,266,1,8,55,68,25.0,9.0,44.0,18,22,64,0,19,30,244,0,27,15,55,19.25,0.0,34.333333333333336,L
+2002,15,Sun,4:05PM ET,54,3,24,35,197,2,18,26,297,1,12,25,63,24.25,6.0,41.333333333333336,22,26,185,0,18,42,310,0,1,93,69,20.0,16.0,42.8,W
+2002,16,Sun,4:15PM ET,56,13,21,18,81,0,20,43,282,3,39,48,67,22.25,44.0,34.8,20,37,136,2,18,27,201,0,15,40,68,19.75,0.0,40.666666666666664,L
+2002,17,Sun,4:16PM ET,57,6,24,32,259,0,16,24,203,0,12,53,58,15.0,5.666666666666667,48.0,18,19,84,1,16,33,153,1,30,36,55,24.428571428571427,3.0,41.166666666666664,W
+2003,1,Sun,1:06PM ET,72,6,19,40,184,0,12,25,115,3,6,58,66,25.0,8.666666666666666,47.0,15,22,51,2,20,37,264,2,21,25,63,19.285714285714285,1.5,40.25,W
+2003,2,Sun,4:15PM ET,73,8,24,33,197,0,16,29,192,0,7,81,63,24.0,5.666666666666667,44.666666666666664,19,18,121,0,20,41,182,1,0,96,59,19.0,14.666666666666666,42.8,W
+2003,3,Mon,9:09PM ET,72,7,20,39,190,1,14,21,197,0,4,35,62,24.0,15.0,47.0,11,16,39,0,17,35,184,1,28,98,56,30.333333333333332,18.5,52.25,W
+2003,4,Sun,4:15PM ET,66,9,20,23,79,1,25,34,277,0,24,44,60,24.0,3.0,45.5,16,24,144,0,15,33,149,0,8,74,58,19.0,6.25,45.2,W
+2003,5,Sun,1:00PM ET,69,8,22,31,176,1,21,39,292,0,0,59,70,27.0,5.333333333333333,39.6,13,24,133,1,15,29,129,1,0,47,53,26.166666666666668,35.0,44.5,L
+2003,6,Sun,4:15PM ET,73,5,15,18,77,1,17,28,172,2,7,37,48,16.0,3.6666666666666665,52.833333333333336,17,30,85,1,20,31,186,0,56,85,68,19.0,7.2,46.714285714285715,W
+2003,7,Sun,1:00PM ET,70,0,27,27,138,0,21,37,223,3,40,40,69,25.0,2.0,43.0,14,22,72,0,19,26,277,0,9,108,50,21.4,8.0,39.0,L
+2003,8,Sun,1:02PM ET,67,12,12,27,104,0,16,31,114,2,24,49,60,19.333333333333332,9.5,38.0,16,37,151,0,15,27,137,0,11,62,66,17.0,8.666666666666666,41.2,L
+2003,9,Mon,9:09PM ET,35,0,18,29,114,0,16,35,163,1,0,30,64,19.25,30.0,42.0,17,26,69,1,20,35,350,1,0,85,61,29.5,6.0,33.4,L
+2003,11,Sun,4:05PM ET,52,6,26,49,201,1,23,35,253,2,6,60,85,22.0,31.0,0.0,5,13,40,3,9,25,70,1,14,83,40,23.571428571428573,0.0,46.714285714285715,W
+2003,12,Sun,4:05PM ET,18,8,18,21,200,0,19,36,176,0,11,114,59,15.8,9.0,38.6,19,33,106,0,15,33,126,0,15,29,68,38.666666666666664,9.75,36.6,L
+2003,13,Sun,4:15PM ET,55,8,20,46,193,0,11,20,105,1,11,45,69,27.666666666666668,6.5,44.6,12,23,120,3,13,30,153,0,11,89,55,13.2,20.333333333333332,44.0,W
+2003,14,Sun,4:15PM ET,63,8,26,32,270,0,20,29,238,0,0,23,61,28.333333333333332,0.0,36.5,28,19,63,0,34,47,397,0,16,44,69,26.166666666666668,0.0,46.0,W
+2003,15,Sun,4:05PM ET,52,6,28,40,165,0,22,36,269,1,17,124,79,22.5,16.0,41.6,12,26,102,0,8,21,181,1,8,32,49,20.0,12.75,52.0,W
+2003,16,Sun,8:35PM ET,70,0,26,54,227,0,14,17,238,1,0,93,71,17.5,10.5,34.0,11,12,47,0,12,23,146,0,10,45,37,28.166666666666668,0.0,41.0,W
+2003,17,Sun,4:15PM ET,45,15,13,34,114,1,13,27,102,2,0,30,61,23.333333333333332,12.333333333333334,42.42857142857143,16,34,262,0,13,22,118,1,14,29,58,20.0,14.0,40.6,L
+2004,1,Sun,8:39PM ET,82,15,24,36,192,1,18,29,230,2,9,35,66,28.25,13.75,56.5,15,28,167,0,16,32,174,1,23,70,61,17.0,26.0,45.4,W
+2004,2,Sun,1:02PM ET,78,15,20,35,106,1,23,39,250,0,0,57,74,24.5,10.666666666666666,41.42857142857143,8,22,67,0,8,16,120,0,11,85,40,24.0,15.6,44.111111111111114,L
+2004,3,Sun,4:05PM ET,73,7,18,21,37,1,25,36,294,0,3,25,58,34.25,0.0,53.0,16,30,85,1,15,30,159,0,30,61,64,26.0,12.0,49.166666666666664,W
+2004,4,Sun,4:15PM ET,86,9,19,35,111,0,13,30,138,0,0,50,65,22.5,9.5,37.8,12,24,110,1,15,24,162,0,3,97,49,23.8,2.0,44.2,W
+2004,5,Sun,4:15PM ET,72,4,23,37,210,0,17,29,226,2,2,37,67,10.5,5.0,51.0,12,26,64,0,13,20,173,0,10,88,47,16.0,10.0,48.2,W
+2004,6,Sun,4:15PM ET,67,15,25,51,254,0,11,20,190,1,0,85,71,19.0,14.75,32.0,9,16,31,1,15,31,136,1,22,81,51,17.166666666666668,0.0,47.57142857142857,W
+2004,7,Mon,9:09PM ET,61,7,22,26,123,1,23,40,221,2,26,88,69,13.6,2.0,41.0,13,33,133,0,12,21,198,1,10,65,55,21.333333333333332,8.333333333333334,38.2,L
+2004,8,Sun,4:05PM ET,54,12,27,19,68,0,31,55,499,3,0,70,74,19.75,11.5,37.0,22,36,195,1,19,25,277,0,5,56,62,32.333333333333336,12.0,40.333333333333336,L
+2004,9,Sun,4:15PM ET,69,7,21,36,139,0,16,24,234,0,9,50,61,17.0,9.0,41.4,22,27,103,0,22,41,245,0,17,109,72,19.666666666666668,-1.3333333333333333,46.666666666666664,W
+2004,11,Sun,1:03PM ET,70,0,18,31,165,0,19,29,224,0,0,82,60,21.75,12.0,40.833333333333336,20,14,49,1,34,60,377,3,15,79,76,24.857142857142858,4.0,46.5,W
+2004,12,Sun,8:36PM ET,18,7,16,34,122,2,14,23,245,1,0,31,57,21.25,2.0,36.0,19,18,61,1,26,45,339,2,5,38,64,26.4,3.3333333333333335,43.5,L
+2004,13,Sun,4:05PM ET,58,9,21,24,74,0,16,40,278,4,15,57,66,15.5,8.25,40.4,14,35,122,1,14,27,106,1,20,94,64,22.0,19.0,46.5,L
+2004,14,Sun,4:05PM ET,37,8,24,40,196,1,16,30,219,2,0,43,70,17.0,5.142857142857143,39.6,13,22,70,0,17,35,170,1,26,40,61,24.25,4.5,45.125,W
+2004,15,Sun,1:00PM ET,15,10,24,21,129,1,23,41,292,2,19,100,67,19.375,0.0,38.5,22,36,162,0,17,23,266,0,18,58,62,36.75,15.0,32.75,L
+2004,16,Sat,8:35PM ET,29,8,26,46,193,1,21,26,303,1,0,45,72,24.0,3.0,43.5,10,14,59,0,12,27,137,2,43,16,47,19.25,0.0,40.0,W
+2004,17,Sun,4:15PM ET,32,4,23,42,214,0,17,30,246,0,7,25,73,24.0,13.8,38.0,8,15,34,1,17,27,174,0,8,25,43,26.857142857142858,8.0,49.125,W
+2005,1,Sun,1:07PM ET,89,0,19,20,70,1,22,48,251,2,9,73,69,23.6,13.0,45.42857142857143,21,33,151,2,24,36,275,1,0,69,69,25.5,16.0,47.333333333333336,L
+2005,2,Sun,4:15PM ET,77,4,21,26,98,1,23,37,248,1,15,45,66,21.333333333333332,16.5,44.0,15,24,79,1,15,23,175,1,41,42,51,23.666666666666668,0.0,45.833333333333336,W
+2005,3,Mon,9:07PM ET,72,6,24,37,221,0,13,18,152,0,15,30,56,32.0,0.5,55.0,18,22,74,1,23,44,221,0,10,118,68,25.0,10.0,37.833333333333336,W
+2005,4,Sun,1:02PM ET,82,10,24,44,188,0,19,26,136,0,18,30,73,22.0,15.5,48.5,13,11,12,2,20,34,240,2,11,119,47,29.0,8.0,41.833333333333336,W
+2005,5,Sun,4:15PM ET,50,7,11,28,165,0,10,26,92,0,0,43,54,18.5,0.0,47.285714285714285,28,26,125,1,30,53,322,0,0,67,79,28.333333333333332,8.0,36.8,W
+2005,6,Sun,4:16PM ET,75,5,20,34,178,0,17,24,262,0,8,82,59,30.0,2.6666666666666665,52.285714285714285,22,19,89,0,24,46,299,0,0,55,65,16.0,6.333333333333333,51.57142857142857,W
+2005,7,Sun,4:15PM ET,54,17,20,33,191,1,18,29,194,0,0,53,62,18.5,6.0,34.333333333333336,22,20,97,1,23,42,214,1,0,52,62,31.0,0.0,46.0,L
+2005,8,Sun,4:15PM ET,52,3,28,36,255,0,22,35,309,0,0,50,72,23.666666666666668,0.6666666666666666,39.285714285714285,12,19,79,0,12,34,283,2,11,70,55,23.714285714285715,5.0,42.625,W
+2005,10,Sun,4:05PM ET,61,8,18,38,121,2,16,22,205,0,0,30,60,24.5,52.0,44.25,20,17,60,0,26,50,310,3,35,58,71,23.166666666666668,4.5,46.6,W
+2005,11,Sun,4:15PM ET,61,4,28,48,191,1,18,26,225,0,12,30,76,23.0,4.0,46.5,10,8,19,3,20,32,195,2,19,41,43,23.2,13.0,51.333333333333336,W
+2005,12,Thu,4:17PM ET,68,0,13,20,144,1,15,24,162,1,13,67,46,20.0,8.0,44.42857142857143,23,32,85,0,29,44,232,2,3,40,77,23.75,2.5,47.6,W
+2005,13,Sun,4:15PM ET,28,8,19,29,131,0,18,29,276,2,19,55,60,18.833333333333332,1.0,49.0,24,37,168,1,16,23,253,2,0,45,60,23.833333333333332,5.0,38.0,L
+2005,14,Sun,4:15PM ET,41,5,17,32,96,1,19,33,236,0,14,31,67,20.666666666666668,14.0,35.6,20,23,72,2,23,40,251,2,0,20,65,46.666666666666664,0.0,35.666666666666664,W
+2005,15,Sat,8:36PM ET,28,0,27,37,178,1,20,37,259,0,0,90,75,11.333333333333334,1.5,30.5,17,16,75,0,22,35,202,0,5,82,52,24.0,0.0,42.333333333333336,W
+2005,16,Sat,4:15PM ET,52,7,24,40,155,0,19,29,268,1,9,25,71,28.0,20.5,42.5,15,17,87,1,17,41,178,1,17,41,59,23.0,12.0,59.0,W
+2005,17,Sat,4:35PM ET,61,8,17,40,157,0,10,22,98,0,14,22,64,17.666666666666668,5.666666666666667,45.57142857142857,15,20,91,1,20,36,183,1,38,70,62,21.75,8.4,44.42857142857143,W
+2006,1,Sun,1:02PM ET,70,0,17,25,161,2,13,26,138,3,40,30,55,19.5,3.0,42.5,16,28,125,0,18,34,217,0,22,94,65,25.5,0.0,50.0,L
+2006,2,Sun,4:16PM ET,61,7,18,36,145,0,16,30,173,1,0,0,66,1.0,3.5,52.0,16,34,145,2,17,23,133,0,2,26,58,29.5,14.4,46.833333333333336,W
+2006,3,Sun,8:20PM ET,68,12,19,34,144,0,15,30,256,0,0,52,64,12.0,-1.3333333333333333,41.125,22,21,50,0,31,55,320,0,0,78,76,22.0,10.666666666666666,43.714285714285715,W
+2006,5,Mon,8:41PM ET,39,7,13,28,116,1,13,24,106,1,0,25,53,21.0,16.25,42.25,16,25,103,0,20,34,165,3,11,15,61,18.666666666666668,14.0,42.166666666666664,W
+2006,6,Sun,8:21PM ET,64,3,15,31,144,1,11,18,102,0,11,39,51,23.0,10.333333333333334,37.75,14,30,85,1,13,26,189,1,30,95,60,26.0,-0.5,55.0,W
+2006,7,Sun,4:06PM ET,48,15,22,37,150,0,20,41,209,2,12,30,80,12.0,3.3333333333333335,35.0,10,13,34,2,19,33,149,1,18,10,51,31.333333333333332,1.0,40.5,W
+2006,8,Sun,4:15PM ET,70,4,24,36,227,1,13,21,174,0,5,24,58,21.333333333333332,0.0,50.0,23,21,92,0,32,39,345,0,0,55,60,24.5,19.0,33.0,L
+2006,9,Sun,4:15PM ET,53,5,13,23,115,0,16,27,227,0,6,60,51,17.75,10.0,42.285714285714285,27,19,96,3,38,54,433,3,30,50,77,23.0,3.0,40.0,W
+2006,10,Sun,4:05PM ET,56,0,13,26,63,0,20,31,210,3,9,15,59,22.0,28.5,33.57142857142857,13,26,46,2,18,33,214,0,16,25,62,27.25,3.6666666666666665,44.5,W
+2006,11,Sun,8:21PM ET,34,8,20,35,158,0,13,28,183,1,15,60,65,26.0,0.0,47.75,21,29,125,0,19,26,222,2,5,35,56,33.8,12.5,36.666666666666664,L
+2006,12,Thu,8:12PM ET,65,10,16,16,38,0,25,39,216,1,10,44,57,23.666666666666668,0.0,43.8,22,41,223,0,13,22,161,1,2,25,64,43.0,2.3333333333333335,37.5,L
+2006,13,Sun,8:20PM ET,16,0,14,34,181,3,10,21,143,2,22,25,58,25.4,3.0,43.857142857142854,12,31,108,0,16,28,168,1,6,80,60,26.75,7.2,38.375,L
+2006,14,Sun,4:15PM ET,57,13,19,28,162,1,17,30,188,0,22,10,62,19.428571428571427,-3.0,39.75,22,36,143,1,15,23,279,0,3,38,60,28.333333333333332,2.5,44.333333333333336,L
+2006,15,Sun,4:05PM ET,70,0,26,38,106,1,21,31,261,1,5,5,70,30.8,8.333333333333334,34.0,17,20,100,0,20,35,214,2,19,52,58,24.833333333333332,0.0,52.333333333333336,W
+2006,16,Sun,4:16PM ET,32,14,17,34,127,1,12,23,179,1,19,10,60,16.666666666666668,11.0,42.666666666666664,23,34,149,2,21,40,209,2,15,46,76,26.75,6.666666666666667,45.8,W
+2006,17,Sun,4:16PM ET,32,4,19,27,115,1,21,34,230,2,20,49,64,32.5,18.0,42.0,17,38,189,0,17,33,194,1,23,61,75,25.333333333333332,5.666666666666667,43.857142857142854,L
+2007,1,Sun,1:02PM ET,70,5,23,32,171,0,23,39,304,1,5,31,72,24.0,2.5,41.0,13,26,112,0,14,21,97,1,25,40,49,28.0,44.0,43.666666666666664,W
+2007,2,Sun,4:15PM ET,87,0,26,38,181,0,23,33,269,2,9,34,73,0.0,4.0,52.0,11,35,200,0,8,17,73,3,20,70,56,20.333333333333332,6.0,48.5,W
+2007,3,Sun,4:05PM ET,75,10,11,18,47,2,16,23,222,1,4,36,42,23.0,14.0,63.0,21,47,186,2,14,20,154,0,14,14,70,29.666666666666668,0.0,40.0,L
+2007,4,Sun,4:15PM ET,70,0,22,36,223,1,13,21,131,1,0,32,58,22.0,0.0,56.0,30,37,226,0,20,27,193,0,0,10,64,25.4,2.0,30.0,L
+2007,5,Sun,4:15PM ET,54,0,17,20,72,2,23,36,232,1,8,18,57,23.333333333333332,18.0,50.0,20,37,214,0,13,18,270,0,0,45,55,24.5,13.5,55.5,L
+2007,7,Sun,8:23PM ET,37,10,21,24,90,0,22,29,248,2,14,20,55,26.0,0.0,51.666666666666664,24,26,119,1,24,35,290,2,30,23,65,16.75,16.0,38.0,W
+2007,8,Mon,8:40PM ET,67,0,24,24,88,1,21,34,264,0,20,63,61,24.5,26.0,45.5,20,27,105,0,21,27,331,0,6,103,55,20.333333333333332,6.5,52.25,L
+2007,9,Sun,1:02PM ET,70,0,16,16,47,3,32,50,282,1,26,84,71,26.166666666666668,4.0,45.0,20,29,130,1,16,31,252,0,6,32,61,21.0,0.0,48.0,L
+2007,10,Sun,1:00PM ET,69,15,18,29,141,0,17,31,192,1,6,64,61,25.75,-5.0,45.5,19,22,67,1,23,45,245,3,28,20,71,17.2,3.5,43.666666666666664,W
+2007,11,Mon,8:40PM ET,63,12,15,26,166,1,16,21,200,0,7,35,48,26.0,40.0,48.333333333333336,28,29,133,1,26,41,305,2,15,80,71,23.75,9.0,43.25,W
+2007,12,Sun,4:16PM ET,39,13,22,37,138,1,17,31,302,1,10,28,70,15.428571428571429,2.5,42.142857142857146,18,32,122,3,17,33,193,1,22,50,68,23.875,16.2,40.166666666666664,L
+2007,13,Sun,4:05PM ET,60,19,14,29,86,2,16,32,214,2,8,25,62,12.333333333333334,10.0,45.0,20,41,175,1,18,28,197,0,0,20,69,28.333333333333332,8.0,63.0,L
+2007,14,Sun,4:15PM ET,21,6,23,34,215,0,20,27,244,0,6,35,62,21.0,3.5,46.4,7,17,16,2,15,29,132,1,19,34,51,15.857142857142858,9.0,46.25,W
+2007,15,Thu,8:15PM ET,70,0,20,20,72,0,27,39,254,0,18,25,64,26.5,10.0,36.666666666666664,21,31,158,0,16,27,200,1,0,15,58,29.0,2.5,37.666666666666664,L
+2007,16,Mon,8:10PM ET,62,8,12,19,92,1,14,32,155,2,22,40,55,28.0,0.0,35.6,18,38,147,1,18,28,190,0,3,42,68,22.0,0.0,44.0,L
+2007,17,Sun,4:16PM ET,36,7,21,27,128,0,26,37,246,0,12,40,65,22.0,7.5,44.2,16,27,172,3,16,31,175,0,15,30,61,29.333333333333332,7.0,46.5,W
+2008,1,Mon,10:22PM ET,60,13,24,34,141,0,16,25,300,0,0,15,59,14.0,9.5,40.0,15,30,150,1,17,26,180,0,23,96,59,25.666666666666668,1.5,51.0,W
+2008,2,Sun,4:15PM ET,59,5,34,24,145,0,36,50,350,1,9,67,75,24.0,6.0,53.666666666666664,19,18,80,0,21,33,377,1,1,60,52,35.333333333333336,7.5,52.0,W
+2008,3,Sun,4:06PM ET,75,7,20,24,105,1,21,34,264,1,0,20,58,24.25,22.0,52.5,27,25,88,1,39,48,421,0,7,51,74,20.0,15.0,57.0,W
+2008,4,Sun,1:00PM ET,74,7,22,22,94,2,29,49,361,2,9,22,72,22.5,36.0,38.5,17,33,213,1,21,28,160,0,3,45,62,27.2,1.0,44.333333333333336,L
+2008,5,Sun,4:05PM ET,70,9,17,26,106,1,23,34,227,0,0,55,60,15.666666666666666,8.0,49.6,17,22,139,0,26,36,181,1,13,30,61,16.0,4.75,49.857142857142854,W
+2008,6,Sun,4:05PM ET,43,6,19,23,131,2,21,37,192,1,0,52,60,25.0,15.666666666666666,48.0,26,34,155,2,25,34,276,0,15,45,70,22.0,4.666666666666667,40.0,L
+2008,7,Mon,8:40PM ET,40,0,19,26,106,3,19,29,187,2,18,87,58,21.142857142857142,8.0,48.6,25,38,257,0,18,24,185,0,38,65,68,23.0,21.0,39.0,L
+2008,9,Sun,4:05PM ET,77,11,14,12,14,0,24,46,307,3,2,81,59,36.4,16.0,46.25,21,29,75,0,23,40,281,1,15,42,72,41.0,5.0,45.8,L
+2008,10,Thu,8:15PM ET,56,6,26,28,123,0,24,42,447,1,6,30,71,18.0,2.0,29.0,20,29,160,1,23,35,239,0,0,20,64,27.0,5.0,44.5,W
+2008,11,Sun,1:02PM ET,70,0,19,25,124,0,19,27,216,0,8,36,53,31.8,0.0,42.333333333333336,20,35,114,0,20,33,250,1,0,36,68,20.4,9.0,31.0,W
+2008,12,Sun,4:05PM ET,47,15,23,28,115,1,16,37,204,1,0,39,65,18.666666666666668,1.0,56.0,18,41,158,0,11,12,160,0,0,90,53,21.0,89.0,58.666666666666664,L
+2008,13,Sun,4:15PM ET,36,10,23,25,127,0,27,43,357,1,0,64,68,10.666666666666666,0.0,42.8,22,19,142,1,23,43,247,1,6,25,64,18.333333333333332,3.5,41.0,W
+2008,14,Sun,4:05PM ET,64,4,27,30,139,0,32,40,286,1,0,5,70,20.0,0.0,52.0,14,18,83,0,17,32,187,0,10,5,51,30.5,32.0,51.0,W
+2008,15,Sun,4:15PM ET,46,5,15,23,121,1,21,33,172,1,14,25,59,23.2,-3.0,48.2,18,30,147,0,17,26,253,1,0,35,56,20.0,11.0,39.75,L
+2008,16,Sun,4:06PM ET,17,8,27,27,181,1,25,45,359,1,8,62,73,17.666666666666668,2.0,0.0,20,26,87,0,17,25,193,0,5,26,52,22.5,0.0,52.666666666666664,L
+2008,17,Sun,8:23PM ET,58,8,25,10,90,0,33,49,316,2,0,79,59,19.0,0.0,42.0,28,42,289,0,15,20,207,0,5,67,64,24.0,8.0,43.0,L
+2009,1,Sun,1:02PM ET,73,7,10,20,75,0,17,28,243,0,16,39,51,8.5,5.666666666666667,42.5,16,27,86,0,21,33,247,2,26,27,63,24.0,9.8,39.714285714285715,W
+2009,2,Sun,4:15PM ET,82,9,25,37,186,1,19,37,263,0,0,50,74,23.0,3.3333333333333335,54.5,11,21,54,2,18,31,161,1,15,43,56,20.0,12.0,45.333333333333336,W
+2009,3,Sun,4:15PM ET,81,6,21,45,215,1,13,23,157,0,0,30,68,25.0,10.5,40.5,9,23,95,1,12,21,61,2,19,53,47,22.0,7.0,47.5,W
+2009,4,Sun,4:15PM ET,55,6,18,25,116,1,20,29,243,0,22,81,57,24.5,11.5,50.833333333333336,20,25,74,1,25,42,255,1,14,70,72,26.0,7.5,49.333333333333336,W
+2009,5,Sun,4:16PM ET,30,4,27,25,103,1,35,48,330,1,9,20,75,15.5,5.0,46.2,18,27,96,1,19,33,215,0,6,46,61,23.25,11.0,44.4,W
+2009,6,Mon,8:40PM ET,68,8,19,33,101,0,20,29,229,0,2,48,63,29.333333333333332,25.666666666666668,44.75,20,21,73,1,20,33,274,0,36,44,59,21.285714285714285,77.0,50.333333333333336,W
+2009,8,Sun,1:02PM ET,56,8,17,19,66,1,23,37,152,0,18,35,58,18.666666666666668,2.5,38.375,16,35,125,0,20,25,175,0,8,94,62,56.0,5.666666666666667,44.25,L
+2009,9,Mon,8:41PM ET,55,7,12,14,27,0,23,38,221,3,6,25,54,18.5,10.5,38.57142857142857,21,29,173,1,21,29,233,1,31,28,61,23.0,8.0,44.2,L
+2009,10,Sun,1:02PM ET,70,0,14,22,120,1,14,31,206,1,21,45,56,19.0,0.0,44.25,22,40,174,0,18,27,228,0,14,19,70,23.0,4.0,38.0,L
+2009,11,Sun,4:15PM ET,51,3,14,17,115,2,17,33,181,1,25,65,53,29.0,10.0,48.0,21,43,203,0,17,22,145,0,0,15,65,0.0,2.0,44.0,L
+2009,12,Thu,8:21PM ET,57,0,23,40,138,0,18,28,245,1,10,61,69,29.0,6.75,48.333333333333336,15,16,57,2,24,40,230,1,20,45,59,20.0,10.0,50.2,W
+2009,13,Sun,1:00PM ET,37,6,24,45,245,2,15,25,180,1,12,20,73,20.0,13.833333333333334,51.666666666666664,14,26,94,1,16,43,134,2,6,25,71,20.88888888888889,9.0,53.714285714285715,W
+2009,14,Sun,1:02PM ET,70,0,20,30,95,0,29,41,277,1,15,65,74,21.0,1.0,46.25,21,28,92,0,20,42,220,3,0,20,70,18.5,9.5,42.2,L
+2009,15,Sun,4:05PM ET,57,6,19,28,80,0,19,34,278,0,21,72,65,23.0,11.25,44.166666666666664,22,34,241,1,14,29,115,1,13,62,64,20.5,12.0,53.75,L
+2009,16,Sun,4:16PM ET,45,7,13,18,70,0,27,41,189,1,18,95,62,17.571428571428573,11.666666666666666,34.857142857142854,22,28,105,2,20,35,322,1,33,59,67,15.333333333333334,5.666666666666667,43.4,L
+2009,17,Sun,4:15PM ET,36,6,30,22,84,0,32,56,431,3,3,54,80,21.125,4.5,42.5,22,35,317,0,13,25,207,2,0,76,60,22.5,0.0,53.0,L
+2010,1,Sun,1:03PM ET,90,10,21,25,89,1,21,33,295,1,21,70,61,20.666666666666668,4.0,43.0,18,34,134,0,16,21,170,0,5,47,56,34.25,8.666666666666666,41.25,L
+2010,2,Sun,4:06PM ET,91,9,23,38,65,0,25,35,307,0,3,35,74,11.0,1.0,51.25,17,20,109,1,20,35,233,3,3,64,56,13.0,27.333333333333332,53.5,W
+2010,3,Sun,4:16PM ET,85,6,23,18,47,1,37,57,476,1,4,60,76,0.0,11.4,47.666666666666664,18,22,40,0,27,43,325,0,0,27,65,16.0,4.0,47.833333333333336,L
+2010,4,Sun,1:02PM ET,54,13,22,20,19,0,35,50,341,1,33,74,76,36.0,9.0,41.6,13,22,121,2,17,28,173,0,6,111,52,31.166666666666668,9.0,40.833333333333336,W
+2010,5,Sun,1:02PM ET,67,6,16,13,39,1,23,38,314,0,7,90,52,27.0,0.0,40.142857142857146,28,47,233,0,14,25,196,0,14,66,73,20.0,10.333333333333334,43.5,L
+2010,6,Sun,4:05PM ET,73,4,21,37,145,2,14,34,209,0,8,81,72,0.0,32.0,50.166666666666664,17,30,129,1,17,30,198,2,8,74,62,26.0,7.666666666666667,48.6,L
+2010,7,Sun,4:15PM ET,63,9,11,17,75,2,12,29,198,1,33,64,50,13.0,10.0,52.0,29,52,328,0,12,20,204,0,24,94,74,0.0,7.833333333333333,41.5,L
+2010,8,Sun,1:07PM ET,54,6,22,17,59,1,28,40,370,1,31,60,61,22.8,7.75,33.714285714285715,16,42,143,0,12,19,196,0,0,67,61,22.25,7.5,49.333333333333336,L
+2010,10,Sun,4:05PM ET,43,6,25,31,153,0,23,35,299,0,0,28,66,34.0,13.5,41.0,30,22,51,1,33,53,469,0,36,40,79,21.333333333333332,16.0,43.333333333333336,W
+2010,11,Mon,8:40PM ET,55,5,16,15,63,0,24,38,217,1,45,56,58,15.333333333333334,23.5,37.22222222222222,21,38,147,0,16,26,261,1,8,40,65,25.0,7.2,43.25,L
+2010,12,Sun,4:16PM ET,45,12,24,18,119,2,24,41,347,0,17,60,62,19.6,3.0,50.25,24,35,123,0,22,37,308,0,0,30,74,29.0,6.333333333333333,40.8,L
+2010,13,Sun,1:03PM ET,26,8,13,23,161,1,9,28,117,0,31,35,55,16.333333333333332,12.333333333333334,41.142857142857146,21,39,185,1,17,31,196,0,22,60,72,20.0,3.5,41.857142857142854,L
+2010,14,Sun,4:15PM ET,70,0,20,31,132,3,19,41,166,3,10,66,73,27.2,10.0,56.2,21,34,211,1,15,38,146,0,0,62,72,27.0,14.4,37.6,L
+2010,15,Sun,4:15PM ET,55,0,9,33,106,1,8,16,138,0,9,93,51,21.375,4.0,43.857142857142854,20,41,264,1,15,26,238,2,0,84,67,19.714285714285715,9.4,37.0,L
+2010,16,Sun,4:06PM ET,50,7,25,33,126,0,16,29,308,1,3,27,63,23.5,9.5,43.5,21,22,91,0,23,33,310,1,0,24,55,21.666666666666668,7.0,42.5,W
+2010,17,Sun,4:15PM ET,42,4,18,29,146,0,16,36,205,2,14,45,68,37.833333333333336,0.0,51.4,20,31,164,0,21,37,313,1,30,32,73,30.5,31.666666666666668,45.0,L
+2011,1,Mon,10:26PM ET,75,6,25,13,38,2,24,46,304,1,32,91,64,0.0,25.6,41.25,20,39,190,1,13,22,105,0,6,131,62,0.0,0.0,58.166666666666664,L
+2011,2,Sun,4:15PM ET,69,6,19,36,131,2,15,25,195,0,8,55,63,23.0,0.0,55.833333333333336,18,20,72,0,27,41,332,0,22,69,63,0.0,5.8,41.0,W
+2011,3,Sun,1:02PM ET,73,11,19,23,59,0,24,39,173,2,1,15,63,19.0,15.666666666666666,49.2,17,23,38,2,27,36,311,0,16,80,61,0.0,5.25,44.0,L
+2011,4,Sun,4:15PM ET,67,10,18,23,119,1,22,32,273,3,8,24,56,29.2,0.0,49.0,26,28,111,0,29,39,408,2,12,27,69,29.5,3.5,49.0,L
+2011,5,Sun,4:16PM ET,52,6,13,23,162,0,10,23,113,1,0,53,46,28.0,18.5,53.666666666666664,25,43,206,1,18,29,250,1,38,0,77,0.0,13.0,49.0,L
+2011,7,Sun,1:02PM ET,77,9,18,40,177,1,13,27,161,0,30,30,73,0.0,11.25,48.333333333333336,15,31,94,1,22,33,197,0,24,20,68,0.0,15.5,49.625,W
+2011,8,Sun,4:10PM ET,56,5,19,30,195,2,18,39,172,1,55,55,76,23.5,5.6,50.42857142857143,21,28,113,0,22,32,272,0,9,45,62,0.0,10.0,40.57142857142857,L
+2011,9,Sun,4:05PM ET,62,5,20,39,299,0,10,22,124,0,11,93,62,23.75,27.0,47.6,21,26,100,0,19,35,332,3,16,130,63,19.666666666666668,10.75,50.5,W
+2011,10,Sun,1:03PM ET,67,15,16,55,244,0,2,8,69,0,0,65,63,0.0,8.0,43.857142857142854,17,24,134,0,18,34,140,0,16,40,62,17.666666666666668,9.666666666666666,48.42857142857143,W
+2011,11,Thu,8:30PM ET,54,3,11,34,125,1,9,21,104,0,0,51,56,33.0,6.0,43.75,22,28,83,1,24,40,252,1,17,15,71,31.0,11.666666666666666,38.333333333333336,W
+2011,12,Sun,4:15PM ET,84,0,18,51,208,0,9,18,143,0,2,63,70,26.5,15.0,43.44444444444444,20,36,185,0,19,36,188,0,29,30,75,21.0,5.333333333333333,51.333333333333336,W
+2011,13,Sun,1:05PM ET,70,0,13,32,150,2,10,15,202,0,16,73,49,33.0,4.0,51.166666666666664,27,30,129,1,30,48,389,2,29,54,81,22.2,4.666666666666667,49.5,W
+2011,14,Sun,4:05PM ET,50,7,22,34,124,1,21,40,236,1,15,29,79,0.0,9.125,45.375,12,38,159,1,12,19,115,0,29,69,61,25.0,18.0,47.81818181818182,W
+2011,15,Sun,4:16PM ET,63,3,25,31,252,3,11,23,194,0,53,39,58,17.75,2.0,55.0,26,36,141,0,23,34,320,0,10,30,72,0.0,7.666666666666667,40.5,L
+2011,16,Sat,1:02PM ET,30,2,18,35,133,0,13,29,185,3,33,58,68,18.333333333333332,3.0,43.714285714285715,14,28,160,0,15,27,196,0,5,69,56,33.666666666666664,45.0,50.25,L
+2011,17,Sun,4:16PM ET,35,6,16,47,216,1,6,22,60,1,10,49,71,25.0,11.5,44.666666666666664,14,30,106,1,15,29,180,0,5,36,60,0.0,10.0,47.125,L
+2012,1,Sun,8:31PM ET,85,10,20,27,94,1,19,26,253,0,13,49,55,0.0,11.0,45.0,19,26,75,0,22,40,245,1,36,52,71,27.0,11.5,47.333333333333336,W
+2012,2,Mon,8:41PM ET,70,0,24,27,118,1,24,37,241,3,23,96,67,23.5,3.6666666666666665,50.2,22,28,67,0,24,36,219,0,11,72,65,23.5,-2.0,42.0,L
+2012,3,Sun,4:25PM ET,84,13,24,21,59,1,26,52,330,0,14,75,76,21.0,7.25,47.375,23,34,152,1,17,30,290,1,6,69,65,0.0,4.75,54.2,L
+2012,4,Sun,4:05PM ET,72,6,26,38,165,1,30,39,338,0,0,30,77,16.0,8.4,0.0,12,16,56,0,19,34,202,0,21,41,53,0.0,0.0,49.42857142857143,W
+2012,5,Sun,4:25PM ET,54,4,22,20,70,3,31,44,337,0,13,21,66,15.25,0.0,45.666666666666664,35,54,251,1,23,31,223,0,30,59,89,11.5,5.0,43.0,L
+2012,6,Mon,8:40PM ET,78,7,18,22,56,2,24,30,309,1,0,81,52,17.0,6.0,44.6,23,27,90,2,25,41,241,4,24,64,72,25.2,3.5,45.0,W
+2012,8,Sun,8:30PM ET,59,5,29,41,225,1,22,30,305,0,0,34,71,12.0,10.75,46.4,14,17,51,0,22,42,213,1,12,15,60,0.0,-1.0,51.625,W
+2012,9,Sun,1:02PM ET,48,1,20,26,68,0,27,35,291,2,0,29,61,39.666666666666664,1.0,46.666666666666664,22,25,91,0,26,42,299,1,24,83,72,28.5,-0.3333333333333333,51.5,W
+2012,10,Sun,1:02PM ET,71,5,18,22,65,2,27,38,301,0,6,60,61,22.0,15.625,48.0,19,21,52,0,21,36,241,2,43,45,64,17.0,3.3333333333333335,50.111111111111114,W
+2012,11,Sun,4:25PM ET,62,3,21,25,133,1,25,42,270,1,17,30,70,18.0,7.333333333333333,50.4,13,23,53,1,24,40,258,2,34,65,67,16.0,5.0,54.77777777777778,W
+2012,12,Sun,1:03PM ET,52,5,21,24,95,0,22,37,285,1,12,35,63,46.0,0.0,42.25,13,31,148,0,13,26,126,1,10,50,59,19.0,14.5,45.333333333333336,W
+2012,13,Sun,4:05PM ET,64,4,25,29,91,0,27,38,242,1,0,75,67,26.0,23.75,44.8,18,21,71,0,18,39,242,1,7,80,61,0.0,15.0,51.4,W
+2012,14,Thu,8:30PM ET,57,7,30,39,140,0,26,36,310,1,22,25,78,33.0,0.0,44.5,14,16,61,1,19,30,273,1,10,94,47,17.0,8.0,43.4,W
+2012,15,Sun,1:02PM ET,53,7,21,45,163,0,17,28,204,0,17,51,75,20.0,6.6,43.0,12,19,56,1,20,40,254,1,32,61,62,24.0,10.4,50.42857142857143,W
+2012,16,Sun,4:05PM ET,51,15,29,32,118,0,30,43,339,1,0,84,75,6.0,0.6666666666666666,49.0,20,18,91,1,21,36,183,0,41,69,60,30.0,5.5,42.25,W
+2012,17,Sun,4:25PM ET,35,10,32,43,172,1,25,33,316,0,0,30,76,0.0,3.5,44.666666666666664,8,28,93,0,7,16,49,0,23,32,48,23.0,11.0,46.625,W
+2013,1,Thu,9:13PM ET,83,7,24,23,65,2,27,42,462,0,17,61,68,0.0,10.5,45.57142857142857,24,21,58,0,34,62,362,2,27,53,87,0.0,13.0,50.666666666666664,W
+2013,2,Sun,4:25PM ET,70,3,23,29,107,1,30,43,307,0,0,132,72,17.0,30.25,42.0,28,19,23,0,28,49,362,4,9,16,69,24.2,6.5,46.2,W
+2013,3,Mon,8:40PM ET,64,16,31,35,164,2,32,37,374,0,2,40,73,8.0,11.333333333333334,37.0,13,17,49,0,21,31,316,0,23,77,51,22.5,0.0,52.5,W
+2013,4,Sun,4:25PM ET,76,8,35,33,141,0,30,37,337,0,6,25,71,105.0,0.0,46.0,21,35,166,0,17,31,297,0,13,62,69,26.0,21.0,47.75,W
+2013,5,Sun,4:25PM ET,70,0,34,31,103,1,33,42,414,1,0,55,73,23.25,9.0,0.0,24,14,52,1,25,36,506,1,36,81,54,24.6,0.0,51.0,W
+2013,6,Sun,4:05PM ET,59,7,26,29,112,2,28,42,295,1,0,31,71,0.0,1.0,43.0,20,27,71,0,27,42,303,2,12,62,71,0.0,1.0,45.0,W
+2013,7,Sun,8:31PM ET,70,0,23,20,64,2,29,49,386,1,21,103,73,30.75,4.0,47.285714285714285,19,31,121,1,21,38,228,0,15,52,71,26.0,11.666666666666666,48.888888888888886,L
+2013,8,Sun,4:25PM ET,69,8,29,34,107,1,30,44,354,3,15,57,80,30.0,10.0,49.0,22,28,112,1,20,39,180,4,26,5,70,0.0,18.0,39.142857142857146,W
+2013,10,Sun,4:25PM ET,78,6,22,22,84,1,25,36,330,0,17,28,60,25.75,3.0,46.6,20,35,131,0,19,29,218,0,20,40,68,0.0,0.0,47.6,W
+2013,11,Sun,8:30PM ET,43,6,24,36,104,1,24,40,323,0,0,82,76,28.0,5.666666666666667,45.833333333333336,24,25,144,1,21,45,230,0,30,53,73,23.0,6.6,51.142857142857146,W
+2013,12,Sun,8:30PM ET,22,22,28,48,280,3,19,36,150,1,18,85,86,12.0,3.25,40.625,27,31,116,3,34,50,344,0,20,36,84,17.0,13.0,44.5,L
+2013,13,Sun,4:26PM ET,55,4,25,31,132,0,22,35,403,2,0,75,66,20.25,1.6666666666666667,44.0,27,25,159,0,26,42,293,1,0,102,67,53.666666666666664,0.0,45.8,W
+2013,14,Sun,4:05PM ET,18,5,39,32,154,0,39,59,397,0,0,60,91,25.2,6.75,32.5,15,22,96,1,13,24,172,1,14,66,48,41.8,0.0,50.25,W
+2013,15,Thu,8:29PM ET,37,2,19,11,18,0,27,41,289,1,12,43,53,27.0,0.0,46.5,24,44,177,0,12,20,166,0,6,35,66,0.0,5.5,42.0,L
+2013,16,Sun,1:02PM ET,70,0,25,18,114,0,32,51,400,0,3,67,70,24.75,4.2,48.666666666666664,14,26,87,0,18,37,176,2,23,57,66,22.0,14.0,44.875,W
+2013,17,Sun,4:25PM ET,70,8,28,29,124,0,34,41,351,0,17,56,73,0.0,0.0,40.0,17,20,64,1,21,38,207,0,16,10,60,25.5,0.0,45.8,W
+2014,1,Sun,8:30PM ET,75,6,24,32,102,0,22,36,269,0,10,70,69,0.0,1.3333333333333333,46.8,24,14,54,0,35,53,370,2,16,45,70,0.0,4.8,49.75,W
+2014,2,Sun,4:25PM ET,85,7,19,19,88,0,21,26,242,0,5,71,46,54.0,0.0,44.0,28,31,133,0,26,42,255,0,8,62,75,37.0,1.0,40.0,W
+2014,3,Sun,4:25PM ET,70,7,20,20,36,1,31,49,303,1,7,27,70,22.0,7.5,47.25,26,37,129,0,25,35,275,1,20,34,75,13.0,7.2,50.166666666666664,L
+2014,5,Sun,4:05PM ET,71,10,24,28,92,0,31,47,479,2,3,67,76,0.0,6.333333333333333,49.75,9,19,37,0,12,34,199,0,21,15,56,0.0,3.5,44.27272727272727,W
+2014,6,Sun,1:02PM ET,61,5,21,33,138,0,22,33,237,0,16,101,68,16.0,0.0,44.0,15,15,31,1,23,43,190,1,17,9,62,25.5,4.5,45.57142857142857,W
+2014,7,Sun,8:30PM ET,67,4,23,27,115,0,22,27,318,0,14,75,56,7.0,7.333333333333333,42.75,22,18,62,0,27,46,301,1,53,62,70,33.0,4.0,54.4,W
+2014,8,Thu,8:26PM ET,68,3,27,30,139,0,25,35,286,0,0,71,65,32.0,9.0,40.5,22,15,61,0,30,41,252,2,7,77,58,0.0,6.0,49.25,W
+2014,9,Sun,4:25PM ET,35,19,26,17,43,0,34,57,438,2,9,72,75,13.5,9.0,45.0,29,25,66,0,33,53,333,1,1,71,79,22.0,84.0,44.6,L
+2014,10,Sun,4:05PM ET,68,6,25,27,118,0,33,49,353,2,0,95,76,30.0,13.0,45.2,10,15,30,1,30,47,192,2,0,37,62,24.0,4.0,43.22222222222222,W
+2014,11,Sun,1:00PM ET,70,0,21,10,28,0,34,54,389,2,20,62,66,12.0,0.0,36.6,16,33,131,0,20,29,220,0,14,25,65,24.5,6.5,43.333333333333336,L
+2014,12,Sun,4:25PM ET,39,6,29,35,201,1,28,35,257,0,8,98,71,33.333333333333336,4.0,45.0,25,21,97,0,26,36,228,1,12,50,58,20.0,17.0,53.333333333333336,W
+2014,13,Sun,8:32PM ET,27,18,21,45,214,1,17,34,179,0,5,32,80,19.0,10.25,34.75,11,15,41,2,15,23,153,1,43,35,44,24.875,0.0,43.6,W
+2014,14,Sun,4:05PM ET,63,3,15,29,133,1,14,20,173,2,0,45,49,25.0,7.0,49.666666666666664,24,16,74,1,38,57,355,2,14,98,77,27.0,0.0,34.0,W
+2014,15,Sun,4:05PM ET,64,6,18,38,111,0,14,22,233,0,7,71,61,21.666666666666668,9.0,40.333333333333336,20,20,56,0,24,41,232,2,0,65,61,23.5,30.5,49.75,W
+2014,16,Mon,8:30PM ET,47,8,22,19,85,0,28,44,311,4,11,72,65,40.333333333333336,4.666666666666667,47.166666666666664,20,37,207,1,17,25,146,1,0,45,62,44.666666666666664,24.0,42.2,L
+2014,17,Sun,4:25PM ET,40,7,25,34,142,1,23,39,312,0,3,16,74,76.0,7.4,46.333333333333336,10,18,67,1,18,36,158,1,26,86,57,20.6,11.5,46.44444444444444,W
+2015,1,Sun,4:25PM ET,88,13,16,25,69,0,24,40,175,1,25,45,69,0.0,6.666666666666667,51.8,11,23,73,0,18,32,117,2,17,15,57,10.0,16.0,51.666666666666664,W
+2015,2,Thu,8:29PM ET,87,13,21,22,61,0,26,45,256,1,18,85,70,21.0,0.0,44.857142857142854,20,28,147,3,16,25,191,2,24,60,58,21.0,3.75,52.5,W
+2015,3,Sun,8:30PM ET,70,0,19,19,41,1,31,42,324,1,11,94,62,0.0,6.5,42.6,22,19,28,1,31,45,282,2,20,75,68,0.0,28.0,53.2,W
+2015,4,Sun,4:25PM ET,61,9,18,24,144,0,17,27,213,2,13,40,53,27.5,2.0,47.0,19,21,113,1,27,41,269,0,57,63,69,17.0,7.0,43.4,W
+2015,5,Sun,4:25PM ET,72,10,15,18,43,0,22,35,266,2,12,103,55,27.0,4.0,42.0,20,25,65,2,26,39,249,1,26,41,68,22.5,25.0,51.75,W
+2015,6,Sun,1:02PM ET,47,20,21,33,152,0,26,48,290,3,0,81,81,18.333333333333332,6.333333333333333,45.57142857142857,20,33,109,1,20,39,213,2,24,30,76,21.25,11.333333333333334,46.0,W
+2015,8,Sun,8:30PM ET,61,9,24,34,160,0,21,29,340,1,0,93,63,13.0,4.0,40.0,14,21,90,0,14,22,77,0,27,15,46,22.5,9.0,46.2,W
+2015,9,Sun,4:25PM ET,70,0,16,14,35,0,21,36,281,2,7,56,51,34.5,83.0,43.0,27,40,120,0,21,36,252,0,7,30,77,16.5,0.6666666666666666,45.2,L
+2015,10,Sun,4:30PM ET,64,5,18,16,69,0,19,44,181,5,29,55,65,0.0,11.0,46.166666666666664,13,32,106,0,17,31,204,0,7,102,65,9.0,2.0,45.2,L
+2015,11,Sun,1:02PM ET,29,9,21,36,170,0,20,27,250,0,31,118,68,15.0,0.0,39.57142857142857,19,25,86,1,18,32,265,1,4,0,59,27.0,4.0,34.25,W
+2015,12,Sun,8:30PM ET,23,3,23,32,179,0,23,42,270,1,16,46,77,23.0,6.0,43.375,16,16,39,1,23,42,280,0,18,47,61,0.0,5.25,45.0,W
+2015,13,Sun,4:05PM ET,78,4,19,39,134,0,16,26,166,1,7,18,66,33.0,21.0,36.6,15,23,93,2,18,35,202,1,23,72,62,24.0,4.0,48.0,W
+2015,14,Sun,4:05PM ET,45,2,20,21,34,2,35,51,308,0,32,27,77,0.0,5.666666666666667,44.5,8,23,27,0,12,29,135,0,36,70,55,24.0,9.666666666666666,46.0,L
+2015,15,Sun,4:25PM ET,41,8,20,25,104,1,21,44,296,1,15,127,71,18.5,4.0,43.0,28,17,23,0,40,55,380,2,26,63,75,24.5,7.666666666666667,38.666666666666664,L
+2015,16,Mon,8:30PM ET,16,6,22,21,113,1,27,39,299,0,22,40,63,22.666666666666668,10.0,43.4,22,33,108,1,22,35,200,0,14,45,70,17.0,2.0,47.4,W
+2015,17,Sun,4:25PM ET,50,5,21,32,210,3,19,31,301,2,8,35,65,0.0,11.0,44.666666666666664,15,29,110,0,21,35,228,1,21,45,67,17.0,0.0,50.714285714285715,W
+2016,1,Thu,8:40PM ET,85,10,21,29,148,1,18,26,178,2,19,22,57,0.0,13.0,46.666666666666664,21,32,157,0,18,33,194,1,18,85,68,9.0,6.0,63.0,W
+2016,2,Sun,4:25PM ET,85,4,24,31,134,0,22,33,266,1,0,54,65,0.0,13.0,49.0,19,21,83,1,21,40,197,1,27,94,66,23.5,0.0,56.5,W
+2016,3,Sun,1:02PM ET,81,3,21,23,52,1,23,35,312,0,9,41,60,27.666666666666668,11.0,46.2,20,29,143,1,21,31,206,1,17,69,64,20.0,2.0,46.2,W
+2016,4,Sun,4:05PM ET,88,7,22,32,89,0,19,31,238,0,20,88,67,0.0,6.0,47.142857142857146,15,26,72,1,17,35,179,2,36,69,66,13.5,12.333333333333334,46.57142857142857,W
+2016,5,Sun,4:05PM ET,72,5,18,24,84,0,23,35,223,1,40,57,65,21.666666666666668,17.0,48.333333333333336,19,32,122,1,15,28,267,0,17,78,62,17.0,7.0,61.666666666666664,L
+2016,6,Thu,8:25PM ET,70,9,16,16,84,2,30,50,230,0,10,103,68,23.0,5.666666666666667,44.2,16,29,99,2,18,29,178,0,12,20,60,6.0,7.0,47.4,L
+2016,7,Mon,8:30PM ET,71,5,19,35,190,0,14,25,157,0,0,83,60,19.0,11.0,42.5,14,25,140,2,22,41,131,0,0,15,67,14.0,5.5,48.4,W
+2016,8,Sun,4:05PM ET,76,6,15,25,57,2,20,38,276,1,9,45,64,0.0,7.5,50.6,21,26,123,0,20,47,267,3,21,52,77,21.0,4.666666666666667,57.0,W
+2016,9,Sun,8:30PM ET,65,6,13,12,33,1,18,37,283,1,17,104,51,19.75,12.0,44.5,30,43,218,0,20,31,184,0,5,72,76,20.5,6.4,42.25,L
+2016,10,Sun,1:00PM ET,70,0,24,37,103,0,25,40,258,2,24,10,83,0.0,8.5,41.333333333333336,19,21,80,2,21,29,303,2,10,25,51,22.5,2.0,40.75,W
+2016,12,Sun,8:30PM ET,44,21,21,38,124,1,20,34,368,0,28,97,77,0.0,2.8,45.166666666666664,23,26,83,0,26,44,220,0,30,71,76,63.5,14.0,47.888888888888886,L
+2016,13,Sun,1:00PM ET,70,10,10,28,104,0,12,24,104,0,2,32,54,0.0,10.0,46.0,19,38,154,1,19,42,181,2,2,65,81,0.0,4.25,46.125,W
+2016,14,Sun,1:00PM ET,50,5,19,9,18,2,36,52,350,0,20,87,64,0.0,10.5,41.4,16,42,180,0,6,21,88,0,15,55,65,18.5,17.0,44.0,L
+2016,15,Sun,4:25PM ET,18,9,15,17,58,2,25,40,282,1,31,49,61,26.0,2.5,46.42857142857143,20,39,136,0,16,32,188,0,11,30,73,23.0,7.0,44.57142857142857,L
+2016,16,Sun,8:30PM ET,53,9,14,14,63,2,17,43,183,1,0,70,57,28.25,0.0,46.57142857142857,23,37,238,0,26,37,246,1,0,65,74,17.0,5.25,41.0,L
+2016,17,Sun,4:25PM ET,45,9,18,40,143,0,17,27,206,1,0,43,67,12.0,12.5,44.8,11,16,57,2,20,32,171,1,7,125,50,0.0,9.0,56.5,W
+2017,1,Mon,10:20PM ET,73,12,22,36,140,1,17,28,219,1,38,62,68,36.0,16.0,48.0,17,22,64,0,22,33,192,1,7,40,56,0.0,-3.0,46.0,W
+2017,2,Sun,4:25PM ET,72,5,26,39,178,1,22,32,231,1,29,61,73,25.0,10.0,43.0,16,14,40,0,30,50,238,2,10,69,66,0.0,19.0,49.8,W
+2017,3,Sun,1:00PM ET,83,5,21,23,111,0,24,40,259,2,4,79,66,27.0,16.0,41.666666666666664,16,33,75,0,20,26,213,0,16,69,63,20.5,10.0,45.2,L
+2017,4,Sun,4:25PM ET,72,7,16,32,143,0,16,26,179,0,24,40,62,12.0,7.6,45.166666666666664,11,15,24,0,21,35,249,1,19,75,53,28.333333333333332,4.0,51.0,W
+2017,6,Sun,8:30PM ET,61,4,20,17,46,1,31,54,394,2,28,46,75,37.5,5.75,51.0,12,32,148,0,11,19,128,0,10,77,54,0.0,20.0,49.833333333333336,L
+2017,7,Sun,4:25PM ET,90,4,12,19,69,2,25,35,207,1,25,68,59,31.0,11.0,43.625,14,26,80,0,15,26,183,0,21,81,55,0.0,29.333333333333332,51.625,L
+2017,8,Mon,8:30PM ET,44,12,23,31,177,2,19,36,198,3,11,53,70,17.25,0.75,40.5,16,26,79,1,14,32,202,1,5,69,59,18.0,0.0,41.8,L
+2017,9,Sun,1:00PM ET,61,5,14,19,35,0,19,38,208,2,17,105,60,21.2,44.0,50.333333333333336,25,37,197,1,16,28,234,0,12,35,67,16.5,4.4,54.0,L
+2017,10,Sun,8:30PM ET,48,5,17,28,118,1,18,33,221,1,0,28,61,19.142857142857142,0.0,47.5,28,29,99,0,28,37,303,0,6,5,67,103.0,0.0,43.0,L
+2017,11,Sun,4:25PM ET,60,7,20,34,112,1,23,42,254,1,25,50,79,0.0,4.333333333333333,44.4,12,26,49,0,15,25,154,0,13,14,53,0.0,4.0,45.42857142857143,L
+2017,12,Sun,4:25PM ET,61,13,12,17,56,0,20,35,190,1,30,75,57,14.0,8.0,45.25,21,37,104,1,18,24,253,0,9,68,63,5.0,6.25,43.5,L
+2017,13,Sun,1:00PM ET,80,11,14,23,103,0,19,41,200,3,33,57,67,15.0,-3.0,48.57142857142857,15,30,145,1,18,32,235,2,13,85,64,19.0,11.2,42.888888888888886,L
+2017,14,Sun,4:05PM ET,60,3,17,35,84,0,19,31,200,0,11,21,68,0.0,12.4,49.4,6,23,59,1,8,21,60,1,19,20,48,27.0,-1.0,45.625,W
+2017,15,Thu,8:25PM ET,70,0,23,46,211,0,17,26,261,1,10,80,74,23.0,0.0,52.0,15,22,70,0,17,30,158,0,0,39,53,0.0,0.0,41.0,W
+2017,16,Sun,1:00PM ET,43,7,18,29,159,2,22,38,193,1,22,30,71,13.0,6.0,41.166666666666664,19,29,87,1,19,37,299,1,0,35,66,14.5,3.0,49.4,L
+2017,17,Sun,4:25PM ET,17,4,22,29,110,1,21,31,254,2,28,30,65,29.5,6.0,39.25,23,27,110,1,22,36,284,1,15,40,65,15.75,-1.5,51.2,L
+2018,1,Sun,4:25PM ET,84,5,25,32,146,0,25,39,329,3,5,60,72,0.0,4.5,44.5,13,16,64,1,19,33,298,2,56,45,55,19.5,3.6666666666666665,59.0,W
+2018,2,Sun,4:25PM ET,92,4,20,28,168,0,19,35,222,1,5,35,64,0.0,1.0,51.0,21,27,92,0,29,32,288,0,7,30,60,0.0,7.0,47.25,W
+2018,3,Sun,1:00PM ET,61,5,18,24,120,0,22,34,192,1,19,120,61,20.5,10.333333333333334,41.0,20,28,77,0,25,40,277,0,12,52,70,26.0,4.0,49.25,L
+2018,4,Mon,8:15PM ET,65,5,21,22,159,0,21,33,245,1,19,25,59,20.0,2.0,41.0,22,26,142,0,28,45,304,0,0,93,72,0.0,37.0,42.0,L
+2018,5,Sun,1:00PM ET,77,7,26,17,92,0,35,51,377,1,33,45,72,27.0,1.0,41.125,18,38,323,1,10,22,198,1,9,33,61,15.0,17.75,44.666666666666664,L
+2018,6,Sun,4:05PM ET,25,6,23,17,60,0,25,41,322,1,25,61,60,24.0,0.0,42.25,24,39,270,0,14,28,201,1,27,81,72,31.0,14.5,40.0,L
+2018,7,Thu,8:20PM ET,70,0,15,31,131,0,15,22,189,1,11,50,55,19.0,7.666666666666667,43.5,14,21,69,2,21,39,194,3,40,45,66,15.4,8.5,50.666666666666664,W
+2018,8,Sun,1:00PM ET,56,12,22,30,189,1,23,34,262,1,40,83,69,23.0,6.5,43.75,20,18,49,0,24,34,303,1,12,50,54,21.75,5.0,39.2,L
+2018,9,Sun,4:05PM ET,53,3,19,20,75,1,26,42,290,0,17,50,64,0.0,2.8333333333333335,47.2,17,33,98,0,17,24,213,0,21,60,61,0.0,8.0,51.166666666666664,L
+2018,11,Sun,4:05PM ET,69,4,16,19,108,0,20,33,217,0,0,43,52,16.0,0.0,44.8,26,26,95,0,28,43,401,2,17,120,72,23.333333333333332,2.0,39.0,W
+2018,12,Sun,4:25PM ET,41,7,17,23,124,0,15,28,197,0,13,50,53,0.0,6.0,47.0,25,16,75,2,42,58,464,2,12,34,76,0.0,2.0,44.333333333333336,W
+2018,13,Sun,1:00PM ET,63,12,16,34,218,1,12,21,151,0,8,60,57,0.0,2.0,43.333333333333336,20,23,111,2,25,37,236,1,34,100,64,29.0,2.0,43.285714285714285,W
+2018,14,Sun,4:05PM ET,54,3,22,27,103,0,24,42,186,0,15,62,71,13.2,6.666666666666667,47.833333333333336,24,30,84,0,20,33,332,1,27,87,66,15.333333333333334,8.666666666666666,42.0,L
+2018,15,Sat,8:20PM ET,46,0,22,20,32,0,31,48,257,2,19,51,70,35.0,0.0,41.333333333333336,21,28,134,1,18,31,188,1,13,75,61,24.0,4.5,48.5,L
+2018,16,Mon,8:15PM ET,58,14,19,24,100,0,23,37,202,2,2,91,62,23.2,0.0,51.0,16,30,114,0,19,26,167,0,8,50,57,23.0,53.0,45.0,L
+2018,17,Sun,4:25PM ET,51,6,19,25,82,3,31,48,292,1,4,99,74,20.0,1.5,42.0,17,30,116,2,14,24,176,2,16,51,55,0.0,0.0,46.8,L
+2019,1,Mon,10:20PM ET,68,15,18,23,95,0,21,31,268,0,19,44,57,0.0,0.0,48.333333333333336,19,28,98,0,22,26,259,0,0,62,54,50.5,9.0,44.666666666666664,L
+2019,2,Sun,4:25PM ET,87,3,27,24,90,0,35,50,292,1,10,81,76,0.0,8.75,40.0,18,29,153,0,16,27,120,0,0,65,56,0.0,7.0,57.4,L
+2019,3,Sun,1:00PM ET,69,7,20,38,149,2,20,29,213,1,52,27,73,60.0,3.0,49.333333333333336,16,23,77,0,17,29,235,0,0,53,52,0.0,0.0,53.0,L
+2019,4,Sun,4:25PM ET,87,14,19,16,68,0,22,38,303,1,0,48,54,23.0,5.0,45.166666666666664,25,38,269,0,19,33,213,0,27,104,76,0.0,2.5,45.5,L
+2019,5,Sun,4:05PM ET,85,12,15,32,191,1,14,20,182,1,23,122,55,0.0,5.5,46.0,19,16,35,1,32,48,211,2,0,43,64,21.666666666666668,34.5,46.4,W
+2019,6,Sun,4:25PM ET,69,7,11,30,103,0,18,28,177,1,10,51,59,0.0,16.0,50.125,12,21,39,0,20,34,207,3,42,40,62,16.0,6.333333333333333,47.111111111111114,W
+2019,7,Thu,8:20PM ET,75,6,15,21,71,1,21,34,213,0,79,33,64,0.0,3.0,40.0,14,27,80,0,20,30,193,0,2,46,58,0.0,12.5,44.333333333333336,L
+2019,8,Sun,1:00PM ET,70,0,21,28,113,0,20,32,174,0,8,88,63,19.5,7.333333333333333,39.42857142857143,19,31,127,1,15,25,202,0,11,103,60,38.0,8.0,46.4,L
+2019,9,Sun,4:25PM ET,55,4,13,20,127,1,12,20,193,0,18,55,43,24.5,20.0,43.25,21,29,90,0,27,42,273,0,12,40,73,28.5,10.0,53.333333333333336,W
+2019,11,Sun,1:00PM ET,70,0,20,33,124,0,18,40,278,1,8,35,75,42.0,0.0,35.0,19,18,37,2,29,35,319,0,35,49,58,21.0,0.0,47.2,L
+2019,12,Sun,1:00PM ET,40,17,9,17,85,0,10,25,82,1,33,70,46,20.333333333333332,0.0,44.375,22,47,244,0,15,25,185,1,5,90,73,20.5,8.2,32.0,L
+2019,13,Sun,4:25PM ET,33,7,13,25,84,0,18,28,134,1,0,25,53,28.0,0.0,45.2,17,29,115,1,20,29,265,1,21,82,61,0.0,0.0,45.25,W
+2019,14,Sun,1:00PM ET,70,0,22,27,90,0,22,27,309,1,8,50,55,33.0,2.0,43.0,26,22,134,1,28,50,292,2,12,44,75,26.0,8.0,37.0,W
+2019,15,Sun,1:00PM ET,24,8,15,15,52,0,18,40,208,1,9,72,57,25.0,8.0,42.75,27,25,92,0,27,34,340,1,13,45,62,20.0,-1.0,39.5,L
+2019,16,Sun,4:05PM ET,67,3,25,33,150,0,26,34,198,0,0,50,67,47.0,11.0,47.25,13,21,96,0,12,24,117,0,22,68,49,0.0,25.0,52.2,W
+2019,17,Sun,4:25PM ET,31,6,16,27,70,1,17,28,177,0,9,61,57,9.333333333333334,4.0,50.8,18,22,97,1,29,46,391,0,11,107,70,12.0,2.5,41.333333333333336,W
+2020,1,Mon,10:10PM ET,79,10,19,26,107,1,22,33,216,0,0,56,59,0.0,8.0,48.8,26,34,130,0,29,43,249,0,2,37,78,19.0,6.333333333333333,51.0,L
+2020,2,Sun,1:00PM ET,64,5,23,26,104,1,19,39,276,1,61,30,72,18.666666666666668,7.5,42.25,19,22,109,1,29,41,311,1,10,89,64,29.333333333333332,12.5,41.8,L
+2020,3,Sun,4:25PM ET,55,7,13,14,42,0,25,39,229,2,45,30,59,0.0,0.0,45.2,17,25,68,0,25,38,297,0,12,71,65,17.0,7.0,43.8,L
+2020,4,Thu,8:20PM ET,64,6,21,32,117,0,19,31,242,3,0,94,63,17.0,25.5,49.0,18,24,129,0,25,44,246,0,54,118,74,0.0,11.0,48.666666666666664,W
+2020,6,Sun,1:00PM ET,58,7,15,37,135,0,10,24,189,2,25,20,63,14.0,0.0,38.5,14,25,117,1,19,27,195,2,24,4,56,25.666666666666668,0.0,48.333333333333336,W
+2020,7,Sun,4:25PM ET,14,11,24,33,177,2,24,40,254,2,20,34,76,0.0,0.0,53.666666666666664,17,22,101,1,17,25,213,0,28,15,51,61.5,10.5,44.333333333333336,L
+2020,8,Sun,4:05PM ET,64,10,17,16,108,0,26,41,248,1,5,70,59,23.0,8.0,54.166666666666664,28,38,210,0,29,44,278,2,3,67,84,26.0,12.666666666666666,39.0,W
+2020,9,Sun,1:00PM ET,70,0,23,22,103,0,25,48,313,1,11,65,71,24.166666666666668,8.0,45.0,23,32,92,0,25,35,284,1,13,61,69,0.0,13.0,36.6,L
+2020,10,Sun,4:05PM ET,70,0,20,19,66,1,23,47,257,4,10,37,68,19.0,0.0,50.25,21,41,203,0,16,25,154,0,0,82,66,17.5,6.666666666666667,43.5,L
+2020,11,Sun,4:05PM ET,45,7,19,33,189,1,18,30,270,1,0,70,63,22.0,3.3333333333333335,52.0,17,17,56,0,23,38,200,1,33,50,61,0.0,6.0,47.333333333333336,W
+2020,12,Sun,4:05PM ET,38,6,6,33,100,1,1,9,13,2,1,10,43,0.0,0.0,47.42857142857143,19,44,229,0,9,16,78,1,15,35,63,17.0,19.0,45.666666666666664,L
+2020,13,Sun,8:20PM ET,41,9,19,33,179,0,15,28,151,2,0,31,61,25.666666666666668,-2.0,38.333333333333336,25,22,134,0,25,40,318,0,5,44,63,0.0,5.0,37.333333333333336,L
+2020,14,Sun,1:00PM ET,70,7,23,30,96,1,21,27,280,0,11,18,58,5.0,83.0,44.25,22,21,125,0,30,40,283,0,38,48,65,16.0,0.0,43.5,W
+2020,15,Sat,4:30PM ET,47,24,19,28,140,1,20,32,132,0,17,33,63,0.0,0.0,48.5,29,24,182,1,28,40,359,0,7,75,65,34.0,1.75,63.0,L
+2020,16,Sun,4:05PM ET,70,0,23,28,133,0,24,47,264,2,1,44,77,22.2,15.333333333333334,41.333333333333336,16,20,89,0,21,33,253,0,26,45,55,35.666666666666664,0.0,48.25,L
+2020,17,Sun,4:25PM ET,53,10,24,32,122,0,25,41,339,0,15,28,75,16.0,16.0,42.0,22,23,106,2,24,38,371,2,12,111,64,0.0,21.0,49.75,L
+2021,1,Sun,4:25PM ET,82,19,24,28,165,1,28,36,264,0,9,51,66,0.0,12.0,39.0,19,20,60,1,22,37,267,0,13,48,59,33.0,2.0,54.0,W
+2021,2,Sun,1:00PM ET,80,7,22,30,96,0,26,34,328,0,26,101,67,0.0,14.5,45.0,12,16,75,0,14,33,118,2,4,70,50,60.0,2.0,56.75,W
+2021,3,Sun,4:05PM ET,82,6,23,37,120,1,19,25,235,0,12,50,64,0.0,8.0,40.666666666666664,11,13,43,0,19,35,160,2,41,90,53,21.0,0.0,46.666666666666664,W
+2021,4,Sun,4:25PM ET,77,11,15,17,106,0,19,37,178,1,30,25,59,18.0,7.333333333333333,49.1,20,30,102,0,22,37,316,0,12,55,70,0.0,21.333333333333332,47.857142857142854,L
+2021,5,Sun,1:00PM ET,71,9,17,18,106,0,24,38,288,1,20,67,58,20.0,13.0,44.0,19,35,147,1,15,25,253,0,9,59,61,17.5,0.0,59.5,L
+2021,6,Sun,4:25PM ET,76,8,25,23,112,1,35,49,334,3,25,53,77,16.5,0.0,41.0,16,23,86,0,18,27,341,0,1,54,52,0.0,5.0,57.0,L
+2021,7,Thu,8:20PM ET,59,27,15,14,41,0,23,33,187,1,5,15,49,18.666666666666668,8.0,50.5,23,33,182,0,21,33,199,0,5,60,67,26.0,6.5,51.666666666666664,L
+2021,8,Sun,4:25PM ET,41,4,17,21,83,1,19,26,213,0,23,35,51,0.0,15.0,45.0,21,24,112,0,24,39,270,2,40,29,68,0.0,12.0,66.0,W
+2021,9,Sun,1:00PM ET,70,0,23,41,190,0,19,28,249,0,32,37,73,12.0,1.0,31.333333333333332,14,16,78,1,19,39,232,1,20,38,57,44.5,0.0,48.5,W
+2021,10,Sun,4:25PM ET,57,19,17,18,96,1,22,36,226,0,14,29,55,0.0,13.5,53.0,22,39,216,0,16,23,178,1,8,89,64,0.0,4.5,51.333333333333336,L
+2021,12,Sun,4:05PM ET,62,0,23,33,147,0,15,25,155,1,0,35,59,7.0,6.5,41.666666666666664,20,17,72,0,28,44,303,2,18,75,64,0.0,0.0,45.333333333333336,W
+2021,13,Sun,8:20PM ET,58,22,22,31,154,1,22,40,257,2,7,37,72,22.0,2.0,53.333333333333336,15,24,89,0,15,29,184,1,6,60,54,0.0,6.5,47.5,L
+2021,14,Sun,4:05PM ET,63,8,25,39,184,0,18,25,179,0,5,18,65,0.0,6.5,43.333333333333336,17,21,118,1,24,39,215,1,17,53,62,0.0,-4.0,53.0,W
+2021,15,Sun,4:05PM ET,61,19,19,34,133,1,18,34,186,0,27,60,71,0.0,9.0,51.5,12,26,113,0,15,22,157,0,21,38,51,23.0,7.333333333333333,52.57142857142857,L
+2021,16,Sun,4:25PM ET,70,0,8,16,18,0,15,22,153,0,13,30,40,18.0,0.0,44.6,22,40,160,2,20,25,201,1,19,37,67,23.0,6.0,42.5,L
+2021,17,Sun,4:05PM ET,70,0,18,27,83,1,19,28,246,0,10,23,56,0.0,2.0,45.666666666666664,21,35,104,0,22,31,237,0,0,22,66,74.0,2.5,38.333333333333336,L
+2021,18,Sat,4:30PM ET,41,4,18,28,191,1,13,25,178,0,5,45,54,0.0,0.0,48.333333333333336,28,29,135,0,27,44,270,0,15,45,74,0.0,5.0,50.5,L
