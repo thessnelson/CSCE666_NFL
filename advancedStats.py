@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 options = Options()
 options.binary_location = r"C:/Program Files/Mozilla Firefox/firefox.exe"
 global browser
-browser = webdriver.Firefox(options=options, executable_path="C:/Users/Will/geckodriver/geckodriver.exe")
+browser = webdriver.Firefox(options=options, executable_path="D:\School\Fall 22\Pattern Analysis\geckodriver.exe")
 
 def getTables(url):
     browser.get(url=url)
