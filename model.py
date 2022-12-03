@@ -16,10 +16,7 @@ test_data = []
 
 count = 0
 for filename in os.listdir(train_path):
-    if(filename == "rai.csv"): #idk what is wrong with this one but gives error
-        continue
-    else:
-        train_data.append(pd.read_csv(os.path.join(train_path,filename)))
+    train_data.append(pd.read_csv(os.path.join(train_path,filename)))
 
 df_train = pd.concat(train_data, ignore_index=True)
 
