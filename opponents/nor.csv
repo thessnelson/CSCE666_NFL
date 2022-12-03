@@ -1,5 +1,4 @@
 opponent
-atl
 min
 nyg
 crd
@@ -13,7 +12,6 @@ cin
 ram
 sfo
 chi
-ram
 sfo
 oti
 chi
@@ -27,7 +25,6 @@ gnb
 ram
 cle
 atl
-ram
 kan
 sfo
 nyg
@@ -41,7 +38,6 @@ ram
 nyj
 nwe
 gnb
-atl
 dal
 clt
 chi
@@ -55,7 +51,6 @@ ram
 gnb
 sfo
 atl
-sfo
 ram
 atl
 chi
@@ -69,7 +64,6 @@ pit
 min
 crd
 sfo
-was
 cin
 atl
 gnb
@@ -83,7 +77,6 @@ cle
 ram
 nyg
 chi
-min
 dal
 kan
 oti
@@ -97,7 +90,6 @@ sea
 ram
 nwe
 sfo
-gnb
 det
 chi
 sdg
@@ -111,7 +103,6 @@ sfo
 nyj
 tam
 atl
-min
 gnb
 phi
 cin
@@ -127,7 +118,6 @@ atl
 sfo
 oti
 tam
-atl
 gnb
 phi
 sfo
@@ -143,7 +133,6 @@ atl
 rai
 sdg
 ram
-sfo
 chi
 buf
 mia
@@ -159,7 +148,6 @@ min
 sfo
 nyj
 nwe
-atl
 ram
 nyg
 sfo
@@ -175,7 +163,6 @@ tam
 crd
 gnb
 sfo
-crd
 chi
 kan
 sfo
@@ -184,7 +171,6 @@ atl
 dal
 was
 atl
-crd
 ram
 chi
 dal
@@ -200,7 +186,6 @@ min
 nwe
 phi
 ram
-atl
 tam
 sfo
 crd
@@ -216,7 +201,6 @@ sfo
 ram
 cin
 nyg
-kan
 den
 tam
 sfo
@@ -231,7 +215,6 @@ min
 ram
 crd
 sfo
-atl
 atl
 gnb
 sfo
@@ -248,7 +231,6 @@ nwe
 mia
 atl
 min
-cle
 phi
 ram
 crd
@@ -263,7 +245,6 @@ tam
 oti
 cin
 gnb
-sfo
 atl
 det
 tam
@@ -279,7 +260,6 @@ nyg
 min
 sfo
 atl
-dal
 gnb
 tam
 was
@@ -295,7 +275,6 @@ det
 buf
 phi
 clt
-sfo
 min
 crd
 atl
@@ -311,7 +290,6 @@ ram
 pit
 sfo
 ram
-sea
 kan
 ram
 min
@@ -327,7 +305,6 @@ sfo
 dal
 rai
 crd
-phi
 chi
 atl
 sfo
@@ -343,7 +320,6 @@ atl
 ram
 buf
 nyj
-oti
 atl
 det
 sfo
@@ -359,7 +335,6 @@ ram
 nyg
 phi
 cin
-kan
 was
 tam
 sfo
@@ -375,7 +350,6 @@ ram
 atl
 dal
 den
-sfo
 ram
 atl
 nyg
@@ -391,7 +365,6 @@ nwe
 atl
 gnb
 nyj
-sfo
 car
 cin
 crd
@@ -407,7 +380,6 @@ ram
 atl
 nyg
 ram
-ram
 sdg
 sfo
 det
@@ -423,7 +395,6 @@ car
 ram
 crd
 kan
-ram
 car
 clt
 nwe
@@ -439,7 +410,6 @@ dal
 atl
 crd
 buf
-car
 sfo
 chi
 atl
@@ -455,7 +425,6 @@ ram
 rav
 dal
 car
-det
 sdg
 sea
 phi
@@ -471,7 +440,6 @@ den
 sfo
 atl
 ram
-buf
 nyg
 min
 car
@@ -487,7 +455,6 @@ ram
 tam
 was
 sfo
-tam
 gnb
 chi
 det
@@ -503,7 +470,6 @@ rav
 min
 cin
 car
-sea
 htx
 oti
 clt
@@ -519,7 +485,6 @@ tam
 nyg
 jax
 dal
-sea
 sfo
 ram
 crd
@@ -534,7 +499,6 @@ car
 dal
 tam
 atl
-car
 car
 nyg
 min
@@ -551,7 +515,6 @@ atl
 car
 det
 tam
-cle
 gnb
 atl
 car
@@ -567,7 +530,6 @@ dal
 was
 nyg
 car
-clt
 tam
 oti
 car
@@ -583,7 +545,6 @@ atl
 crd
 phi
 chi
-tam
 was
 den
 sfo
@@ -599,7 +560,6 @@ atl
 chi
 det
 car
-det
 phi
 buf
 nyj
@@ -615,7 +575,6 @@ atl
 dal
 tam
 car
-min
 sfo
 atl
 car
@@ -631,7 +590,6 @@ ram
 rav
 atl
 tam
-gnb
 chi
 htx
 jax
@@ -647,7 +605,6 @@ oti
 min
 atl
 car
-was
 car
 kan
 gnb
@@ -663,7 +620,6 @@ nyg
 tam
 dal
 car
-atl
 tam
 crd
 mia
@@ -679,7 +635,6 @@ car
 ram
 car
 tam
-atl
 cle
 min
 dal
@@ -695,7 +650,6 @@ car
 chi
 atl
 tam
-crd
 tam
 car
 dal
@@ -711,7 +665,6 @@ tam
 det
 jax
 atl
-rai
 nyg
 atl
 sdg
@@ -727,7 +680,6 @@ tam
 crd
 tam
 atl
-min
 nwe
 car
 mia
@@ -743,7 +695,6 @@ atl
 nyj
 atl
 tam
-tam
 cle
 atl
 nyg
@@ -759,7 +710,6 @@ tam
 car
 pit
 car
-htx
 ram
 sea
 dal
@@ -775,7 +725,6 @@ sfo
 clt
 oti
 car
-tam
 rai
 gnb
 det
@@ -791,7 +740,6 @@ phi
 kan
 min
 car
-gnb
 car
 nwe
 nyg

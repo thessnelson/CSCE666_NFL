@@ -1,5 +1,4 @@
 opponent
-clt
 rai
 ram
 gnb
@@ -12,7 +11,6 @@ rai
 kan
 cin
 den
-kan
 kan
 rai
 pit
@@ -27,7 +25,6 @@ cin
 min
 den
 oti
-sfo
 den
 rai
 clt
@@ -41,7 +38,6 @@ oti
 rai
 den
 pit
-was
 buf
 cin
 pit
@@ -55,7 +51,6 @@ rai
 nwe
 den
 kan
-oti
 cin
 mia
 phi
@@ -69,7 +64,6 @@ gnb
 nyj
 chi
 den
-pit
 oti
 rai
 ram
@@ -83,7 +77,6 @@ den
 kan
 nyj
 cin
-kan
 tam
 crd
 den
@@ -96,7 +89,6 @@ den
 buf
 kan
 sfo
-rai
 rai
 kan
 cin
@@ -111,7 +103,6 @@ sea
 cle
 den
 pit
-sea
 rai
 den
 gnb
@@ -127,7 +118,6 @@ kan
 chi
 sea
 oti
-sea
 rai
 buf
 nwe
@@ -143,7 +133,6 @@ kan
 atl
 nor
 den
-sea
 rai
 den
 kan
@@ -159,7 +148,6 @@ phi
 was
 sea
 pit
-cle
 det
 kan
 den
@@ -175,7 +163,6 @@ den
 buf
 tam
 rai
-den
 kan
 rai
 den
@@ -184,7 +171,6 @@ sfo
 cin
 clt
 rai
-nyj
 kan
 sea
 cle
@@ -200,7 +186,6 @@ den
 rai
 kan
 rai
-min
 sea
 oti
 rai
@@ -216,7 +201,6 @@ pit
 chi
 den
 kan
-buf
 sea
 cin
 cle
@@ -232,7 +216,6 @@ buf
 pit
 phi
 kan
-mia
 nyg
 was
 rai
@@ -248,7 +231,6 @@ clt
 oti
 sea
 cle
-kan
 crd
 cin
 tam
@@ -263,7 +245,6 @@ oti
 pit
 clt
 den
-rai
 den
 sea
 kan
@@ -279,7 +260,6 @@ sfo
 cin
 pit
 kan
-rai
 oti
 kan
 crd
@@ -295,7 +275,6 @@ nyj
 was
 kan
 den
-dal
 cin
 cle
 oti
@@ -311,7 +290,6 @@ nyj
 den
 kan
 rai
-pit
 sfo
 atl
 den
@@ -327,7 +305,6 @@ rai
 kan
 mia
 den
-kan
 den
 pit
 oti
@@ -342,7 +319,6 @@ rai
 crd
 cin
 rai
-sea
 sea
 den
 oti
@@ -359,7 +335,6 @@ gnb
 kan
 mia
 tam
-den
 cin
 sea
 rai
@@ -375,7 +350,6 @@ rai
 sfo
 nyj
 pit
-rai
 sea
 phi
 den
@@ -391,7 +365,6 @@ cle
 crd
 clt
 nyg
-sea
 cin
 gnb
 rai
@@ -407,7 +380,6 @@ nwe
 pit
 chi
 den
-nwe
 nor
 car
 sea
@@ -423,7 +395,6 @@ den
 atl
 kan
 den
-buf
 oti
 kan
 nyg
@@ -439,7 +410,6 @@ was
 sea
 rai
 crd
-cin
 clt
 kan
 det
@@ -455,7 +425,6 @@ sea
 mia
 rai
 den
-rai
 nor
 kan
 sea
@@ -471,7 +440,6 @@ sfo
 rav
 car
 pit
-was
 dal
 cin
 cle
@@ -487,7 +455,6 @@ phi
 rai
 kan
 sea
-cin
 htx
 crd
 nwe
@@ -503,7 +470,6 @@ rai
 buf
 kan
 sea
-kan
 den
 rav
 rai
@@ -519,7 +485,6 @@ det
 gnb
 pit
 rai
-htx
 nyj
 den
 oti
@@ -535,7 +500,6 @@ tam
 cle
 clt
 kan
-dal
 den
 nyg
 nwe
@@ -551,7 +515,6 @@ mia
 clt
 kan
 den
-rai
 oti
 rav
 pit
@@ -567,7 +530,6 @@ den
 kan
 sea
 crd
-chi
 nwe
 gnb
 kan
@@ -583,7 +545,6 @@ oti
 det
 den
 rai
-car
 den
 nyj
 rai
@@ -599,7 +560,6 @@ rai
 kan
 tam
 den
-rai
 rav
 mia
 pit
@@ -615,7 +575,6 @@ dal
 cin
 oti
 was
-kan
 jax
 sea
 crd
@@ -631,7 +590,6 @@ kan
 sfo
 cin
 den
-min
 nwe
 kan
 mia
@@ -646,7 +604,6 @@ jax
 buf
 rav
 det
-rai
 rai
 oti
 atl
@@ -663,7 +620,6 @@ pit
 car
 nyj
 rai
-htx
 phi
 oti
 dal
@@ -679,7 +635,6 @@ nyg
 den
 rai
 kan
-crd
 sea
 buf
 jax
@@ -695,7 +650,6 @@ nwe
 den
 sfo
 kan
-det
 cin
 min
 cle
@@ -711,7 +665,6 @@ kan
 mia
 rai
 den
-kan
 jax
 clt
 nor
@@ -727,7 +680,6 @@ car
 rai
 cle
 kan
-den
 mia
 kan
 phi
@@ -743,7 +695,6 @@ was
 kan
 nyj
 rai
-kan
 buf
 ram
 sfo
@@ -759,7 +710,6 @@ cin
 kan
 rav
 den
-clt
 det
 htx
 mia
@@ -775,7 +725,6 @@ jax
 min
 rai
 kan
-cin
 kan
 car
 tam
@@ -791,7 +740,6 @@ atl
 rai
 den
 kan
-was
 dal
 kan
 rai

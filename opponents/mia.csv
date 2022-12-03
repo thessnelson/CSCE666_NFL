@@ -1,5 +1,4 @@
 opponent
-nwe
 oti
 rai
 nyj
@@ -13,7 +12,6 @@ atl
 nwe
 nyj
 buf
-den
 buf
 nyj
 cin
@@ -27,7 +25,6 @@ chi
 nwe
 clt
 gnb
-kan
 oti
 min
 nyj
@@ -41,7 +38,6 @@ crd
 nwe
 nyg
 clt
-sfo
 rai
 nwe
 nyj
@@ -55,7 +51,6 @@ dal
 pit
 clt
 det
-nwe
 buf
 sdg
 nyj
@@ -69,7 +64,6 @@ nyj
 cin
 clt
 nwe
-rai
 nwe
 gnb
 phi
@@ -83,7 +77,6 @@ nwe
 buf
 clt
 den
-buf
 nwe
 nyj
 ram
@@ -97,7 +90,6 @@ clt
 cle
 buf
 min
-buf
 sfo
 oti
 clt
@@ -111,7 +103,6 @@ crd
 clt
 nwe
 buf
-nyj
 clt
 buf
 phi
@@ -127,7 +118,6 @@ nyj
 was
 rai
 nwe
-buf
 sea
 min
 chi
@@ -143,7 +133,6 @@ clt
 nwe
 det
 nyj
-buf
 cin
 atl
 nor
@@ -159,7 +148,6 @@ pit
 nwe
 clt
 nyj
-crd
 pit
 oti
 clt
@@ -175,7 +163,6 @@ phi
 nwe
 kan
 buf
-nyj
 clt
 buf
 tam
@@ -184,7 +171,6 @@ nwe
 nyj
 buf
 clt
-buf
 nwe
 rai
 kan
@@ -200,7 +186,6 @@ cin
 oti
 atl
 nyj
-was
 nwe
 buf
 clt
@@ -216,7 +201,6 @@ nyj
 rai
 clt
 dal
-oti
 clt
 kan
 den
@@ -232,7 +216,6 @@ chi
 gnb
 nwe
 buf
-sdg
 clt
 nyj
 sfo
@@ -248,7 +231,6 @@ atl
 nor
 ram
 nwe
-nwe
 clt
 sea
 kan
@@ -263,7 +245,6 @@ nyj
 phi
 was
 nwe
-chi
 buf
 gnb
 clt
@@ -279,7 +260,6 @@ nyj
 clt
 cle
 pit
-buf
 nwe
 nyj
 oti
@@ -295,7 +275,6 @@ kan
 nwe
 clt
 kan
-nwe
 buf
 nyg
 pit
@@ -311,7 +290,6 @@ phi
 sea
 buf
 clt
-buf
 clt
 det
 gnb
@@ -327,7 +305,6 @@ tam
 cin
 sdg
 nyj
-cle
 ram
 sea
 buf
@@ -343,7 +320,6 @@ sfo
 rai
 nyj
 nwe
-clt
 nyj
 buf
 was
@@ -358,7 +334,6 @@ nyg
 pit
 buf
 sdg
-nwe
 nwe
 gnb
 nyj
@@ -375,7 +350,6 @@ buf
 kan
 clt
 det
-nyj
 nwe
 pit
 cin
@@ -391,7 +365,6 @@ atl
 kan
 buf
 ram
-nwe
 crd
 nyj
 clt
@@ -407,7 +380,6 @@ rai
 nyg
 buf
 nyj
-clt
 oti
 gnb
 tam
@@ -423,7 +395,6 @@ rai
 det
 clt
 nwe
-clt
 buf
 pit
 nyj
@@ -439,7 +410,6 @@ rai
 nyj
 den
 atl
-den
 crd
 buf
 clt
@@ -455,7 +425,6 @@ nyj
 sdg
 nyj
 was
-sea
 min
 rav
 nwe
@@ -471,7 +440,6 @@ buf
 tam
 clt
 nwe
-oti
 rai
 ram
 nwe
@@ -487,7 +455,6 @@ sfo
 nwe
 atl
 buf
-det
 clt
 nyj
 kan
@@ -503,7 +470,6 @@ chi
 rai
 min
 nwe
-htx
 nyj
 buf
 nyg
@@ -519,7 +485,6 @@ nwe
 phi
 buf
 nyj
-oti
 cin
 pit
 nyj
@@ -535,7 +500,6 @@ den
 nwe
 cle
 rav
-den
 nyj
 car
 buf
@@ -551,7 +515,6 @@ sdg
 nyj
 oti
 nwe
-pit
 buf
 oti
 htx
@@ -567,7 +530,6 @@ nwe
 buf
 nyj
 clt
-was
 dal
 nyj
 rai
@@ -583,7 +545,6 @@ buf
 rav
 nwe
 cin
-nyj
 crd
 nwe
 sdg
@@ -599,7 +560,6 @@ buf
 sfo
 kan
 nyj
-atl
 clt
 sdg
 buf
@@ -615,7 +575,6 @@ jax
 oti
 htx
 pit
-buf
 min
 nyj
 nwe
@@ -630,7 +589,6 @@ cle
 nyj
 buf
 det
-nwe
 nwe
 htx
 cle
@@ -647,7 +605,6 @@ phi
 buf
 nwe
 nyj
-htx
 rai
 nyj
 crd
@@ -663,7 +620,6 @@ sfo
 jax
 buf
 nwe
-cle
 clt
 atl
 nor
@@ -679,7 +635,6 @@ pit
 nwe
 buf
 nyj
-nwe
 buf
 kan
 rai
@@ -695,7 +650,6 @@ rav
 nwe
 min
 nyj
-was
 jax
 buf
 nyj
@@ -711,7 +665,6 @@ nyg
 sdg
 clt
 nwe
-sea
 nwe
 cle
 cin
@@ -727,7 +680,6 @@ crd
 nyj
 buf
 nwe
-sdg
 nyj
 nor
 oti
@@ -743,7 +695,6 @@ nwe
 buf
 kan
 buf
-oti
 nyj
 rai
 nwe
@@ -759,7 +710,6 @@ nwe
 min
 jax
 buf
-rav
 nwe
 dal
 sdg
@@ -774,7 +724,6 @@ phi
 nyj
 nyg
 cin
-nwe
 nwe
 buf
 jax
@@ -791,7 +740,6 @@ kan
 nwe
 rai
 buf
-nwe
 buf
 rai
 clt

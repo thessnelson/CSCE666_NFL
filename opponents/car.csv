@@ -1,5 +1,4 @@
 opponent
-atl
 buf
 ram
 tam
@@ -15,7 +14,6 @@ clt
 sfo
 atl
 was
-atl
 nor
 sfo
 jax
@@ -31,7 +29,6 @@ tam
 sfo
 rav
 pit
-was
 atl
 sdg
 kan
@@ -47,7 +44,6 @@ nor
 dal
 gnb
 ram
-atl
 nor
 gnb
 atl
@@ -63,7 +59,6 @@ sfo
 was
 ram
 clt
-nor
 jax
 cin
 was
@@ -79,7 +74,6 @@ gnb
 sfo
 pit
 nor
-was
 sfo
 atl
 dal
@@ -95,7 +89,6 @@ ram
 kan
 sdg
 rai
-min
 atl
 gnb
 sfo
@@ -111,7 +104,6 @@ buf
 ram
 crd
 nwe
-rav
 det
 min
 gnb
@@ -127,7 +119,6 @@ cin
 pit
 chi
 nor
-jax
 tam
 atl
 nor
@@ -143,7 +134,6 @@ atl
 crd
 det
 nyg
-gnb
 kan
 atl
 den
@@ -158,7 +148,6 @@ nor
 ram
 atl
 tam
-nor
 nor
 nwe
 mia
@@ -175,7 +164,6 @@ tam
 nor
 dal
 atl
-atl
 min
 tam
 nor
@@ -191,7 +179,6 @@ nyg
 pit
 atl
 nor
-ram
 htx
 atl
 tam
@@ -207,7 +194,6 @@ jax
 sea
 dal
 tam
-sdg
 chi
 min
 atl
@@ -223,7 +209,6 @@ tam
 den
 nyg
 nor
-phi
 atl
 dal
 was
@@ -239,7 +224,6 @@ nwe
 min
 nyg
 nor
-nyg
 tam
 cin
 nor
@@ -255,7 +239,6 @@ atl
 crd
 pit
 atl
-crd
 gnb
 jax
 chi
@@ -271,7 +254,6 @@ atl
 htx
 tam
 nor
-tam
 nor
 nyg
 atl
@@ -287,7 +269,6 @@ atl
 sdg
 rai
 nor
-sea
 buf
 nyg
 crd
@@ -303,7 +284,6 @@ nor
 nyj
 nor
 atl
-tam
 det
 pit
 rav
@@ -319,7 +299,6 @@ nor
 tam
 cle
 atl
-jax
 htx
 nor
 tam
@@ -335,7 +314,6 @@ atl
 nyg
 atl
 tam
-den
 sfo
 min
 atl
@@ -351,7 +329,6 @@ sdg
 was
 atl
 tam
-sfo
 buf
 nor
 nwe
@@ -367,7 +344,6 @@ min
 gnb
 tam
 atl
-dal
 atl
 cin
 nyg
@@ -383,7 +359,6 @@ cle
 nor
 atl
 nor
-ram
 tam
 crd
 htx
@@ -399,7 +374,6 @@ atl
 sea
 clt
 nor
-rai
 tam
 sdg
 crd
@@ -415,7 +389,6 @@ den
 gnb
 was
 nor
-nyj
 nor
 htx
 dal

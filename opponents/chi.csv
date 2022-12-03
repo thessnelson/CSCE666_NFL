@@ -1,5 +1,4 @@
 opponent
-nyg
 phi
 det
 min
@@ -13,7 +12,6 @@ clt
 min
 gnb
 nor
-pit
 min
 ram
 nor
@@ -27,7 +25,6 @@ mia
 den
 gnb
 min
-atl
 ram
 det
 gnb
@@ -41,7 +38,6 @@ cin
 min
 phi
 rai
-dal
 min
 den
 nor
@@ -55,7 +51,6 @@ min
 ram
 det
 gnb
-det
 nyj
 min
 nor
@@ -69,7 +64,6 @@ det
 nyg
 sdg
 was
-clt
 phi
 min
 det
@@ -83,7 +77,6 @@ gnb
 det
 crd
 nor
-det
 sfo
 atl
 was
@@ -97,7 +90,6 @@ det
 gnb
 sea
 den
-det
 crd
 nor
 ram
@@ -111,7 +103,6 @@ det
 tam
 gnb
 nyg
-crd
 sfo
 det
 min
@@ -127,7 +118,6 @@ tam
 sdg
 gnb
 was
-gnb
 min
 dal
 mia
@@ -143,7 +133,6 @@ det
 tam
 gnb
 crd
-gnb
 nor
 min
 pit
@@ -159,7 +148,6 @@ det
 gnb
 cin
 tam
-gnb
 sfo
 tam
 ram
@@ -175,7 +163,6 @@ dal
 min
 rai
 den
-det
 nor
 det
 min
@@ -184,7 +171,6 @@ sea
 crd
 ram
 tam
-atl
 tam
 nor
 clt
@@ -200,7 +186,6 @@ sfo
 gnb
 min
 gnb
-tam
 den
 gnb
 sea
@@ -216,7 +201,6 @@ min
 sdg
 gnb
 det
-tam
 nwe
 min
 was
@@ -232,7 +216,6 @@ mia
 clt
 nyj
 det
-cle
 phi
 gnb
 cin
@@ -248,7 +231,6 @@ pit
 tam
 det
 dal
-nyg
 tam
 phi
 min
@@ -263,7 +245,6 @@ min
 sfo
 sea
 rai
-mia
 clt
 min
 gnb
@@ -279,7 +260,6 @@ gnb
 ram
 det
 min
-cin
 min
 det
 phi
@@ -295,7 +275,6 @@ min
 det
 gnb
 sfo
-sea
 gnb
 min
 rai
@@ -311,7 +290,6 @@ was
 det
 tam
 kan
-min
 tam
 nyg
 nyj
@@ -327,7 +305,6 @@ det
 gnb
 tam
 sfo
-det
 nor
 nyg
 atl
@@ -343,7 +320,6 @@ oti
 pit
 det
 dal
-nyg
 min
 tam
 atl
@@ -359,7 +335,6 @@ tam
 den
 det
 ram
-tam
 phi
 min
 nyj
@@ -375,7 +350,6 @@ min
 gnb
 ram
 nwe
-min
 gnb
 tam
 ram
@@ -391,7 +365,6 @@ det
 cin
 tam
 phi
-dal
 was
 min
 det
@@ -407,7 +380,6 @@ gnb
 ram
 sdg
 tam
-gnb
 min
 det
 nwe
@@ -423,7 +395,6 @@ det
 buf
 ram
 tam
-jax
 pit
 tam
 min
@@ -439,7 +410,6 @@ min
 gnb
 rav
 gnb
-kan
 sea
 rai
 nor
@@ -455,7 +425,6 @@ gnb
 det
 ram
 tam
-min
 tam
 nyg
 det
@@ -471,7 +440,6 @@ gnb
 nwe
 sfo
 det
-rav
 min
 atl
 crd
@@ -487,7 +455,6 @@ tam
 was
 det
 jax
-min
 atl
 nor
 buf
@@ -503,7 +470,6 @@ mia
 nyj
 car
 tam
-sfo
 min
 gnb
 rai
@@ -519,7 +485,6 @@ gnb
 min
 was
 kan
-det
 gnb
 min
 phi
@@ -535,7 +500,6 @@ jax
 htx
 det
 gnb
-was
 det
 cin
 cle
@@ -551,7 +515,6 @@ pit
 atl
 gnb
 min
-gnb
 det
 min
 sea
@@ -567,7 +530,6 @@ ram
 tam
 det
 gnb
-sdg
 kan
 dal
 det
@@ -583,7 +545,6 @@ was
 min
 gnb
 nor
-clt
 car
 tam
 phi
@@ -599,7 +560,6 @@ jax
 nor
 gnb
 htx
-gnb
 pit
 sea
 det
@@ -614,7 +574,6 @@ ram
 gnb
 rav
 min
-det
 det
 dal
 gnb
@@ -631,7 +590,6 @@ nwe
 min
 nyj
 gnb
-atl
 nor
 gnb
 car
@@ -647,7 +605,6 @@ den
 sea
 gnb
 min
-clt
 gnb
 ram
 dal
@@ -663,7 +620,6 @@ min
 gnb
 crd
 det
-cin
 min
 pit
 det
@@ -679,7 +635,6 @@ dal
 cle
 phi
 gnb
-buf
 sfo
 nyj
 gnb
@@ -695,7 +650,6 @@ dal
 nor
 det
 min
-gnb
 crd
 sea
 rai
@@ -711,7 +665,6 @@ was
 min
 tam
 det
-htx
 phi
 dal
 det
@@ -727,7 +680,6 @@ det
 gnb
 was
 min
-atl
 tam
 pit
 gnb
@@ -743,7 +695,6 @@ cin
 det
 cle
 min
-gnb
 sea
 crd
 tam
@@ -759,7 +710,6 @@ ram
 gnb
 sfo
 min
-gnb
 den
 was
 min
@@ -775,7 +725,6 @@ dal
 gnb
 kan
 min
-det
 nyg
 atl
 clt
@@ -791,7 +740,6 @@ htx
 min
 jax
 gnb
-ram
 cin
 cle
 det

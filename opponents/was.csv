@@ -1,5 +1,4 @@
 opponent
-sfo
 crd
 phi
 det
@@ -12,7 +11,6 @@ dal
 nyg
 dal
 phi
-crd
 crd
 nyg
 dal
@@ -27,7 +25,6 @@ phi
 nyg
 ram
 cle
-min
 crd
 nwe
 phi
@@ -41,7 +38,6 @@ gnb
 phi
 dal
 buf
-sdg
 crd
 phi
 dal
@@ -55,7 +51,6 @@ det
 nyg
 dal
 phi
-nyg
 crd
 den
 cin
@@ -69,7 +64,6 @@ phi
 dal
 ram
 chi
-nor
 nyg
 phi
 crd
@@ -83,7 +77,6 @@ min
 atl
 dal
 phi
-nyg
 sea
 phi
 chi
@@ -97,7 +90,6 @@ crd
 phi
 nyj
 dal
-nyg
 atl
 crd
 tam
@@ -111,7 +103,6 @@ dal
 buf
 crd
 ram
-nwe
 phi
 crd
 nyj
@@ -127,7 +118,6 @@ dal
 mia
 atl
 chi
-oti
 det
 nyg
 crd
@@ -142,7 +132,6 @@ dal
 nyg
 gnb
 cin
-dal
 dal
 nyg
 rai
@@ -159,7 +148,6 @@ atl
 sdg
 nyg
 crd
-dal
 nyg
 crd
 phi
@@ -175,7 +163,6 @@ buf
 phi
 clt
 ram
-phi
 tam
 nyg
 phi
@@ -184,7 +171,6 @@ crd
 nyg
 nor
 crd
-dal
 phi
 kan
 sea
@@ -200,7 +186,6 @@ phi
 atl
 dal
 nyg
-mia
 sfo
 nyg
 nwe
@@ -216,7 +201,6 @@ buf
 min
 dal
 crd
-dal
 oti
 phi
 chi
@@ -232,7 +216,6 @@ sfo
 phi
 cin
 crd
-phi
 rai
 sdg
 sea
@@ -247,7 +230,6 @@ dal
 crd
 nyg
 den
-phi
 phi
 atl
 crd
@@ -263,7 +245,6 @@ crd
 dal
 mia
 min
-nyg
 pit
 phi
 crd
@@ -279,7 +260,6 @@ cle
 phi
 dal
 cin
-nyg
 phi
 dal
 nor
@@ -295,7 +275,6 @@ crd
 sdg
 atl
 sea
-crd
 sfo
 dal
 crd
@@ -311,7 +290,6 @@ chi
 nwe
 clt
 buf
-det
 dal
 crd
 cin
@@ -327,7 +305,6 @@ ram
 crd
 nyg
 phi
-dal
 atl
 det
 crd
@@ -343,7 +320,6 @@ nyg
 dal
 phi
 rai
-dal
 crd
 phi
 mia
@@ -359,7 +335,6 @@ nyj
 atl
 dal
 min
-sea
 nor
 nyg
 atl
@@ -375,7 +350,6 @@ tam
 crd
 tam
 ram
-crd
 rai
 den
 tam
@@ -391,7 +365,6 @@ dal
 nyg
 ram
 car
-phi
 chi
 nyg
 ram
@@ -407,7 +380,6 @@ dal
 tam
 crd
 dal
-car
 pit
 crd
 jax
@@ -423,7 +395,6 @@ ram
 crd
 nyg
 phi
-nyg
 sfo
 sea
 den
@@ -438,7 +409,6 @@ rai
 sdg
 car
 tam
-dal
 dal
 nyg
 nyj
@@ -455,7 +425,6 @@ crd
 clt
 sfo
 mia
-car
 det
 dal
 nyg
@@ -471,7 +440,6 @@ nyg
 dal
 pit
 crd
-sdg
 gnb
 kan
 nyg
@@ -486,7 +454,6 @@ crd
 phi
 chi
 nor
-crd
 crd
 phi
 sfo
@@ -503,7 +470,6 @@ nyg
 phi
 htx
 dal
-nyj
 atl
 nyg
 nwe
@@ -519,7 +485,6 @@ nyg
 dal
 chi
 phi
-tam
 nyg
 dal
 cle
@@ -535,7 +500,6 @@ phi
 sfo
 dal
 min
-chi
 dal
 sea
 den
@@ -551,7 +515,6 @@ crd
 dal
 nyg
 phi
-min
 dal
 htx
 jax
@@ -567,7 +530,6 @@ phi
 nor
 ram
 nyg
-mia
 phi
 nyg
 det
@@ -583,7 +545,6 @@ chi
 nyg
 min
 dal
-nyg
 nor
 crd
 dal
@@ -599,7 +560,6 @@ rav
 cin
 phi
 sfo
-nyg
 ram
 det
 tam
@@ -615,7 +575,6 @@ rai
 nyg
 dal
 sdg
-dal
 htx
 ram
 phi
@@ -630,7 +589,6 @@ nyg
 tam
 dal
 jax
-nyg
 nyg
 crd
 dal
@@ -647,7 +605,6 @@ nwe
 nyg
 min
 phi
-nor
 ram
 cin
 tam
@@ -663,7 +620,6 @@ rav
 cle
 phi
 dal
-phi
 gnb
 det
 rai
@@ -679,7 +635,6 @@ kan
 atl
 dal
 nyg
-htx
 jax
 phi
 nyg
@@ -695,7 +650,6 @@ ram
 nyg
 phi
 dal
-mia
 ram
 nyg
 phi
@@ -711,7 +665,6 @@ chi
 buf
 phi
 dal
-pit
 dal
 nyg
 cle
@@ -727,7 +680,6 @@ phi
 car
 chi
 nyg
-phi
 ram
 rai
 kan
@@ -743,7 +695,6 @@ sdg
 crd
 den
 nyg
-crd
 clt
 gnb
 nor
@@ -758,7 +709,6 @@ phi
 nyg
 jax
 oti
-phi
 phi
 dal
 chi
@@ -775,7 +725,6 @@ gnb
 phi
 nyg
 dal
-phi
 crd
 cle
 rav
@@ -791,7 +740,6 @@ sfo
 sea
 car
 phi
-sdg
 nyg
 buf
 atl
